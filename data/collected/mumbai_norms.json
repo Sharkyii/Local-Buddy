@@ -1,0 +1,138 @@
+[
+  {
+    "id": "norm_local_train_culture_mumbai",
+    "city": "mumbai",
+    "title": "Local Train Commuter Culture",
+    "category": "transport",
+    "description": "Mumbai's suburban local trains move millions daily and run on a culture of their own: boarding/alighting happens fast (sometimes while the train is still slowing down), ladies' compartments are strictly respected, and personal space during rush hour is essentially nonexistent.",
+    "context": {
+      "where": ["railway_stations", "local_trains", "platforms"],
+      "when": ["weekday_rush_hours", "anytime"],
+      "with_whom": ["commuters", "strangers"]
+    },
+    "dos": [
+      "Stand clear of the doors and let people exit before boarding",
+      "Use the ladies' compartment if traveling as a woman during peak hours",
+      "Keep moving once on the platform — Mumbai's pace expects quick transitions"
+    ],
+    "donts": [
+      "Don't block doorways or stand in the gangway during rush hour",
+      "Don't expect personal space on a packed train — it's normal, not rude",
+      "Don't enter a ladies' compartment as a man, even briefly"
+    ],
+    "embarrassment_risk": 6,
+    "prevalence": "very_common",
+    "acceptability": "neutral",
+    "gender_specific": true,
+    "relevance_for_travelers": "high",
+    "confidence_score": 0.9
+  },
+  {
+    "id": "norm_liberal_social_culture_mumbai",
+    "city": "mumbai",
+    "title": "Liberal & Cosmopolitan Social Norms",
+    "category": "social",
+    "description": "As India's entertainment and financial capital, Mumbai has a famously cosmopolitan social scene — mixed-gender friend groups, couples on dates in public, and Western-style clothing are all common and draw little attention, especially in central and western suburbs.",
+    "context": {
+      "where": ["cafes", "malls", "promenades", "colleges", "office_areas"],
+      "when": ["evenings", "weekends"],
+      "with_whom": ["friends", "partners", "colleagues"]
+    },
+    "dos": [
+      "Dress as you would in any major global city — it blends right in",
+      "Expect mixed-gender groups socializing openly in public spaces",
+      "Feel free to ask for recommendations — Mumbaikars are used to newcomers"
+    ],
+    "donts": [
+      "Don't assume the liberal vibe of South Mumbai applies uniformly everywhere — older/traditional pockets exist too",
+      "Don't mistake big-city anonymity for rudeness; people are just in a hurry"
+    ],
+    "embarrassment_risk": 3,
+    "prevalence": "common",
+    "acceptability": "fully_accepted",
+    "gender_specific": false,
+    "relevance_for_travelers": "medium",
+    "confidence_score": 0.83
+  },
+  {
+    "id": "norm_street_food_culture_mumbai",
+    "city": "mumbai",
+    "title": "Street Food & Eating-on-the-Go Culture",
+    "category": "food",
+    "description": "Vada pav, pav bhaji, bhel puri and cutting chai are everyday staples — eaten standing at a stall, walking to work, or grabbed between train rides. Eating on the go is completely normal and not seen as rushed or impolite.",
+    "context": {
+      "where": ["street_stalls", "railway_stations", "office_areas", "beaches"],
+      "when": ["breakfast", "evening_snack_time", "anytime"],
+      "with_whom": ["colleagues", "friends", "solo"]
+    },
+    "dos": [
+      "Try vada pav and pav bhaji from a busy, high-turnover stall (a sign of freshness)",
+      "Carry small change — most stalls are cash-only and quick-moving",
+      "Ask locals for their go-to spot; everyone has a strong opinion"
+    ],
+    "donts": [
+      "Don't expect table service or a sit-down experience at street stalls",
+      "Don't be surprised by the spice level — ask for 'kam teekha' (less spicy) if needed"
+    ],
+    "embarrassment_risk": 2,
+    "prevalence": "very_common",
+    "acceptability": "fully_accepted",
+    "gender_specific": false,
+    "relevance_for_travelers": "high",
+    "confidence_score": 0.88
+  },
+  {
+    "id": "norm_fast_paced_life_mumbai",
+    "city": "mumbai",
+    "title": "Fast-Paced \"Spirit of Mumbai\"",
+    "category": "general",
+    "description": "Mumbai prides itself on never stopping — long work hours, quick walking pace, and a general impatience with slowness (in queues, traffic, conversations) are part of daily life. Time is treated as a scarce resource, especially on weekdays.",
+    "context": {
+      "where": ["offices", "stations", "streets", "markets"],
+      "when": ["weekdays", "rush_hours"],
+      "with_whom": ["colleagues", "commuters", "service_staff"]
+    },
+    "dos": [
+      "Walk at the local pace, especially in stations and busy streets",
+      "Get to the point quickly in conversations and transactions",
+      "Plan extra buffer time for travel — distances can be deceiving given traffic"
+    ],
+    "donts": [
+      "Don't block foot traffic to take photos or check your phone",
+      "Don't take brisk, efficient interactions personally — it's the city's rhythm, not rudeness"
+    ],
+    "embarrassment_risk": 4,
+    "prevalence": "very_common",
+    "acceptability": "neutral",
+    "gender_specific": false,
+    "relevance_for_travelers": "medium",
+    "confidence_score": 0.82
+  },
+  {
+    "id": "norm_tipping_culture_mumbai",
+    "city": "mumbai",
+    "title": "Tipping & Rounding Up for Service",
+    "category": "general",
+    "description": "Small tips or rounding up the fare are common (though not mandatory) for taxi and auto-rickshaw drivers, food delivery riders, hotel porters, and valet staff — a quiet courtesy that's appreciated more than expected.",
+    "context": {
+      "where": ["taxis", "restaurants", "hotels", "delivery"],
+      "when": ["after_service"],
+      "with_whom": ["drivers", "waitstaff", "delivery_riders", "porters"]
+    },
+    "dos": [
+      "Round up auto/taxi fares to the nearest convenient amount",
+      "Tip ₹20-50 for hotel porters and valet staff",
+      "Check if a service charge is already included before tipping at restaurants"
+    ],
+    "donts": [
+      "Don't feel obligated to tip large amounts — small gestures are the norm",
+      "Don't assume tipping is expected everywhere; it's appreciated, not demanded"
+    ],
+    "embarrassment_risk": 2,
+    "prevalence": "common",
+    "acceptability": "neutral",
+    "gender_specific": false,
+    "relevance_for_travelers": "medium",
+    "confidence_score": 0.78
+  }
+]

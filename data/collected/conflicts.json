@@ -1,0 +1,37 @@
+[
+  {
+    "norm1_id": "norm_bargaining_bangalore",
+    "norm2_id": "norm_bargaining_ahmedabad",
+    "conflict_type": "uncommon_vs_expected",
+    "confidence": 0.85,
+    "embarrassment_risk": 6
+  },
+  {
+    "norm1_id": "norm_dress_code_bangalore",
+    "norm2_id": "norm_dress_code_ahmedabad",
+    "conflict_type": "liberal_vs_conservative",
+    "confidence": 0.82,
+    "embarrassment_risk": 7
+  },
+  {
+    "norm1_id": "norm_food_culture_bangalore",
+    "norm2_id": "norm_vegetarian_culture_ahmedabad",
+    "conflict_type": "mixed_vs_vegetarian",
+    "confidence": 0.84,
+    "embarrassment_risk": 4
+  },
+  {
+    "norm1_id": "norm_punctuality_bangalore",
+    "norm2_id": "norm_punctuality_ahmedabad",
+    "conflict_type": "strict_vs_flexible",
+    "confidence": 0.80,
+    "embarrassment_risk": 5
+  },
+  {
+    "norm1_id": "norm_nightlife_alcohol_bangalore",
+    "norm2_id": "norm_alcohol_prohibition_ahmedabad",
+    "conflict_type": "liberal_vs_prohibited",
+    "confidence": 0.93,
+    "embarrassment_risk": 9
+  }
+]

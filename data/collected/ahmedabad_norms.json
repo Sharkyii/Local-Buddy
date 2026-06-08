@@ -1,0 +1,173 @@
+[
+  {
+    "id": "norm_bargaining_ahmedabad",
+    "city": "ahmedabad",
+    "title": "Bargaining in Markets",
+    "category": "general",
+    "description": "Bargaining is expected and welcomed in traditional markets. Shops have flexible pricing and expect negotiation.",
+    "context": {
+      "where": ["street_markets", "traditional_bazaars", "souvenir_shops"],
+      "when": ["morning", "afternoon"],
+      "with_whom": ["shopkeepers", "street_vendors"]
+    },
+    "dos": [
+      "Start bargaining at 60-70% of the asking price",
+      "Be respectful and good-humored",
+      "Bargain only if you're serious about buying",
+      "Ask for discounts politely"
+    ],
+    "donts": [
+      "Don't insult the quality of goods",
+      "Don't bargain too aggressively",
+      "Don't expect fixed-price retailers to negotiate",
+      "Don't bargain in upscale malls"
+    ],
+    "embarrassment_risk": 6,
+    "prevalence": "common",
+    "acceptability": "acceptable",
+    "gender_specific": false,
+    "relevance_for_travelers": "high",
+    "confidence_score": 0.92
+  },
+  {
+    "id": "norm_dress_code_ahmedabad",
+    "city": "ahmedabad",
+    "title": "Dress Modestly in Traditional Areas",
+    "category": "social",
+    "description": "In traditional neighborhoods and religious sites, dressing modestly is expected. Bare shoulders, short skirts are frowned upon.",
+    "context": {
+      "where": ["traditional_neighborhoods", "temples", "mosques", "residential_areas"],
+      "when": ["always"],
+      "with_whom": ["locals", "elders"]
+    },
+    "dos": [
+      "Cover shoulders and knees in traditional areas",
+      "Wear full pants or long skirt",
+      "Cover hair when entering temples/mosques",
+      "Be respectful of religious sites"
+    ],
+    "donts": [
+      "Don't wear sleeveless tops in markets",
+      "Don't wear short skirts/shorts in conservative areas",
+      "Don't wear revealing clothing in temples"
+    ],
+    "embarrassment_risk": 7,
+    "prevalence": "common",
+    "acceptability": "acceptable",
+    "gender_specific": true,
+    "relevance_for_travelers": "high",
+    "confidence_score": 0.88
+  },
+  {
+    "id": "norm_vegetarian_culture_ahmedabad",
+    "city": "ahmedabad",
+    "title": "Strong Vegetarian Culture",
+    "category": "food",
+    "description": "About 40-50% of Ahmedabad's population is vegetarian (Jain, Hindu). Vegetarian food is widely available and respected.",
+    "context": {
+      "where": ["everywhere"],
+      "when": ["mealtimes"],
+      "with_whom": ["locals", "restaurant staff"]
+    },
+    "dos": [
+      "Respect vegetarian preferences if asked",
+      "Always ask about ingredients",
+      "Visit vegetarian restaurants for authentic cuisine",
+      "Try traditional Gujarati vegetarian thalis"
+    ],
+    "donts": [
+      "Don't assume all Indians eat meat",
+      "Don't mock vegetarian choices",
+      "Don't serve non-vegetarian food to vegetarians without asking"
+    ],
+    "embarrassment_risk": 4,
+    "prevalence": "very_common",
+    "acceptability": "acceptable",
+    "gender_specific": false,
+    "relevance_for_travelers": "medium",
+    "confidence_score": 0.95
+  },
+  {
+    "id": "norm_punctuality_ahmedabad",
+    "city": "ahmedabad",
+    "title": "Flexible Punctuality (IST - Indian Standard Time)",
+    "category": "work_culture",
+    "description": "Meetings and social events often start 15-30 minutes late. Flexible attitude to time is normal.",
+    "context": {
+      "where": ["business", "social", "casual"],
+      "when": ["meetings", "events"],
+      "with_whom": ["colleagues", "friends"]
+    },
+    "dos": [
+      "Arrive 10-15 minutes early for important meetings",
+      "Don't be upset if others arrive late",
+      "Be flexible with timing"
+    ],
+    "donts": [
+      "Don't arrive exactly on time for social events",
+      "Don't complain if things start late"
+    ],
+    "embarrassment_risk": 3,
+    "prevalence": "very_common",
+    "acceptability": "neutral",
+    "gender_specific": false,
+    "relevance_for_travelers": "medium",
+    "confidence_score": 0.80
+  },
+  {
+    "id": "norm_spitting_ahmedabad",
+    "city": "ahmedabad",
+    "title": "Public Spitting - Taboo & Fined",
+    "category": "general",
+    "description": "Public spitting is illegal and heavily fined. Much stricter enforcement than in smaller cities.",
+    "context": {
+      "where": ["public_spaces", "streets", "buses"],
+      "when": ["always"],
+      "with_whom": ["police", "public"]
+    },
+    "dos": [
+      "Dispose of pan/tobacco responsibly",
+      "Use dustbins",
+      "Keep public spaces clean"
+    ],
+    "donts": [
+      "Don't spit in public",
+      "Don't throw litter",
+      "Don't expectorate on streets"
+    ],
+    "embarrassment_risk": 8,
+    "prevalence": "rare",
+    "acceptability": "unacceptable",
+    "gender_specific": false,
+    "relevance_for_travelers": "low",
+    "confidence_score": 0.90
+  },
+  {
+    "id": "norm_alcohol_prohibition_ahmedabad",
+    "city": "ahmedabad",
+    "title": "Alcohol Prohibition (Dry State)",
+    "category": "general",
+    "description": "Gujarat is a dry state — sale and public consumption of alcohol is illegal. Visitors need a permit to legally possess alcohol, and bars/liquor stores don't exist the way they do elsewhere in India.",
+    "context": {
+      "where": ["everywhere"],
+      "when": ["always"],
+      "with_whom": ["police", "hotel staff"]
+    },
+    "dos": [
+      "Apply for a tourist liquor permit at designated counters if you need one",
+      "Drink only in licensed permit rooms at certain hotels",
+      "Respect the prohibition even if it feels unusual"
+    ],
+    "donts": [
+      "Don't carry alcohol across the state border without a permit",
+      "Don't expect to find bars, pubs or liquor stores",
+      "Don't get visibly intoxicated in public"
+    ],
+    "embarrassment_risk": 9,
+    "prevalence": "very_common",
+    "acceptability": "unacceptable",
+    "gender_specific": false,
+    "relevance_for_travelers": "high",
+    "confidence_score": 0.96
+  }
+]

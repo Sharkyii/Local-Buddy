@@ -1,0 +1,34 @@
+[
+  {
+    "id": "area_indiranagar_bangalore",
+    "name": "Indiranagar",
+    "city": "bangalore",
+    "locality_type": "trendy_residential",
+    "coordinates": {"lat": 12.9719, "lng": 77.6412},
+    "population": 180000,
+    "average_rent_1bhk": 35000,
+    "lifestyle_tags": ["trendy", "cafes", "nightlife", "young_professionals"],
+    "safety_level": "safe",
+    "public_transport_score": 8,
+    "walkability_score": 8,
+    "cultural_vibe": "young_progressive",
+    "area_reputation": "trendy_expensive",
+    "notable_for": ["100 Feet Road", "Pubs & breweries", "Boutique cafes", "Co-working spaces"]
+  },
+  {
+    "id": "area_whitefield_bangalore",
+    "name": "Whitefield",
+    "city": "bangalore",
+    "locality_type": "modern_residential",
+    "coordinates": {"lat": 12.9698, "lng": 77.7500},
+    "population": 250000,
+    "average_rent_1bhk": 28000,
+    "lifestyle_tags": ["tech_hub", "modern", "malls", "expat_friendly"],
+    "safety_level": "safe",
+    "public_transport_score": 6,
+    "walkability_score": 6,
+    "cultural_vibe": "cosmopolitan_techie",
+    "area_reputation": "it_corridor",
+    "notable_for": ["Tech parks", "Phoenix Marketcity Mall", "International schools", "Apartment communities"]
+  }
+]

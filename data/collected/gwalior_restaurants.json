@@ -1,0 +1,1261 @@
+[
+  {
+    "id": "alfanzo_gwalior",
+    "name": "Alfanzo",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2090183,
+      "lng": 78.1877501
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968736"
+  },
+  {
+    "id": "mcdonald's_gwalior",
+    "name": "McDonald's",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2097788,
+      "lng": 78.1667805
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968781"
+  },
+  {
+    "id": "subway_gwalior",
+    "name": "Subway",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2096667,
+      "lng": 78.1665403
+    },
+    "cuisine_types": [
+      "sandwich"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968794"
+  },
+  {
+    "id": "pizza_bite's_gwalior",
+    "name": "Pizza Bite's",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2068837,
+      "lng": 78.1634075
+    },
+    "cuisine_types": [
+      "burger",
+      "pizza"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968803"
+  },
+  {
+    "id": "treat_family_restaurant_gwalior",
+    "name": "Treat Family Restaurant",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.220707,
+      "lng": 78.1604163
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968812"
+  },
+  {
+    "id": "caf\u00e9_coffee_day_gwalior",
+    "name": "Caf\u00e9 Coffee Day",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.215383,
+      "lng": 78.1707045
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968822"
+  },
+  {
+    "id": "shikarwar_snacks_and_foods_gwalior",
+    "name": "Shikarwar Snacks and Foods",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.4897594,
+      "lng": 77.9800067
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968829"
+  },
+  {
+    "id": "the_tea_time_(serving_health)_gwalior",
+    "name": "The tea time (Serving Health)",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.1969198,
+      "lng": 78.1589357
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968837"
+  },
+  {
+    "id": "silver_saloon_gwalior",
+    "name": "Silver saloon",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2114571,
+      "lng": 78.1505151
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968844"
+  },
+  {
+    "id": "punjabi_food_factory_gwalior",
+    "name": "Punjabi food factory",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2237022,
+      "lng": 78.1718739
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968853"
+  },
+  {
+    "id": "shree_bhukkads_a_food_lounge_gwalior",
+    "name": "Shree Bhukkads a food lounge",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2185696,
+      "lng": 78.182155
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968860"
+  },
+  {
+    "id": "indian_coffee_house_gwalior",
+    "name": "Indian coffee house",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2152944,
+      "lng": 78.1830362
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968868"
+  },
+  {
+    "id": "fort_view_cafe_gwalior",
+    "name": "Fort View Cafe",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2289575,
+      "lng": 78.1681786
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968876"
+  },
+  {
+    "id": "sweet_&_salt_restaurant_gwalior",
+    "name": "Sweet & Salt Restaurant",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2317778,
+      "lng": 78.2163548
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968884"
+  },
+  {
+    "id": "swad_the_taste_gwalior",
+    "name": "Swad The Taste",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2317197,
+      "lng": 78.2164964
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968890"
+  },
+  {
+    "id": "blueberry_restaurant_gwalior",
+    "name": "Blueberry Restaurant",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2324669,
+      "lng": 78.2170988
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968897"
+  },
+  {
+    "id": "jodhpur_misthan_bhandar_gwalior",
+    "name": "Jodhpur Misthan Bhandar",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 25.8866929,
+      "lng": 78.334
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968903"
+  },
+  {
+    "id": "hotel_the_nd_grande_gwalior",
+    "name": "HOTEL THE ND GRANDE",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 25.8835213,
+      "lng": 78.3334264
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968913"
+  },
+  {
+    "id": "rangoli_garden_gwalior",
+    "name": "Rangoli Garden",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 25.8834074,
+      "lng": 78.3334586
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968920"
+  },
+  {
+    "id": "hotel_suraj_gwalior",
+    "name": "Hotel Suraj",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 25.8901193,
+      "lng": 78.3367735
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968928"
+  },
+  {
+    "id": "cafe_1_gwalior",
+    "name": "cafe 1",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2106441,
+      "lng": 78.2014213
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968935"
+  },
+  {
+    "id": "cafe_2_gwalior",
+    "name": "cafe 2",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2107476,
+      "lng": 78.2008333
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968943"
+  },
+  {
+    "id": "cafe_3_gwalior",
+    "name": "cafe 3",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2103102,
+      "lng": 78.2015181
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968949"
+  },
+  {
+    "id": "restaurant_1_gwalior",
+    "name": "restaurant 1",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2098332,
+      "lng": 78.2020706
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968957"
+  },
+  {
+    "id": "fast_food_centre_gwalior",
+    "name": "fast food centre",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2104688,
+      "lng": 78.201787
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968965"
+  },
+  {
+    "id": "bistro_65_gwalior",
+    "name": "bistro 65",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2109657,
+      "lng": 78.2037635
+    },
+    "cuisine_types": [
+      "bar"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.968973"
+  },
+  {
+    "id": "south_indian_corner_gwalior",
+    "name": "south indian corner",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2099081,
+      "lng": 78.2038143
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.969286"
+  },
+  {
+    "id": "punjabi_tadka_gwalior",
+    "name": "punjabi tadka",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2096653,
+      "lng": 78.2005818
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.969295"
+  },
+  {
+    "id": "hastag_cafe_gwalior",
+    "name": "hastag cafe",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2095058,
+      "lng": 78.2006022
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.969302"
+  },
+  {
+    "id": "zaika_cafe_gwalior",
+    "name": "zaika cafe",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2083933,
+      "lng": 78.2047118
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.969308"
+  },
+  {
+    "id": "jodhpur_misthan_bhandar_gwalior",
+    "name": "jodhpur misthan bhandar",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2152779,
+      "lng": 78.2043016
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.969314"
+  },
+  {
+    "id": "dairyman's_naturals_gwalior",
+    "name": "Dairyman's Naturals",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.1992424,
+      "lng": 78.1645297
+    },
+    "cuisine_types": [
+      "ice_cream",
+      "burger",
+      "pizza",
+      "noodle",
+      "sandwich",
+      "cake",
+      "fries"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": true,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.969322"
+  },
+  {
+    "id": "karwaan_gwalior",
+    "name": "Karwaan",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2097699,
+      "lng": 78.1983094
+    },
+    "cuisine_types": [
+      "burger",
+      "chinese",
+      "indian",
+      "international",
+      "italian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.969329"
+  },
+  {
+    "id": "nutrimento_nx_gwalior",
+    "name": "Nutrimento NX",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.209734,
+      "lng": 78.198107
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.969336"
+  },
+  {
+    "id": "zayka_da_taste_gwalior",
+    "name": "Zayka Da Taste",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.1971263,
+      "lng": 78.1479365
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.969343"
+  },
+  {
+    "id": "the_treat_fast_food_&_cafe_gwalior",
+    "name": "The Treat Fast Food & Cafe",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2041513,
+      "lng": 78.1467254
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.969349"
+  },
+  {
+    "id": "bajaj_juice_centre_gwalior",
+    "name": "Bajaj Juice Centre",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2031576,
+      "lng": 78.1470625
+    },
+    "cuisine_types": [
+      "juice"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.969380"
+  },
+  {
+    "id": "n.j._foods_gwalior",
+    "name": "N.J. Foods",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.2156203,
+      "lng": 78.1820971
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.969387"
+  },
+  {
+    "id": "shiv_ras_bhandar_gwalior",
+    "name": "Shiv Ras Bhandar",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 26.1967926,
+      "lng": 78.1488199
+    },
+    "cuisine_types": [
+      "juice"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:55:35.969395"
+  }
+]

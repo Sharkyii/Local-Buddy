@@ -1,0 +1,50 @@
+[
+  {
+    "norm_id": "norm_bargaining_ahmedabad",
+    "place_id": "seed_market_ahmedabad",
+    "relevance": "high",
+    "note": "Manek Chowk's daytime cloth, accessory and shoe stalls are a classic place to practice respectful bargaining."
+  },
+  {
+    "norm_id": "norm_bargaining_ahmedabad",
+    "place_id": "seed_garden_ahmedabad",
+    "relevance": "medium",
+    "note": "Law Garden's evening market is famous for mirror-work and embroidered goods where prices are expected to be negotiated."
+  },
+  {
+    "norm_id": "norm_dress_code_ahmedabad",
+    "place_id": "seed_religious_ahmedabad",
+    "relevance": "high",
+    "note": "Akshardham Temple enforces covered shoulders and knees at entry — a clear, visible example of the modesty norm."
+  },
+  {
+    "norm_id": "norm_dress_code_ahmedabad",
+    "place_id": "seed_historical_ahmedabad",
+    "relevance": "medium",
+    "note": "Sarkhej Roza is an active mosque/dargah complex where modest dress and removing footwear is expected of visitors."
+  },
+  {
+    "norm_id": "norm_vegetarian_culture_ahmedabad",
+    "place_id": "seed_food_ahmedabad",
+    "relevance": "high",
+    "note": "Manek Chowk's night food market is almost entirely vegetarian — the best first-hand introduction to the city's food culture."
+  },
+  {
+    "norm_id": "norm_punctuality_ahmedabad",
+    "place_id": "seed_educational_ahmedabad",
+    "relevance": "medium",
+    "note": "Despite the city's relaxed social pace, IIM Ahmedabad's campus events and guest lectures keep strict professional timing."
+  },
+  {
+    "norm_id": "norm_spitting_ahmedabad",
+    "place_id": "seed_lake_ahmedabad",
+    "relevance": "medium",
+    "note": "Kankaria Lake's promenade is a heavily patrolled public space where littering and spitting fines are actively enforced."
+  },
+  {
+    "norm_id": "norm_alcohol_prohibition_ahmedabad",
+    "place_id": "seed_nightlife_ahmedabad",
+    "relevance": "high",
+    "note": "Symphony Lounge operates as a dry venue — expect mocktails and live music rather than a bar menu, a direct illustration of the prohibition."
+  }
+]

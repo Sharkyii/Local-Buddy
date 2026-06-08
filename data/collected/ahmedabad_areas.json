@@ -1,0 +1,119 @@
+[
+  {
+    "id": "area_naranpura_ahmedabad",
+    "name": "Naranpura",
+    "city": "ahmedabad",
+    "locality_type": "traditional_commercial",
+    "coordinates": {
+      "lat": 23.0225,
+      "lng": 72.5714
+    },
+    "population": 150000,
+    "average_rent_1bhk": 20000,
+    "lifestyle_tags": [
+      "traditional",
+      "family_friendly",
+      "markets",
+      "gujarati_food"
+    ],
+    "safety_level": "safe",
+    "public_transport_score": 8,
+    "walkability_score": 7,
+    "cultural_vibe": "traditional_gujarati",
+    "area_reputation": "market_hub",
+    "notable_for": [
+      "Navratan Market",
+      "Street food",
+      "Textile shops",
+      "Traditional restaurants"
+    ]
+  },
+  {
+    "id": "area_satellite_ahmedabad",
+    "name": "Satellite",
+    "city": "ahmedabad",
+    "locality_type": "modern_residential",
+    "coordinates": {
+      "lat": 23.0679,
+      "lng": 72.5205
+    },
+    "population": 200000,
+    "average_rent_1bhk": 28000,
+    "lifestyle_tags": [
+      "modern",
+      "tech_professionals",
+      "cafes",
+      "malls",
+      "expat_friendly"
+    ],
+    "safety_level": "very_safe",
+    "public_transport_score": 9,
+    "walkability_score": 8,
+    "cultural_vibe": "cosmopolitan_young",
+    "area_reputation": "upscale_modern",
+    "notable_for": [
+      "Drive-in cinema",
+      "Shopping malls",
+      "Restaurants and cafes",
+      "IT companies nearby"
+    ]
+  },
+  {
+    "id": "area_bodakdev_ahmedabad",
+    "name": "Bodakdev",
+    "city": "ahmedabad",
+    "locality_type": "mixed",
+    "coordinates": {
+      "lat": 23.0353,
+      "lng": 72.4936
+    },
+    "population": 120000,
+    "average_rent_1bhk": 25000,
+    "lifestyle_tags": [
+      "mixed",
+      "affordable",
+      "family_friendly",
+      "educational"
+    ],
+    "safety_level": "safe",
+    "public_transport_score": 7,
+    "walkability_score": 6,
+    "cultural_vibe": "mixed_family_oriented",
+    "area_reputation": "balanced_affordable",
+    "notable_for": [
+      "Schools",
+      "Colleges",
+      "Residential areas",
+      "Local restaurants"
+    ]
+  },
+  {
+    "id": "area_colaba_ahmedabad",
+    "name": "Old City (Pol Areas)",
+    "city": "ahmedabad",
+    "locality_type": "historic_dense",
+    "coordinates": {
+      "lat": 23.1859,
+      "lng": 72.6421
+    },
+    "population": 300000,
+    "average_rent_1bhk": 15000,
+    "lifestyle_tags": [
+      "historic",
+      "budget",
+      "cultural",
+      "crowded"
+    ],
+    "safety_level": "moderate",
+    "public_transport_score": 8,
+    "walkability_score": 9,
+    "cultural_vibe": "traditional_historic",
+    "area_reputation": "historical_touristy",
+    "notable_for": [
+      "Jama Mosque",
+      "Sabarmati Ashram",
+      "Narrow lanes",
+      "Street food"
+    ]
+  }
+]

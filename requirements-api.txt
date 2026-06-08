@@ -1,0 +1,16 @@
+# Agent & Chat API Dependencies
+
+# LLM provider bridge — same agent code runs on Claude or Groq depending on
+# which of ANTHROPIC_API_KEY / GROQ_API_KEY is set (see agents/base_agent.py)
+litellm>=1.55.0
+
+# Web Framework
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+pydantic>=2.9.0
+
+# Database (repository layer)
+neo4j>=5.13.0
+
+# Config
+python-dotenv>=1.0.0

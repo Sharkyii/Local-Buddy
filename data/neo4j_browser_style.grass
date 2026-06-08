@@ -1,0 +1,83 @@
+node {
+  diameter: 50px;
+  color: #A5ABB6;
+  border-color: #9AA1AC;
+  border-width: 2px;
+  text-color-internal: #FFFFFF;
+  font-size: 10px;
+  caption: "{name}";
+}
+relationship {
+  color: #A5ABB6;
+  shaft-width: 1px;
+  font-size: 8px;
+  padding: 3px;
+  text-color-external: #000000;
+  text-color-internal: #FFFFFF;
+  caption: "<type>";
+}
+
+/* ---- Core entities ---- */
+node.City {
+  color: #4C8EDA;
+  diameter: 70px;
+  caption: "{name}";
+}
+node.Area {
+  color: #57C7E3;
+  diameter: 55px;
+  caption: "{name}";
+}
+node.Norm {
+  color: #F16667;
+  diameter: 55px;
+  caption: "{title}";
+}
+node.Hotel {
+  color: #D9C8AE;
+  caption: "{name}";
+}
+node.Restaurant {
+  color: #ECB5C9;
+  caption: "{name}";
+}
+node.Place {
+  color: #A5ABB6;
+  caption: "{name}";
+}
+
+/* ---- PlaceCategory secondary labels (one swatch per category) ---- */
+/* Heritage & culture: warm earth tones */
+node.Historical   { color: #A1887F; caption: "{name}"; }
+node.Religious    { color: #9575CD; caption: "{name}"; }
+node.Museum       { color: #7986CB; caption: "{name}"; }
+node.Educational  { color: #64B5F6; caption: "{name}"; }
+
+/* Nature & outdoors: greens and blues */
+node.Park         { color: #81C784; caption: "{name}"; }
+node.Garden       { color: #AED581; caption: "{name}"; }
+node.Nature       { color: #9CCC65; caption: "{name}"; }
+node.Lake         { color: #4FC3F7; caption: "{name}"; }
+node.River        { color: #4FA8E8; caption: "{name}"; }
+node.Dam          { color: #607D8B; caption: "{name}"; }
+node.Waterfall    { color: #4DD0E1; caption: "{name}"; }
+node.Beach        { color: #FFD54F; caption: "{name}"; }
+node.Wildlife     { color: #8D6E63; caption: "{name}"; }
+node.Viewpoint    { color: #FFB74D; caption: "{name}"; }
+
+/* Commerce & nightlife: warm/vivid accents */
+node.Market       { color: #FF8A65; caption: "{name}"; }
+node.Shopping     { color: #F06292; caption: "{name}"; }
+node.Food         { color: #E57373; caption: "{name}"; }
+node.Entertainment{ color: #BA68C8; caption: "{name}"; }
+node.Nightlife    { color: #7E57C2; caption: "{name}"; }
+
+/* ---- Relationships ---- */
+relationship.HAS_AREA { color: #57C7E3; caption: ""; }
+relationship.HAS_PLACE { color: #A5ABB6; caption: ""; }
+relationship.HAS_HOTEL { color: #D9C8AE; caption: ""; }
+relationship.HAS_RESTAURANT { color: #ECB5C9; caption: ""; }
+relationship.NORMAL_IN { color: #F16667; caption: ""; }
+relationship.CONFLICTS_WITH { color: #DA7194; caption: "<type>"; shaft-width: 2px; }
+relationship.SIMILAR_VIBE_TO { color: #57C7E3; caption: "<type>"; shaft-width: 2px; }
+relationship.REQUIRES_CONTEXT { color: #8DCC93; caption: "<type>"; shaft-width: 2px; }

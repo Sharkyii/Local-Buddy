@@ -1,0 +1,211 @@
+[
+  {
+    "id": "seed_historical_ahmedabad",
+    "name": "Sarkhej Roza",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "monument",
+    "category": "historical",
+    "significance": "historical",
+    "coordinates": {"lat": 22.9870, "lng": 72.5036},
+    "description": "15th-century mosque and tomb complex blending Hindu and Islamic architecture."
+  },
+  {
+    "id": "seed_religious_ahmedabad",
+    "name": "Swaminarayan Akshardham Temple",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "temple",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {"lat": 23.2273, "lng": 72.6347},
+    "description": "Major Swaminarayan temple complex known for its intricate stone carvings."
+  },
+  {
+    "id": "seed_museum_ahmedabad",
+    "name": "Calico Museum of Textiles",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "museum",
+    "category": "museum",
+    "significance": "national_symbol",
+    "coordinates": {"lat": 23.0395, "lng": 72.5660},
+    "description": "World-renowned museum of antique and modern Indian textiles."
+  },
+  {
+    "id": "seed_park_ahmedabad",
+    "name": "Sabarmati Riverfront Park",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "park",
+    "category": "park",
+    "significance": "local",
+    "coordinates": {"lat": 23.0339, "lng": 72.5800},
+    "description": "Riverside promenade and park running along the Sabarmati River."
+  },
+  {
+    "id": "seed_garden_ahmedabad",
+    "name": "Law Garden",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "garden",
+    "category": "garden",
+    "significance": "local",
+    "coordinates": {"lat": 23.0258, "lng": 72.5566},
+    "description": "Popular evening garden known for its night market and street food stalls."
+  },
+  {
+    "id": "seed_lake_ahmedabad",
+    "name": "Kankaria Lake",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "lake",
+    "category": "lake",
+    "significance": "local",
+    "coordinates": {"lat": 22.9985, "lng": 72.6022},
+    "description": "Historic artificial lake with a walking promenade, zoo, and toy train."
+  },
+  {
+    "id": "seed_river_ahmedabad",
+    "name": "Sabarmati River",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "river",
+    "category": "river",
+    "significance": "local",
+    "coordinates": {"lat": 23.0339, "lng": 72.5800},
+    "description": "The river running through Ahmedabad, lined by the riverfront development."
+  },
+  {
+    "id": "seed_dam_ahmedabad",
+    "name": "Dharoi Dam",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "dam",
+    "category": "dam",
+    "significance": "local",
+    "coordinates": {"lat": 24.1660, "lng": 72.7950},
+    "description": "Earthen dam on the Sabarmati River, a popular day-trip spot from the city."
+  },
+  {
+    "id": "seed_viewpoint_ahmedabad",
+    "name": "Sabarmati Riverfront Sunset Point",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "viewpoint",
+    "category": "viewpoint",
+    "significance": "local",
+    "coordinates": {"lat": 23.0280, "lng": 72.5810},
+    "description": "Riverside spot popular with locals for watching the sunset over the Sabarmati."
+  },
+  {
+    "id": "seed_wildlife_ahmedabad",
+    "name": "Kamla Nehru Zoological Garden",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "zoo",
+    "category": "wildlife",
+    "significance": "local",
+    "coordinates": {"lat": 22.9988, "lng": 72.6025},
+    "description": "Zoo adjacent to Kankaria Lake, home to a variety of animal and bird species."
+  },
+  {
+    "id": "seed_beach_ahmedabad",
+    "name": "Mandvi Beach",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "beach",
+    "category": "beach",
+    "significance": "local",
+    "coordinates": {"lat": 22.8310, "lng": 69.3540},
+    "description": "Coastal beach in Kutch, a popular day-trip destination from Ahmedabad."
+  },
+  {
+    "id": "seed_waterfall_ahmedabad",
+    "name": "Zanzari Waterfall",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "waterfall",
+    "category": "waterfall",
+    "significance": "local",
+    "coordinates": {"lat": 23.0500, "lng": 73.4500},
+    "description": "Seasonal waterfall outside the city, popular during the monsoon months."
+  },
+  {
+    "id": "seed_market_ahmedabad",
+    "name": "Manek Chowk",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "market",
+    "category": "market",
+    "significance": "local",
+    "coordinates": {"lat": 23.0246, "lng": 72.5873},
+    "description": "Historic market square that turns into a famous night food market after dark."
+  },
+  {
+    "id": "seed_shopping_ahmedabad",
+    "name": "Ahmedabad One Mall",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "shopping_mall",
+    "category": "shopping",
+    "significance": "local",
+    "coordinates": {"lat": 23.0445, "lng": 72.5301},
+    "description": "Large shopping mall with retail stores, dining, and a multiplex."
+  },
+  {
+    "id": "seed_entertainment_ahmedabad",
+    "name": "Science City Ahmedabad",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "amusement",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {"lat": 23.0790, "lng": 72.5030},
+    "description": "Science museum and amusement complex with interactive exhibits and an aquarium."
+  },
+  {
+    "id": "seed_nightlife_ahmedabad",
+    "name": "Symphony Lounge",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "lounge",
+    "category": "nightlife",
+    "significance": "local",
+    "coordinates": {"lat": 23.0350, "lng": 72.5650},
+    "description": "Rooftop lounge known for live music and a lively evening crowd."
+  },
+  {
+    "id": "seed_food_ahmedabad",
+    "name": "Manek Chowk Night Food Market",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "food_street",
+    "category": "food",
+    "significance": "local",
+    "coordinates": {"lat": 23.0246, "lng": 72.5873},
+    "description": "Famous late-night street food hub serving Gujarati snacks and sweets."
+  },
+  {
+    "id": "seed_educational_ahmedabad",
+    "name": "Indian Institute of Management Ahmedabad",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "university",
+    "category": "educational",
+    "significance": "national_symbol",
+    "coordinates": {"lat": 23.0339, "lng": 72.5300},
+    "description": "One of India's premier business schools, known for its iconic brick campus."
+  },
+  {
+    "id": "seed_nature_ahmedabad",
+    "name": "Thol Bird Sanctuary",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "sanctuary",
+    "category": "nature",
+    "significance": "local",
+    "coordinates": {"lat": 23.2167, "lng": 72.3833},
+    "description": "Wetland bird sanctuary near Ahmedabad, home to migratory and resident birds."
+  }
+]

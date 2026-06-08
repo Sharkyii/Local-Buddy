@@ -1,0 +1,380 @@
+[
+  {
+    "id": "hotel_food_land_surat",
+    "name": "Hotel Food Land",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.5192316,
+      "lng": 73.0030096
+    },
+    "stars": 0,
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:16:35.626471"
+  },
+  {
+    "id": "hotel_meena_surat",
+    "name": "Hotel Meena",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.5132533,
+      "lng": 73.0039978
+    },
+    "stars": 0,
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:16:35.626514"
+  },
+  {
+    "id": "hotel_ashirwad_surat",
+    "name": "Hotel Ashirwad",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.4629165,
+      "lng": 72.9925515
+    },
+    "stars": 0,
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:16:35.626524"
+  },
+  {
+    "id": "hotel_tulsi_surat",
+    "name": "Hotel Tulsi",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.4224492,
+      "lng": 72.9660683
+    },
+    "stars": 0,
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:16:35.626532"
+  },
+  {
+    "id": "hotel_citizen_surat",
+    "name": "Hotel Citizen",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.4109121,
+      "lng": 72.9641461
+    },
+    "stars": 0,
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:16:35.626542"
+  },
+  {
+    "id": "hotel_paras_surat",
+    "name": "Hotel Paras",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 20.8683033,
+      "lng": 73.0635692
+    },
+    "stars": 0,
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:16:35.626550"
+  },
+  {
+    "id": "rajhans_wing_surat",
+    "name": "Rajhans Wing",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.2130302,
+      "lng": 72.7731014
+    },
+    "stars": 0,
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:16:35.626557"
+  },
+  {
+    "id": "rajhans_residency_surat",
+    "name": "Rajhans Residency",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.2296973,
+      "lng": 72.7887434
+    },
+    "stars": 0,
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:16:35.626565"
+  },
+  {
+    "id": "girnar_farm_delivery_kamrej_surat",
+    "name": "girnar farm delivery kamrej",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.2993438,
+      "lng": 72.9539794
+    },
+    "stars": 0,
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:16:35.626570"
+  },
+  {
+    "id": "hotel_welcome_surat",
+    "name": "Hotel Welcome",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.2072536,
+      "lng": 72.841253
+    },
+    "stars": 0,
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:16:35.626577"
+  },
+  {
+    "id": "upcomin_surat",
+    "name": "UPCOMIN",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.135816,
+      "lng": 72.7492576
+    },
+    "stars": 0,
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:16:35.626583"
+  },
+  {
+    "id": "shakti_surat",
+    "name": "Shakti",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 20.8122047,
+      "lng": 72.9974009
+    },
+    "stars": 0,
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:16:35.626589"
+  },
+  {
+    "id": "sarabhai_bhavan_surat",
+    "name": "Sarabhai Bhavan",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1659439,
+      "lng": 72.7881727
+    },
+    "stars": 0,
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:16:35.626596"
+  },
+  {
+    "id": "hotel_new_city_light_surat",
+    "name": "Hotel New City Light",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1527445,
+      "lng": 72.7978962
+    },
+    "stars": 0,
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:16:35.626603"
+  },
+  {
+    "id": "hilton_garden_inn_surat_city_centre_surat",
+    "name": "Hilton Garden Inn Surat City Centre",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.2044033,
+      "lng": 72.8392597
+    },
+    "stars": 5,
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:16:35.626610"
+  },
+  {
+    "id": "boys_hostel_surat",
+    "name": "Boys Hostel",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1306618,
+      "lng": 72.7144864
+    },
+    "stars": 0,
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:16:35.626617"
+  },
+  {
+    "id": "girls_hostel_surat",
+    "name": "Girls Hostel",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1305537,
+      "lng": 72.7179347
+    },
+    "stars": 0,
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:16:35.626623"
+  },
+  {
+    "id": "nidhivan_palace_surat",
+    "name": "Nidhivan Palace",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1841013,
+      "lng": 72.8320579
+    },
+    "stars": 0,
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:16:35.626631"
+  }
+]

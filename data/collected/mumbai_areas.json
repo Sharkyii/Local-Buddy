@@ -1,0 +1,34 @@
+[
+  {
+    "id": "area_bandra_mumbai",
+    "name": "Bandra West",
+    "city": "mumbai",
+    "locality_type": "trendy_residential",
+    "coordinates": {"lat": 19.0596, "lng": 72.8295},
+    "population": 250000,
+    "average_rent_1bhk": 55000,
+    "lifestyle_tags": ["trendy", "cafes", "nightlife", "sea_facing", "celebrity_homes"],
+    "safety_level": "safe",
+    "public_transport_score": 7,
+    "walkability_score": 7,
+    "cultural_vibe": "young_progressive",
+    "area_reputation": "trendy_expensive",
+    "notable_for": ["Bandstand Promenade", "Carter Road", "Boutique cafes", "Bollywood connection"]
+  },
+  {
+    "id": "area_andheri_mumbai",
+    "name": "Andheri",
+    "city": "mumbai",
+    "locality_type": "mixed_commercial_residential",
+    "coordinates": {"lat": 19.1197, "lng": 72.8468},
+    "population": 400000,
+    "average_rent_1bhk": 32000,
+    "lifestyle_tags": ["business_hub", "well_connected", "mid_range_rent", "diverse"],
+    "safety_level": "safe",
+    "public_transport_score": 9,
+    "walkability_score": 6,
+    "cultural_vibe": "busy_professional",
+    "area_reputation": "convenient_central",
+    "notable_for": ["Metro & airport connectivity", "Office complexes", "Film studios (Andheri East)", "Street food"]
+  }
+]

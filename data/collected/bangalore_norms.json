@@ -1,0 +1,138 @@
+[
+  {
+    "id": "norm_bargaining_bangalore",
+    "city": "bangalore",
+    "title": "Fixed Prices in Most Shops",
+    "category": "general",
+    "description": "Most shops, cafes, and malls in Bangalore have fixed prices. Bargaining is largely confined to flea markets and is often seen as out of place in regular retail and city stores.",
+    "context": {
+      "where": ["malls", "cafes", "branded_stores", "supermarkets"],
+      "when": ["anytime"],
+      "with_whom": ["shopkeepers", "staff"]
+    },
+    "dos": [
+      "Check for posted prices before assuming negotiation is possible",
+      "Reserve bargaining for flea markets (e.g., Chickpet, Commercial Street stalls)",
+      "Politely ask about discounts on bulk purchases instead"
+    ],
+    "donts": [
+      "Don't try to haggle in malls, branded outlets or cafes",
+      "Don't assume every vendor expects negotiation",
+      "Don't be pushy when asking for a lower price"
+    ],
+    "embarrassment_risk": 5,
+    "prevalence": "common",
+    "acceptability": "neutral",
+    "gender_specific": false,
+    "relevance_for_travelers": "high",
+    "confidence_score": 0.85
+  },
+  {
+    "id": "norm_dress_code_bangalore",
+    "city": "bangalore",
+    "title": "Liberal, Western-Friendly Dress Code",
+    "category": "social",
+    "description": "Bangalore's cosmopolitan, IT-driven culture means Western clothing — shorts, sleeveless tops, short skirts — is widely accepted in most public spaces, especially in tech hubs and pubs.",
+    "context": {
+      "where": ["malls", "tech_parks", "pubs", "cafes", "residential_areas"],
+      "when": ["always"],
+      "with_whom": ["colleagues", "locals", "strangers"]
+    },
+    "dos": [
+      "Wear what feels comfortable in most urban neighborhoods",
+      "Save modest dressing for temples and traditional family settings",
+      "Follow office dress codes in corporate environments"
+    ],
+    "donts": [
+      "Don't assume the whole city is conservative — it varies sharply by neighborhood",
+      "Don't wear beachwear or loungewear into religious sites"
+    ],
+    "embarrassment_risk": 3,
+    "prevalence": "very_common",
+    "acceptability": "acceptable",
+    "gender_specific": true,
+    "relevance_for_travelers": "medium",
+    "confidence_score": 0.83
+  },
+  {
+    "id": "norm_food_culture_bangalore",
+    "city": "bangalore",
+    "title": "Mixed Vegetarian & Non-Vegetarian Culture",
+    "category": "food",
+    "description": "Unlike Ahmedabad's strongly vegetarian culture, Bangalore has a large non-vegetarian-eating population, and restaurants, work lunches and social gatherings commonly default to mixed menus.",
+    "context": {
+      "where": ["restaurants", "offices", "social_events"],
+      "when": ["mealtimes"],
+      "with_whom": ["colleagues", "friends", "restaurant staff"]
+    },
+    "dos": [
+      "Mention dietary preference upfront when ordering for a group",
+      "Look for the green/red dot system on packaged food and menus",
+      "Explore the city's strong South Indian vegetarian options — they exist alongside non-veg ones"
+    ],
+    "donts": [
+      "Don't assume a restaurant or host will default to vegetarian",
+      "Don't be surprised if non-veg is the default suggestion at work lunches"
+    ],
+    "embarrassment_risk": 4,
+    "prevalence": "very_common",
+    "acceptability": "acceptable",
+    "gender_specific": false,
+    "relevance_for_travelers": "medium",
+    "confidence_score": 0.87
+  },
+  {
+    "id": "norm_punctuality_bangalore",
+    "city": "bangalore",
+    "title": "Punctuality Expected in Professional Settings",
+    "category": "work_culture",
+    "description": "Bangalore's IT/startup culture places real weight on punctuality for meetings and deadlines, in contrast to the more relaxed 'IST' attitude common in many other Indian cities.",
+    "context": {
+      "where": ["offices", "tech_parks", "client_meetings"],
+      "when": ["meetings", "standups", "deadlines"],
+      "with_whom": ["colleagues", "managers", "clients"]
+    },
+    "dos": [
+      "Arrive on time or a few minutes early for work meetings",
+      "Proactively communicate if you're going to be late",
+      "Treat deadlines as firm commitments"
+    ],
+    "donts": [
+      "Don't assume meetings will start late like in more relaxed cities",
+      "Don't repeatedly show up late to standups or client calls"
+    ],
+    "embarrassment_risk": 6,
+    "prevalence": "common",
+    "acceptability": "acceptable",
+    "gender_specific": false,
+    "relevance_for_travelers": "medium",
+    "confidence_score": 0.81
+  },
+  {
+    "id": "norm_nightlife_alcohol_bangalore",
+    "city": "bangalore",
+    "title": "Active Pub & Nightlife Culture",
+    "category": "social",
+    "description": "Bangalore is often called India's pub capital, with a large bar, brewery and nightlife scene that is normal and socially accepted among young professionals — a sharp contrast to Gujarat's dry-state prohibition.",
+    "context": {
+      "where": ["pubs", "breweries", "lounges", "clubs"],
+      "when": ["evenings", "weekends"],
+      "with_whom": ["friends", "colleagues"]
+    },
+    "dos": [
+      "Carry valid ID — most venues check age (legal drinking age is 21)",
+      "Drink responsibly and use cabs or rideshares at night",
+      "Check venue closing times — local regulations enforce an 11 PM-1 AM cutoff"
+    ],
+    "donts": [
+      "Don't expect the same scene if you later travel to dry states like Gujarat or Bihar",
+      "Don't assume every social outing involves alcohol — plenty of alcohol-free venues exist too"
+    ],
+    "embarrassment_risk": 2,
+    "prevalence": "very_common",
+    "acceptability": "acceptable",
+    "gender_specific": false,
+    "relevance_for_travelers": "medium",
+    "confidence_score": 0.86
+  }
+]

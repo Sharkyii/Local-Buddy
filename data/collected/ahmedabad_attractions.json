@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "nehru_chowkadi_ahmedabad",
+    "name": "Nehru Chowkadi",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "memorial",
+    "category": "historical",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.1637019,
+      "lng": 72.8101837
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407490"
+  },
+  {
+    "id": "thol_bird_sanctuary_ahmedabad",
+    "name": "Thol Bird Sanctuary",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.1317208,
+      "lng": 72.3806857
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407526"
+  },
+  {
+    "id": "manav_mandir_ahmedabad",
+    "name": "Manav Mandir",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0461532,
+      "lng": 72.5396662
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407539"
+  },
+  {
+    "id": "karnvanath_mahadev,_shiv_temple_ahmedabad",
+    "name": "Karnvanath Mahadev, Shiv Temple",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0470512,
+      "lng": 72.5498248
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407549"
+  },
+  {
+    "id": "paramdham_temple_ahmedabad",
+    "name": "Paramdham Temple",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0279683,
+      "lng": 72.5206423
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407559"
+  },
+  {
+    "id": "gayatri_mandir_ahmedabad",
+    "name": "Gayatri Mandir",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0616617,
+      "lng": 72.5914612
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407567"
+  },
+  {
+    "id": "jalaram_mandir_ahmedabad",
+    "name": "Jalaram Mandir",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0180339,
+      "lng": 72.5617653
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407574"
+  },
+  {
+    "id": "sakar_2_ahmedabad",
+    "name": "Sakar 2",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0229657,
+      "lng": 72.5725025
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407583"
+  },
+  {
+    "id": "sakar_4_ahmedabad",
+    "name": "Sakar 4",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0235187,
+      "lng": 72.5717901
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407591"
+  },
+  {
+    "id": "sanskar_kendra_ahmedabad",
+    "name": "Sanskar Kendra",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "museum",
+    "category": "museum",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0130948,
+      "lng": 72.5694038
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407599"
+  },
+  {
+    "id": "bhimnath_mahadev,_shiv_temple_ahmedabad",
+    "name": "Bhimnath Mahadev, Shiv Temple",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0119553,
+      "lng": 72.5499794
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407608"
+  },
+  {
+    "id": "raipur_gate_ahmedabad",
+    "name": "Raipur Gate",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0174361,
+      "lng": 72.5947812
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407617"
+  },
+  {
+    "id": "jagannath_mandir,_temple_ahmedabad",
+    "name": "Jagannath Mandir, Temple",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0114213,
+      "lng": 72.5810755
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407627"
+  },
+  {
+    "id": "narol_circle_ahmedabad",
+    "name": "Narol Circle",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {
+      "lat": 22.9728189,
+      "lng": 72.5883525
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407636"
+  },
+  {
+    "id": "laxmi_bakery_ahmedabad",
+    "name": "Laxmi Bakery",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.2313584,
+      "lng": 72.6647593
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407643"
+  },
+  {
+    "id": "circuit_house_ahmedabad",
+    "name": "Circuit House",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.2207141,
+      "lng": 72.6743499
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407655"
+  },
+  {
+    "id": "sant_asharamji_ashram_ahmedabad",
+    "name": "Sant Asharamji Ashram",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0931619,
+      "lng": 72.6024491
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407662"
+  },
+  {
+    "id": "vechaar:_utensils_museum_ahmedabad",
+    "name": "Vechaar: Utensils Museum",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "museum",
+    "category": "museum",
+    "significance": "local",
+    "coordinates": {
+      "lat": 22.9944376,
+      "lng": 72.5357319
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407673"
+  },
+  {
+    "id": "temple_ahmedabad",
+    "name": "Temple",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0151595,
+      "lng": 72.5666935
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407681"
+  },
+  {
+    "id": "bird_feeder_ahmedabad",
+    "name": "Bird Feeder",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.023616,
+      "lng": 72.5907685
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407690"
+  },
+  {
+    "id": "bird_feeder_ahmedabad",
+    "name": "Bird Feeder",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0234082,
+      "lng": 72.5915706
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407697"
+  },
+  {
+    "id": "ashram-managers_guesthouse_ahmedabad",
+    "name": "ashram-managers guesthouse",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0616847,
+      "lng": 72.5793767
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407704"
+  },
+  {
+    "id": "prathana_bhoomi_-_prayers_ground_ahmedabad",
+    "name": "Prathana Bhoomi - Prayers ground",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0600285,
+      "lng": 72.5811103
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407711"
+  },
+  {
+    "id": "mahatma_gandhi_statue_ahmedabad",
+    "name": "Mahatma Gandhi statue",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "artwork",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.060271,
+      "lng": 72.580985
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407719"
+  },
+  {
+    "id": "imam_manzil_-_khadi_weaving_and_gramodhyog_ahmedabad",
+    "name": "Imam Manzil - Khadi Weaving and Gramodhyog",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0615878,
+      "lng": 72.5803317
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407726"
+  },
+  {
+    "id": "handmade_paper_shop_ahmedabad",
+    "name": "Handmade Paper Shop",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0635723,
+      "lng": 72.5798948
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407734"
+  },
+  {
+    "id": "kochrab_satyagraha_ashram_ahmedabad",
+    "name": "Kochrab Satyagraha Ashram",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0158902,
+      "lng": 72.5667508
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407741"
+  },
+  {
+    "id": "manikarnikeshwar_mahadev_temple_ahmedabad",
+    "name": "Manikarnikeshwar Mahadev Temple",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 22.9978398,
+      "lng": 72.6073978
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407752"
+  },
+  {
+    "id": "panch_kua_dawaza_ahmedabad",
+    "name": "Panch Kua Dawaza",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "ruins",
+    "category": "historical",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0269688,
+      "lng": 72.6001949
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407762"
+  },
+  {
+    "id": "kalupur_darwaza_ahmedabad",
+    "name": "Kalupur Darwaza",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "ruins",
+    "category": "historical",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0308435,
+      "lng": 72.5979371
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407769"
+  },
+  {
+    "id": "logo_wall_ahmedabad",
+    "name": "Logo Wall",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0108913,
+      "lng": 72.5692167
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407776"
+  },
+  {
+    "id": "changeswar_mahadev_ahmedabad",
+    "name": "Changeswar Mahadev",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 22.689472,
+      "lng": 72.8644867
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407783"
+  },
+  {
+    "id": "santram_deri_ahmedabad",
+    "name": "Santram Deri",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 22.6761037,
+      "lng": 72.8674001
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407793"
+  },
+  {
+    "id": "mai_mandir_ahmedabad",
+    "name": "Mai Mandir",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 22.6894403,
+      "lng": 72.8580347
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407801"
+  },
+  {
+    "id": "ambe_mata_mandir_ahmedabad",
+    "name": "Ambe Mata Mandir",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.2451973,
+      "lng": 72.6476554
+    },
+    "description": "Harsiddhanagar",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407809"
+  },
+  {
+    "id": "gopnath_mahadev_mandir_ahmedabad",
+    "name": "Gopnath Mahadev Mandir",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0688147,
+      "lng": 72.5648948
+    },
+    "description": "Akhabarnagar Circle",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407816"
+  },
+  {
+    "id": "vrundavan_restaurant;akhbar_nagar_circle_ahmedabad",
+    "name": "Vrundavan Restaurant;AKHBAR NAGAR CIRCLE",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "monument",
+    "category": "historical",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0674245,
+      "lng": 72.5645716
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407827"
+  },
+  {
+    "id": "shri_malguru_maharaj_vav_sankul_ahmedabad",
+    "name": "Shri Malguru Maharaj Vav Sankul",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.3141083,
+      "lng": 72.3340278
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407834"
+  },
+  {
+    "id": "verai_mataji_temple_ahmedabad",
+    "name": "Verai Mataji temple",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.3440706,
+      "lng": 72.3553324
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407840"
+  },
+  {
+    "id": "pipaleshwar_mahadev_temple_ahmedabad",
+    "name": "Pipaleshwar Mahadev Temple",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.3439008,
+      "lng": 72.3538086
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407847"
+  },
+  {
+    "id": "tejeshwar_mahadev_mandir_ahmedabad",
+    "name": "Tejeshwar Mahadev mandir",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.2945815,
+      "lng": 72.3349835
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407853"
+  },
+  {
+    "id": "dudhai_khodiyar_ma_ahmedabad",
+    "name": "Dudhai Khodiyar Ma",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.2433137,
+      "lng": 72.3218146
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407860"
+  },
+  {
+    "id": "punit_ashram_ahmedabad",
+    "name": "Punit Ashram",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0024214,
+      "lng": 72.605685
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407867"
+  },
+  {
+    "id": "deveshwar_mahadev_mandir_ahmedabad",
+    "name": "Deveshwar Mahadev Mandir",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.2622377,
+      "lng": 72.2747222
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407877"
+  },
+  {
+    "id": "khodiyar_temple_ahmedabad",
+    "name": "Khodiyar Temple",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.262212,
+      "lng": 72.2743953
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407889"
+  },
+  {
+    "id": "ram_ji_mandir_ahmedabad",
+    "name": "Ram Ji Mandir",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.262048,
+      "lng": 72.2739589
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407896"
+  },
+  {
+    "id": "rehoboth_christian_assembly_ahmedabad",
+    "name": "Rehoboth Christian Assembly",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0010208,
+      "lng": 72.5368761
+    },
+    "description": "132 Ft. Ring Road",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407903"
+  },
+  {
+    "id": "guruma_samadhi_mandir_ahmedabad",
+    "name": "Guruma Samadhi Mandir",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.125173,
+      "lng": 72.6123146
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407910"
+  },
+  {
+    "id": "shree_swaminarayan_temple_gadi_sansthan_ahmedabad",
+    "name": "Shree Swaminarayan Temple Gadi Sansthan",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 22.9955398,
+      "lng": 72.6107331
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407916"
+  },
+  {
+    "id": "ambaji_mata_temple_ahmedabad",
+    "name": "Ambaji Mata Temple",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 22.9912494,
+      "lng": 72.6083788
+    },
+    "description": "Maninagar",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:43:33.407923"
+  }
+]

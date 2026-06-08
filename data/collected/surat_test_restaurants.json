@@ -1,0 +1,1619 @@
+[
+  {
+    "id": "the_grand_bhagwati_(tgb)_surat",
+    "name": "The Grand Bhagwati (TGB)",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1361303,
+      "lng": 72.7511307
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788879"
+  },
+  {
+    "id": "canteen_surat",
+    "name": "Canteen",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1643768,
+      "lng": 72.7860194
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788910"
+  },
+  {
+    "id": "mcdonald's_surat",
+    "name": "McDonald's",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.155601,
+      "lng": 72.764266
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788915"
+  },
+  {
+    "id": "domino's_pizaa_surat",
+    "name": "Domino's Pizaa",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1577547,
+      "lng": 72.7690457
+    },
+    "cuisine_types": [
+      "pizza"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788919"
+  },
+  {
+    "id": "yoko_sizzler_surat",
+    "name": "Yoko Sizzler",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1598834,
+      "lng": 72.7728759
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788923"
+  },
+  {
+    "id": "sizzling_salsa_surat",
+    "name": "Sizzling Salsa",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1604362,
+      "lng": 72.7741339
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788926"
+  },
+  {
+    "id": "barbeque_nation_surat",
+    "name": "Barbeque Nation",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1712182,
+      "lng": 72.7893442
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788929"
+  },
+  {
+    "id": "wok_on_fire_surat",
+    "name": "Wok On Fire",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1711832,
+      "lng": 72.7893335
+    },
+    "cuisine_types": [
+      "chinese"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788932"
+  },
+  {
+    "id": "cafe_coffee_day_surat",
+    "name": "Cafe Coffee Day",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1712682,
+      "lng": 72.789414
+    },
+    "cuisine_types": [
+      "coffee_shop"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788936"
+  },
+  {
+    "id": "gokulam_dairy_surat",
+    "name": "Gokulam Dairy",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1788591,
+      "lng": 72.8108678
+    },
+    "cuisine_types": [
+      "Cold_Chocolate_Milk"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788939"
+  },
+  {
+    "id": "cafe_coffee_day_surat",
+    "name": "Cafe Coffee Day",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1759376,
+      "lng": 72.8099601
+    },
+    "cuisine_types": [
+      "coffee_shop"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788943"
+  },
+  {
+    "id": "adarsh_surat",
+    "name": "adarsh",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1970691,
+      "lng": 72.8015788
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788946"
+  },
+  {
+    "id": "cafe_coffeee_surat",
+    "name": "cafe coffeee",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1997395,
+      "lng": 72.8012268
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788950"
+  },
+  {
+    "id": "dokla_cafe_surat",
+    "name": "dokla cafe",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.2369,
+      "lng": 72.8105028
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788953"
+  },
+  {
+    "id": "rajuchacha_vadapav_surat",
+    "name": "Rajuchacha Vadapav",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.2027199,
+      "lng": 72.7944018
+    },
+    "cuisine_types": [
+      "regional"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": true,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788956"
+  },
+  {
+    "id": "dumas_bhajiya_surat",
+    "name": "Dumas Bhajiya",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.0845444,
+      "lng": 72.7168744
+    },
+    "cuisine_types": [
+      "regional"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788959"
+  },
+  {
+    "id": "jay_jalaram_khaman_house_surat",
+    "name": "Jay Jalaram Khaman House",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.2102322,
+      "lng": 72.7859044
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788962"
+  },
+  {
+    "id": "tadka_n_tapas_surat",
+    "name": "tadka n tapas",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1579104,
+      "lng": 72.7694641
+    },
+    "cuisine_types": [
+      "indian",
+      "barbecue",
+      "breakfast",
+      "chinese",
+      "coffee_shop",
+      "curry",
+      "diner",
+      "fine_dining",
+      "french",
+      "ice_cream",
+      "italian",
+      "kebab",
+      "mexican",
+      "pasta",
+      "russian",
+      "sandwich",
+      "spanish",
+      "tapas"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": true,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788967"
+  },
+  {
+    "id": "avad_shangri-la_surat",
+    "name": "Avad Shangri-la",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.141407,
+      "lng": 72.965667
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788971"
+  },
+  {
+    "id": "black_pepper_surat",
+    "name": "Black Pepper",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.158015,
+      "lng": 72.7690396
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788974"
+  },
+  {
+    "id": "nandini_food_plaza_surat",
+    "name": "Nandini food plaza",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.466768,
+      "lng": 72.9969943
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788978"
+  },
+  {
+    "id": "anna's_kitchen_surat",
+    "name": "Anna's Kitchen",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1679578,
+      "lng": 72.7846624
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788982"
+  },
+  {
+    "id": "mcdonald's_surat",
+    "name": "McDonald's",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.2762148,
+      "lng": 72.9537852
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788986"
+  },
+  {
+    "id": "hotel_sabar_surat",
+    "name": "Hotel Sabar",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.0732558,
+      "lng": 72.9808187
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788990"
+  },
+  {
+    "id": "mcdonald's_surat",
+    "name": "McDonald's",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1737312,
+      "lng": 72.7944337
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788993"
+  },
+  {
+    "id": "feeling_hungry?_surat",
+    "name": "Feeling hungry?",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.2136691,
+      "lng": 72.7727807
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.788997"
+  },
+  {
+    "id": "hotel_supreme_surat",
+    "name": "Hotel Supreme",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.5156585,
+      "lng": 73.0028726
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789005"
+  },
+  {
+    "id": "d.s._dhosa_surat",
+    "name": "D.S. dhosa",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.2131988,
+      "lng": 72.8840563
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789009"
+  },
+  {
+    "id": "patel_fastfood_surat",
+    "name": "Patel fastfood",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.2133764,
+      "lng": 72.8815738
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789012"
+  },
+  {
+    "id": "food_lovers_surat",
+    "name": "Food Lovers",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.4577946,
+      "lng": 72.94733
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789015"
+  },
+  {
+    "id": "rekhaben's_namkeen_surat",
+    "name": "Rekhaben's namkeen",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1733701,
+      "lng": 72.7935489
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789018"
+  },
+  {
+    "id": "mcdonald's_surat",
+    "name": "McDonald's",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1940006,
+      "lng": 72.7870448
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789025"
+  },
+  {
+    "id": "mcdonald's_surat",
+    "name": "McDonald's",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1447394,
+      "lng": 72.7579799
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789028"
+  },
+  {
+    "id": "mcdonald's_surat",
+    "name": "McDonald's",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1451476,
+      "lng": 72.8029557
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789031"
+  },
+  {
+    "id": "burger_king_surat",
+    "name": "Burger King",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1581677,
+      "lng": 72.7696204
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789035"
+  },
+  {
+    "id": "burger_king_surat",
+    "name": "Burger King",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1894756,
+      "lng": 72.7899221
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789038"
+  },
+  {
+    "id": "mcdonald's_surat",
+    "name": "McDonald's",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1974536,
+      "lng": 72.7954141
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789045"
+  },
+  {
+    "id": "mcdonald's_surat",
+    "name": "McDonald's",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.2000634,
+      "lng": 72.8041839
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789050"
+  },
+  {
+    "id": "mcdonald's_surat",
+    "name": "McDonald's",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1825082,
+      "lng": 72.8310697
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789053"
+  },
+  {
+    "id": "mcdonald's_surat",
+    "name": "McDonald's",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1783122,
+      "lng": 72.9627747
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789057"
+  },
+  {
+    "id": "burger_king_surat",
+    "name": "Burger King",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1447746,
+      "lng": 72.7573895
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789060"
+  },
+  {
+    "id": "mcdonald's_surat",
+    "name": "McDonald's",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.2291712,
+      "lng": 72.8963614
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789064"
+  },
+  {
+    "id": "subway_surat",
+    "name": "Subway",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.2361461,
+      "lng": 72.8252615
+    },
+    "cuisine_types": [
+      "sandwich"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789068"
+  },
+  {
+    "id": "subway_surat",
+    "name": "Subway",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1955541,
+      "lng": 72.797396
+    },
+    "cuisine_types": [
+      "sandwich"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789081"
+  },
+  {
+    "id": "kfc_surat",
+    "name": "KFC",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1931143,
+      "lng": 72.7867777
+    },
+    "cuisine_types": [
+      "chicken"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789084"
+  },
+  {
+    "id": "kfc_surat",
+    "name": "KFC",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1424293,
+      "lng": 72.7552014
+    },
+    "cuisine_types": [
+      "chicken"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789087"
+  },
+  {
+    "id": "kfc_surat",
+    "name": "KFC",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1545081,
+      "lng": 72.764844
+    },
+    "cuisine_types": [
+      "chicken"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789090"
+  },
+  {
+    "id": "domino's_surat",
+    "name": "Domino's",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1755739,
+      "lng": 72.8176366
+    },
+    "cuisine_types": [
+      "pizza"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789093"
+  },
+  {
+    "id": "subway_surat",
+    "name": "Subway",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1894449,
+      "lng": 72.7900021
+    },
+    "cuisine_types": [
+      "sandwich"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789096"
+  },
+  {
+    "id": "subway_surat",
+    "name": "Subway",
+    "city": "Surat, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 21.1433876,
+      "lng": 72.7947489
+    },
+    "cuisine_types": [
+      "sandwich"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T22:17:26.789104"
+  }
+]

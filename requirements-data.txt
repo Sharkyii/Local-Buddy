@@ -1,0 +1,15 @@
+# Data Ingestion Dependencies
+neo4j>=5.13.0
+python-dotenv>=1.0.0
+
+# Utilities
+requests==2.31.0
+python-dateutil==2.8.2
+
+# Logging & Monitoring
+python-json-logger==2.0.7
+
+# Optional: Web Scraping (for future enhancement)
+selenium==4.14.0
+beautifulsoup4==4.12.2
+lxml==4.9.3

@@ -1,0 +1,1603 @@
+[
+  {
+    "id": "copper_chimney_mumbai",
+    "name": "Copper Chimney",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.927571,
+      "lng": 72.8325747
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978147"
+  },
+  {
+    "id": "dara's_dhaba_mumbai",
+    "name": "Dara's Dhaba",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 19.2767754,
+      "lng": 72.8889843
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978188"
+  },
+  {
+    "id": "haveli_inn_mumbai",
+    "name": "Haveli Inn",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 19.2933669,
+      "lng": 72.9052748
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978199"
+  },
+  {
+    "id": "cafe_andora_mumbai",
+    "name": "Cafe Andora",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 19.0573435,
+      "lng": 72.8276847
+    },
+    "cuisine_types": [
+      "sandwich",
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978207"
+  },
+  {
+    "id": "tibbs_frankies_mumbai",
+    "name": "TIBBS Frankies",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 19.0550612,
+      "lng": 72.8307379
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978216"
+  },
+  {
+    "id": "good_luck_restaurant_mumbai",
+    "name": "Good Luck Restaurant",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 19.0517569,
+      "lng": 72.8240813
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978224"
+  },
+  {
+    "id": "a1_bakery_mumbai",
+    "name": "A1 Bakery",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 19.0546237,
+      "lng": 72.8264717
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978230"
+  },
+  {
+    "id": "wonton_house_mumbai",
+    "name": "Wonton House",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 19.0548375,
+      "lng": 72.8258975
+    },
+    "cuisine_types": [
+      "chinese"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978237"
+  },
+  {
+    "id": "ruchit_palace_mumbai",
+    "name": "Ruchit Palace",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 19.0971923,
+      "lng": 73.0259339
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978243"
+  },
+  {
+    "id": "jai_hind_mumbai",
+    "name": "Jai Hind",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.954073,
+      "lng": 72.7976688
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978250"
+  },
+  {
+    "id": "agni_resort_mumbai",
+    "name": "Agni Resort",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.8626726,
+      "lng": 73.2751948
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978256"
+  },
+  {
+    "id": "golden_crown_mumbai",
+    "name": "Golden Crown",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.9623007,
+      "lng": 72.8118145
+    },
+    "cuisine_types": [
+      "bar"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978263"
+  },
+  {
+    "id": "bademiya_seekh_kebab_stall_mumbai",
+    "name": "Bademiya Seekh Kebab Stall",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.9231497,
+      "lng": 72.8325111
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978270"
+  },
+  {
+    "id": "cafe_coffee_day_mumbai",
+    "name": "Cafe Coffee Day",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.9166662,
+      "lng": 72.8176892
+    },
+    "cuisine_types": [
+      "coffee_shop"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978276"
+  },
+  {
+    "id": "monalisa_mumbai",
+    "name": "Monalisa",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 19.1668447,
+      "lng": 73.2305258
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978282"
+  },
+  {
+    "id": "rajdhani_mumbai",
+    "name": "Rajdhani",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.9429607,
+      "lng": 72.8291513
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978289"
+  },
+  {
+    "id": "ever_green_mumbai",
+    "name": "Ever Green",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.9598264,
+      "lng": 72.81716
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978297"
+  },
+  {
+    "id": "shriram_mumbai",
+    "name": "Shriram",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.959522,
+      "lng": 72.8172244
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978309"
+  },
+  {
+    "id": "mcdonald's_mumbai",
+    "name": "McDonald's",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 19.1003169,
+      "lng": 72.8407161
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978321"
+  },
+  {
+    "id": "new_martin_hotel_mumbai",
+    "name": "New Martin Hotel",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.9186212,
+      "lng": 72.8295185
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978344"
+  },
+  {
+    "id": "navaratna_mumbai",
+    "name": "Navaratna",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 19.1668217,
+      "lng": 73.2360009
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978350"
+  },
+  {
+    "id": "hotel_ambika_mumbai",
+    "name": "Hotel Ambika",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 19.166315,
+      "lng": 73.237181
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978355"
+  },
+  {
+    "id": "hotel_atithi_mumbai",
+    "name": "Hotel Atithi",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 19.1640855,
+      "lng": 73.2391337
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978361"
+  },
+  {
+    "id": "mahesh_lunch_home_mumbai",
+    "name": "Mahesh Lunch Home",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.9340269,
+      "lng": 72.8336071
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978367"
+  },
+  {
+    "id": "mocambo_cafe_mumbai",
+    "name": "Mocambo Cafe",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.9341792,
+      "lng": 72.8336802
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978373"
+  },
+  {
+    "id": "ideal_corner_mumbai",
+    "name": "Ideal Corner",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.9349624,
+      "lng": 72.8342167
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978379"
+  },
+  {
+    "id": "excellency_restaurant_mumbai",
+    "name": "Excellency Restaurant",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.9352567,
+      "lng": 72.8373924
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978386"
+  },
+  {
+    "id": "cafe_mondegar_mumbai",
+    "name": "Cafe Mondegar",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.9240421,
+      "lng": 72.8321786
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978392"
+  },
+  {
+    "id": "moshe's_mumbai",
+    "name": "Moshe's",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.917358,
+      "lng": 72.824523
+    },
+    "cuisine_types": [
+      "lebanese"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978398"
+  },
+  {
+    "id": "the_dome_mumbai",
+    "name": "The Dome",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.935069,
+      "lng": 72.8242843
+    },
+    "cuisine_types": [
+      "bar"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978404"
+  },
+  {
+    "id": "kamat_restaurant_mumbai",
+    "name": "Kamat Restaurant",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.9215278,
+      "lng": 72.8312063
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978410"
+  },
+  {
+    "id": "ankur_mumbai",
+    "name": "Ankur",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.9306421,
+      "lng": 72.8323368
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978416"
+  },
+  {
+    "id": "indigo_deli_mumbai",
+    "name": "Indigo Deli",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.9239059,
+      "lng": 72.8332921
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978422"
+  },
+  {
+    "id": "cafe_noorani_mumbai",
+    "name": "Cafe Noorani",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.9771417,
+      "lng": 72.8117849
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978428"
+  },
+  {
+    "id": "villa_39_mumbai",
+    "name": "Villa 39",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.9254094,
+      "lng": 72.8304996
+    },
+    "cuisine_types": [
+      "italian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978434"
+  },
+  {
+    "id": "little_italy_mumbai",
+    "name": "Little Italy",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.9544525,
+      "lng": 72.8184244
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978440"
+  },
+  {
+    "id": "sarvi_restaurant_mumbai",
+    "name": "Sarvi Restaurant",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.9667686,
+      "lng": 72.8291706
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978446"
+  },
+  {
+    "id": "olive_restaurant_mumbai",
+    "name": "Olive Restaurant",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 19.0717586,
+      "lng": 72.8253808
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978455"
+  },
+  {
+    "id": "umar_pulaowala_mumbai",
+    "name": "Umar Pulaowala",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.9592105,
+      "lng": 72.8303122
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978463"
+  },
+  {
+    "id": "trishna_mumbai",
+    "name": "Trishna",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.9286576,
+      "lng": 72.8323932
+    },
+    "cuisine_types": [
+      "seafood"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978469"
+  },
+  {
+    "id": "olympia_coffee_house_mumbai",
+    "name": "Olympia Coffee House",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.9226052,
+      "lng": 72.8312806
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978476"
+  },
+  {
+    "id": "indigo_mumbai",
+    "name": "Indigo",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 18.9222725,
+      "lng": 72.8320651
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978482"
+  },
+  {
+    "id": "domino's_mumbai",
+    "name": "Domino's",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 19.0354809,
+      "lng": 73.0634165
+    },
+    "cuisine_types": [
+      "pizza"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978488"
+  },
+  {
+    "id": "mcdonald's_mumbai",
+    "name": "McDonald's",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 19.0308533,
+      "lng": 73.0665721
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978494"
+  },
+  {
+    "id": "balaji_rest._mumbai",
+    "name": "Balaji Rest.",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 19.1546492,
+      "lng": 72.8561961
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978500"
+  },
+  {
+    "id": "mcdonald's_mumbai",
+    "name": "McDonald's",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 19.1546087,
+      "lng": 72.856386
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978506"
+  },
+  {
+    "id": "sai_veg_world_mumbai",
+    "name": "Sai Veg World",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 19.1648094,
+      "lng": 72.8502701
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978512"
+  },
+  {
+    "id": "food_court_-_essel_world_entrance_mumbai",
+    "name": "Food Court - Essel World Entrance",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 19.2358042,
+      "lng": 72.8034784
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978518"
+  },
+  {
+    "id": "domino's_mumbai",
+    "name": "Domino's",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 19.2307857,
+      "lng": 72.8061676
+    },
+    "cuisine_types": [
+      "pizza"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978524"
+  },
+  {
+    "id": "cafe_coffee_day_mumbai",
+    "name": "Cafe Coffee Day",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 19.2327064,
+      "lng": 72.8051845
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-07T21:44:34.978529"
+  }
+]

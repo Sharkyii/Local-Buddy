@@ -1,0 +1,137 @@
+[
+  {
+    "id": "norm_hindi_language_gwalior",
+    "city": "gwalior",
+    "title": "Hindi as the Everyday Default",
+    "category": "social",
+    "description": "Unlike India's larger metros, Gwalior runs almost entirely in Hindi — from markets and autos to most hotels and offices. English is understood in upscale hotels and colleges but isn't the default, and a few Hindi greetings go a long way.",
+    "context": {
+      "where": ["markets", "autos", "shops", "government_offices"],
+      "when": ["anytime"],
+      "with_whom": ["shopkeepers", "drivers", "locals"]
+    },
+    "dos": [
+      "Learn a few basic Hindi phrases — 'namaste', 'dhanyavaad', 'kitna hua' (how much)",
+      "Use a translation app for longer conversations outside hotels",
+      "Expect signage and menus to be primarily in Hindi"
+    ],
+    "donts": [
+      "Don't assume English will work everywhere like it might in Mumbai or Bangalore",
+      "Don't speak loudly or slowly in English expecting better understanding — it doesn't help"
+    ],
+    "embarrassment_risk": 4,
+    "prevalence": "very_common",
+    "acceptability": "neutral",
+    "gender_specific": false,
+    "relevance_for_travelers": "high",
+    "confidence_score": 0.87
+  },
+  {
+    "id": "norm_conservative_dress_gwalior",
+    "city": "gwalior",
+    "title": "Conservative Dress Expectations",
+    "category": "dress_code",
+    "description": "Gwalior is a traditional, mid-sized North Indian city where modest dress is the norm, especially around forts, temples and local markets. Western clothing isn't taboo but stands out far more than it would in a metro, particularly for women.",
+    "context": {
+      "where": ["temples", "forts", "markets", "residential_areas"],
+      "when": ["daytime", "religious_occasions"],
+      "with_whom": ["locals", "priests", "vendors"]
+    },
+    "dos": [
+      "Cover shoulders and knees, especially at religious and heritage sites",
+      "Carry a stole or scarf for temple visits",
+      "Dress slightly more conservatively than you would in Mumbai or Bangalore"
+    ],
+    "donts": [
+      "Don't wear sleeveless tops or shorts at Gwalior Fort or temple complexes",
+      "Don't be surprised by stares at noticeably Western outfits — it's curiosity, not hostility"
+    ],
+    "embarrassment_risk": 6,
+    "prevalence": "common",
+    "acceptability": "expected",
+    "gender_specific": true,
+    "relevance_for_travelers": "high",
+    "confidence_score": 0.84
+  },
+  {
+    "id": "norm_vegetarian_local_cuisine_gwalior",
+    "city": "gwalior",
+    "title": "Strong Vegetarian & Local Cuisine Culture",
+    "category": "food",
+    "description": "Like much of Madhya Pradesh, Gwalior leans heavily vegetarian. Poha-jalebi is the iconic breakfast, thalis are the standard lunch format, and vegetarian options dominate most restaurant menus — non-vegetarian food is available but less prominent than in coastal or metro cities.",
+    "context": {
+      "where": ["restaurants", "street_stalls", "homes", "thali_joints"],
+      "when": ["breakfast", "lunch", "anytime"],
+      "with_whom": ["locals", "hosts", "vendors"]
+    },
+    "dos": [
+      "Try poha-jalebi for breakfast — it's a genuine local institution",
+      "Order a thali for an easy, well-rounded local meal",
+      "Mention dietary preferences upfront — vegetarian options are the default, not an afterthought"
+    ],
+    "donts": [
+      "Don't expect the non-vegetarian variety you'd find in Mumbai or coastal cities",
+      "Don't assume every eatery serves meat — many are purely vegetarian"
+    ],
+    "embarrassment_risk": 2,
+    "prevalence": "very_common",
+    "acceptability": "fully_accepted",
+    "gender_specific": false,
+    "relevance_for_travelers": "medium",
+    "confidence_score": 0.86
+  },
+  {
+    "id": "norm_hospitality_culture_gwalior",
+    "city": "gwalior",
+    "title": "Warm, Personal Hospitality (\"Atithi Devo Bhava\")",
+    "category": "social",
+    "description": "Gwalior carries the small-city warmth common to much of North-Central India — strangers will often go out of their way to give directions, invite you for chai, or check that you're settling in well. Hospitality here is personal rather than transactional.",
+    "context": {
+      "where": ["markets", "neighborhoods", "homes", "hotels"],
+      "when": ["anytime"],
+      "with_whom": ["strangers", "shopkeepers", "neighbors"]
+    },
+    "dos": [
+      "Accept a cup of chai if offered — it's a genuine gesture, not a sales pitch",
+      "Reciprocate warmth with politeness; small talk is welcomed",
+      "Ask locals for recommendations — they take pride in showing off their city"
+    ],
+    "donts": [
+      "Don't be overly guarded or transactional — it can come across as cold",
+      "Don't dismiss an invitation outright; a polite decline is better than ignoring it"
+    ],
+    "embarrassment_risk": 3,
+    "prevalence": "common",
+    "acceptability": "fully_accepted",
+    "gender_specific": false,
+    "relevance_for_travelers": "medium",
+    "confidence_score": 0.8
+  },
+  {
+    "id": "norm_relaxed_pace_gwalior",
+    "city": "gwalior",
+    "title": "Relaxed, Slower-Paced Daily Rhythm",
+    "category": "general",
+    "description": "Life in Gwalior moves at a noticeably slower rhythm than in metros — many shops close for an afternoon break, festivals and local events can reshape a day's plans, and punctuality is treated as a loose guideline rather than a strict rule.",
+    "context": {
+      "where": ["markets", "offices", "shops", "public_services"],
+      "when": ["afternoons", "festival_days"],
+      "with_whom": ["shopkeepers", "officials", "service_providers"]
+    },
+    "dos": [
+      "Build slack into your schedule — plans can shift with little notice",
+      "Check shop hours in advance; many close in the afternoon and reopen in the evening",
+      "Treat delays with patience — getting visibly frustrated rarely speeds things up"
+    ],
+    "donts": [
+      "Don't expect Mumbai-speed service or transactions",
+      "Don't schedule tight back-to-back plans on festival days — much of the city slows down or closes"
+    ],
+    "embarrassment_risk": 3,
+    "prevalence": "common",
+    "acceptability": "neutral",
+    "gender_specific": false,
+    "relevance_for_travelers": "medium",
+    "confidence_score": 0.79
+  }
+]

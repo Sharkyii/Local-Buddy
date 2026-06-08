@@ -1,0 +1,88 @@
+[
+  {
+    "id": "coli_ahmedabad_1bhk_rent",
+    "city": "ahmedabad",
+    "category": "accommodation",
+    "item": "1BHK apartment rent",
+    "price_range": {
+      "min": 15000,
+      "max": 35000,
+      "avg": 22000
+    },
+    "neighborhood_breakdown": {
+      "satellite": {
+        "price": 28000,
+        "vibe": "modern"
+      },
+      "naranpura": {
+        "price": 20000,
+        "vibe": "traditional"
+      },
+      "bodakdev": {
+        "price": 25000,
+        "vibe": "mixed"
+      },
+      "old_city": {
+        "price": 15000,
+        "vibe": "historic"
+      }
+    },
+    "compared_to_city": "bangalore",
+    "parity_ratio": 0.63
+  },
+  {
+    "id": "coli_ahmedabad_meals",
+    "city": "ahmedabad",
+    "category": "food",
+    "item": "Meal at mid-range restaurant",
+    "price_range": {
+      "min": 150,
+      "max": 400,
+      "avg": 250
+    },
+    "neighborhood_breakdown": {
+      "satellite": {
+        "price": 350,
+        "vibe": "modern"
+      },
+      "naranpura": {
+        "price": 200,
+        "vibe": "traditional"
+      },
+      "bodakdev": {
+        "price": 250,
+        "vibe": "mixed"
+      }
+    },
+    "compared_to_city": "bangalore",
+    "parity_ratio": 0.60
+  },
+  {
+    "id": "coli_ahmedabad_transport",
+    "city": "ahmedabad",
+    "category": "transport",
+    "item": "Auto rickshaw for 5km",
+    "price_range": {
+      "min": 60,
+      "max": 150,
+      "avg": 100
+    },
+    "neighborhood_breakdown": {},
+    "compared_to_city": "bangalore",
+    "parity_ratio": 0.70
+  },
+  {
+    "id": "coli_ahmedabad_groceries",
+    "city": "ahmedabad",
+    "category": "food",
+    "item": "Monthly groceries budget for 1 person",
+    "price_range": {
+      "min": 3000,
+      "max": 6000,
+      "avg": 4500
+    },
+    "neighborhood_breakdown": {},
+    "compared_to_city": "bangalore",
+    "parity_ratio": 0.65
+  }
+]

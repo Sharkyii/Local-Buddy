@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "saint_stephens_mumbai",
+    "name": "Saint Stephens",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 18.964365,
+      "lng": 72.8046198
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172168"
+  },
+  {
+    "id": "panchamukhi_sri_hanuman_mandir_mumbai",
+    "name": "PANCHAMUKHI SRI HANUMAN MANDIR",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 18.9788007,
+      "lng": 73.1164346
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172212"
+  },
+  {
+    "id": "mahalaxmi_mandir_mumbai",
+    "name": "Mahalaxmi Mandir",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.1679752,
+      "lng": 73.2367637
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172225"
+  },
+  {
+    "id": "mount_carmels_church_mumbai",
+    "name": "Mount Carmels Church",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.0510021,
+      "lng": 72.8282639
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172235"
+  },
+  {
+    "id": "amphitheatre_mumbai",
+    "name": "Amphitheatre",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.0425669,
+      "lng": 72.8188717
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172250"
+  },
+  {
+    "id": "bandra_fort_mumbai",
+    "name": "Bandra Fort",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "ruins",
+    "category": "historical",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.0420614,
+      "lng": 72.818608
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172260"
+  },
+  {
+    "id": "dr_babasaheb_ambedkar_mumbai",
+    "name": "Dr Babasaheb Ambedkar",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "artwork",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.07022,
+      "lng": 72.8287784
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172269"
+  },
+  {
+    "id": "nuri_baba_darga_mumbai",
+    "name": "Nuri Baba Darga",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.198402,
+      "lng": 72.9703033
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172278"
+  },
+  {
+    "id": "lal_bahadur_shastri_mumbai",
+    "name": "Lal Bahadur Shastri",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "memorial",
+    "category": "historical",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.0001256,
+      "lng": 72.8141502
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172287"
+  },
+  {
+    "id": "castella_de_aguada_mumbai",
+    "name": "Castella de Aguada",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.0419788,
+      "lng": 72.8184995
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172301"
+  },
+  {
+    "id": "kala_qila_mumbai",
+    "name": "Kala Qila",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "historical",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.0509899,
+      "lng": 72.8601653
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172309"
+  },
+  {
+    "id": "\u092e\u093e\u0939\u0940\u092e_\u0915\u093f\u0932\u094d\u0932\u093e_mumbai",
+    "name": "\u092e\u093e\u0939\u0940\u092e \u0915\u093f\u0932\u094d\u0932\u093e",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.0420113,
+      "lng": 72.8381267
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172323"
+  },
+  {
+    "id": "ram_maruti_mandir_mumbai",
+    "name": "Ram Maruti Mandir",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.1626911,
+      "lng": 73.2400024
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172331"
+  },
+  {
+    "id": "our_lady_of_seven_dolours_mumbai",
+    "name": "Our Lady of Seven Dolours",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 18.9439146,
+      "lng": 72.8258253
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172338"
+  },
+  {
+    "id": "gol_masjid_mumbai",
+    "name": "Gol Masjid",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 18.9427438,
+      "lng": 72.8272693
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172345"
+  },
+  {
+    "id": "gaondevi_mandir_temple_mumbai",
+    "name": "Gaondevi Mandir Temple",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.1936582,
+      "lng": 72.9919452
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172353"
+  },
+  {
+    "id": "mahela_patel_agyari_mumbai",
+    "name": "Mahela Patel Agyari",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 18.9628974,
+      "lng": 72.8190105
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172374"
+  },
+  {
+    "id": "jain_derasar_(temple)_mumbai",
+    "name": "Jain Derasar (Temple)",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.1008565,
+      "lng": 72.8416507
+    },
+    "description": "Besant Road",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172381"
+  },
+  {
+    "id": "main_portuguese_gate_to_bombay_castle_mumbai",
+    "name": "Main Portuguese gate to Bombay Castle",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "ruins",
+    "category": "historical",
+    "significance": "local",
+    "coordinates": {
+      "lat": 18.9319814,
+      "lng": 72.8377568
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172393"
+  },
+  {
+    "id": "madh_fort_mumbai",
+    "name": "Madh Fort",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.1324703,
+      "lng": 72.7946179
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172405"
+  },
+  {
+    "id": "shri_swami_samarth_mandir_mumbai",
+    "name": "shri Swami Samarth Mandir",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.1655414,
+      "lng": 73.2320662
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172413"
+  },
+  {
+    "id": "mahakali_mandir_mumbai",
+    "name": "Mahakali Mandir",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.1648725,
+      "lng": 73.2308766
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172419"
+  },
+  {
+    "id": "shri_gavdevi_temple_mumbai",
+    "name": "Shri Gavdevi Temple",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.161974,
+      "lng": 73.2452265
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172426"
+  },
+  {
+    "id": "jamma_masjid_mumbai",
+    "name": "Jamma Masjid",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.1619995,
+      "lng": 73.2408454
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172437"
+  },
+  {
+    "id": "vidyapeeth_mumbai",
+    "name": "Vidyapeeth",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.1761516,
+      "lng": 73.2364546
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172443"
+  },
+  {
+    "id": "hanuman_mandir_mumbai",
+    "name": "Hanuman Mandir",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.17489,
+      "lng": 73.2371654
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172453"
+  },
+  {
+    "id": "datta_mandir_mumbai",
+    "name": "Datta Mandir",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.1712925,
+      "lng": 73.2348265
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172461"
+  },
+  {
+    "id": "rameshwadi_church_mumbai",
+    "name": "Rameshwadi Church",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.1659316,
+      "lng": 73.2499756
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172468"
+  },
+  {
+    "id": "ganesh_mandir_mumbai",
+    "name": "Ganesh Mandir",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.1683942,
+      "lng": 73.2439997
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172474"
+  },
+  {
+    "id": "saibaba_mandir_mumbai",
+    "name": "Saibaba Mandir",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.1694177,
+      "lng": 73.2435276
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172480"
+  },
+  {
+    "id": "ambamata_mandir_mumbai",
+    "name": "Ambamata Mandir",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.1673403,
+      "lng": 73.2409661
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172487"
+  },
+  {
+    "id": "godavara_(gamadia)_agiary_mumbai",
+    "name": "Godavara (Gamadia) Agiary",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 18.9346524,
+      "lng": 72.8339357
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172497"
+  },
+  {
+    "id": "ruttonsee_mujee_fountain_mumbai",
+    "name": "Ruttonsee Mujee Fountain",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "memorial",
+    "category": "historical",
+    "significance": "local",
+    "coordinates": {
+      "lat": 18.9355978,
+      "lng": 72.8371376
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172508"
+  },
+  {
+    "id": "bomanjee_hormasjee_wadia_memorial_clock_tower_mumbai",
+    "name": "Bomanjee Hormasjee Wadia Memorial Clock Tower",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "monument",
+    "category": "historical",
+    "significance": "local",
+    "coordinates": {
+      "lat": 18.9345311,
+      "lng": 72.8357563
+    },
+    "description": "Perin Nariman Street",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172517"
+  },
+  {
+    "id": "port_trust_wwi_memorial_mumbai",
+    "name": "Port Trust WWI Memorial",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "monument",
+    "category": "historical",
+    "significance": "local",
+    "coordinates": {
+      "lat": 18.9340663,
+      "lng": 72.8401441
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172524"
+  },
+  {
+    "id": "\u0939\u093e\u091c\u0940_\u0905\u0932\u0940_\u0926\u0930\u094d\u0917\u093e_mumbai",
+    "name": "\u0939\u093e\u091c\u0940 \u0905\u0932\u0940 \u0926\u0930\u094d\u0917\u093e",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 18.9828229,
+      "lng": 72.8089926
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172532"
+  },
+  {
+    "id": "\u092d\u093e\u090a_\u0926\u093e\u091c\u0940_\u0932\u093e\u0921_\u0938\u0902\u0917\u094d\u0930\u0939\u093e\u0932\u092f_mumbai",
+    "name": "\u092d\u093e\u090a \u0926\u093e\u091c\u0940 \u0932\u093e\u0921 \u0938\u0902\u0917\u094d\u0930\u0939\u093e\u0932\u092f",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "museum",
+    "category": "museum",
+    "significance": "local",
+    "coordinates": {
+      "lat": 18.9791636,
+      "lng": 72.8348012
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172542"
+  },
+  {
+    "id": "shiv_temple_mumbai",
+    "name": "Shiv Temple",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.1243128,
+      "lng": 72.8360841
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172548"
+  },
+  {
+    "id": "mota_mandir_mumbai",
+    "name": "Mota Mandir",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 18.9539279,
+      "lng": 72.8289145
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172560"
+  },
+  {
+    "id": "suryenarayan_mandir_mumbai",
+    "name": "Suryenarayan Mandir",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 18.958069,
+      "lng": 72.8260061
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172566"
+  },
+  {
+    "id": "shiva_temple_mumbai",
+    "name": "Shiva temple",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.1112999,
+      "lng": 73.169228
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172574"
+  },
+  {
+    "id": "haji_bakhtawar_shah_baba_mumbai",
+    "name": "Haji Bakhtawar Shah Baba",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.1123076,
+      "lng": 73.1691839
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172585"
+  },
+  {
+    "id": "2nd_dargah_mumbai",
+    "name": "2nd Dargah",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.110605,
+      "lng": 73.170216
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172591"
+  },
+  {
+    "id": "meer_sultan_shah_baba_mumbai",
+    "name": "Meer Sultan Shah Baba",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 19.1130069,
+      "lng": 73.175981
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172598"
+  },
+  {
+    "id": "maa_hajjani_masjid_and_dargah_mumbai",
+    "name": "Maa Hajjani Masjid and Dargah",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 18.9874184,
+      "lng": 72.8114617
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172604"
+  },
+  {
+    "id": "kazi_masjid_mumbai",
+    "name": "Kazi Masjid",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 18.9553242,
+      "lng": 72.8310417
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172611"
+  },
+  {
+    "id": "gol_deval_mumbai",
+    "name": "Gol Deval",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 18.9580758,
+      "lng": 72.8281645
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172617"
+  },
+  {
+    "id": "masjid_mumbai",
+    "name": "Masjid",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 18.9574653,
+      "lng": 72.8365671
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172624"
+  },
+  {
+    "id": "dhakhni_mohalla_masjid_mumbai",
+    "name": "Dhakhni Mohalla Masjid",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 18.9593695,
+      "lng": 72.8280732
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172635"
+  },
+  {
+    "id": "\u090f\u091f\u091d_\u091a\u093e\u0908\u092e_\u092a\u094d\u0930\u093e\u0930\u094d\u0925\u0928\u093e_\u0939\u0949\u0932;dr_m._iqbal_chowk_mumbai",
+    "name": "\u090f\u091f\u091d \u091a\u093e\u0908\u092e \u092a\u094d\u0930\u093e\u0930\u094d\u0925\u0928\u093e \u0939\u0949\u0932;Dr M. Iqbal Chowk",
+    "city": "Mumbai, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 18.9617015,
+      "lng": 72.8321028
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:54:47.172643"
+  }
+]

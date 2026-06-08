@@ -1,0 +1,34 @@
+[
+  {
+    "id": "area_lashkar_gwalior",
+    "name": "Lashkar",
+    "city": "gwalior",
+    "locality_type": "old_city_core",
+    "coordinates": {"lat": 26.2090, "lng": 78.1810},
+    "population": 150000,
+    "average_rent_1bhk": 8000,
+    "lifestyle_tags": ["traditional", "markets", "historic", "budget_friendly"],
+    "safety_level": "safe",
+    "public_transport_score": 5,
+    "walkability_score": 6,
+    "cultural_vibe": "traditional_local",
+    "area_reputation": "old_city_charm",
+    "notable_for": ["Sarafa Bazaar", "Jiwaji Rao Scindia Museum (Jai Vilas Palace)", "Local markets", "Heritage architecture"]
+  },
+  {
+    "id": "area_morar_gwalior",
+    "name": "Morar",
+    "city": "gwalior",
+    "locality_type": "residential",
+    "coordinates": {"lat": 26.2280, "lng": 78.2421},
+    "population": 120000,
+    "average_rent_1bhk": 6500,
+    "lifestyle_tags": ["quiet", "residential", "budget_friendly", "family_oriented"],
+    "safety_level": "very_safe",
+    "public_transport_score": 5,
+    "walkability_score": 5,
+    "cultural_vibe": "calm_residential",
+    "area_reputation": "peaceful_affordable",
+    "notable_for": ["Railway station proximity", "Local eateries", "Residential colonies", "Easy access to cantonment area"]
+  }
+]

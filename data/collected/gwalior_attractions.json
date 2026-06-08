@@ -1,0 +1,962 @@
+[
+  {
+    "id": "sasbahu_gwalior",
+    "name": "Sasbahu",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2236003,
+      "lng": 78.1704234
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778682"
+  },
+  {
+    "id": "thirtankars_gwalior",
+    "name": "Thirtankars",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "historical",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2237281,
+      "lng": 78.1658908
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778709"
+  },
+  {
+    "id": "man-singh-palace_gwalior",
+    "name": "Man-Singh-Palace",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "historical",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2303315,
+      "lng": 78.1692698
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778720"
+  },
+  {
+    "id": "teli-ka-mandir_gwalior",
+    "name": "Teli-ka-Mandir",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "historical",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2202948,
+      "lng": 78.1657079
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778728"
+  },
+  {
+    "id": "thirtankars_gwalior",
+    "name": "Thirtankars",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "attraction",
+    "category": "historical",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.223957,
+      "lng": 78.165085
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778735"
+  },
+  {
+    "id": "statue_of_mahatma_gandhi_gwalior",
+    "name": "Statue of Mahatma Gandhi",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "artwork",
+    "category": "entertainment",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2109459,
+      "lng": 78.1698625
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778744"
+  },
+  {
+    "id": "gujari_mahal_(archaeological_museum)_gwalior",
+    "name": "Gujari Mahal (Archaeological Museum)",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "museum",
+    "category": "museum",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2341237,
+      "lng": 78.1705511
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778752"
+  },
+  {
+    "id": "gurudwara_data_bandi_chhor_sahib_gwalior",
+    "name": "Gurudwara Data Bandi Chhor Sahib",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2203773,
+      "lng": 78.1671103
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778760"
+  },
+  {
+    "id": "cha_gwalior",
+    "name": "Cha",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2308797,
+      "lng": 78.169998
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778768"
+  },
+  {
+    "id": "tomb_of_mohammed_ghaus_gwalior",
+    "name": "Tomb of Mohammed Ghaus",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "monument",
+    "category": "historical",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2318335,
+      "lng": 78.1796752
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778777"
+  },
+  {
+    "id": "shree_katam_hanumanji_temple_gwalior",
+    "name": "Shree Katam Hanumanji Temple",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.8848187,
+      "lng": 78.327825
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778785"
+  },
+  {
+    "id": "shri_kamleshwar_temple_gwalior",
+    "name": "Shri kamleshwar temple",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.8860117,
+      "lng": 78.3341688
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778793"
+  },
+  {
+    "id": "hh_maharaja_sir_jiwajirao_scindia_museum_gwalior",
+    "name": "HH Maharaja Sir Jiwajirao Scindia Museum",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "museum",
+    "category": "museum",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2052037,
+      "lng": 78.1689471
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778801"
+  },
+  {
+    "id": "maharaja_panjav_singh_palace_gwalior",
+    "name": "Maharaja Panjav Singh palace",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.0291149,
+      "lng": 77.8992821
+    },
+    "description": "Lambardar Sarkar Rd Sirsa",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778809"
+  },
+  {
+    "id": "shri_ram_temple_gwalior",
+    "name": "shri ram temple",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2103432,
+      "lng": 78.2001126
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778816"
+  },
+  {
+    "id": "buddha_vihar_gwalior",
+    "name": "buddha vihar",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2092414,
+      "lng": 78.2007546
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778826"
+  },
+  {
+    "id": "buddha_vihar_gwalior",
+    "name": "buddha vihar",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2119949,
+      "lng": 78.2035244
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778834"
+  },
+  {
+    "id": "heritage_gwalior",
+    "name": "Heritage",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "ruins",
+    "category": "historical",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1952778,
+      "lng": 78.1808047
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778841"
+  },
+  {
+    "id": "achleshwar_mandir_gwalior",
+    "name": "Achleshwar Mandir",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1986402,
+      "lng": 78.1647581
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778851"
+  },
+  {
+    "id": "karas_dev_very_old_mandir_gwalior",
+    "name": "Karas Dev Very Old Mandir",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.0978588,
+      "lng": 78.3201954
+    },
+    "description": "Devpura",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778860"
+  },
+  {
+    "id": "shitla_mata_mandir_gwalior",
+    "name": "Shitla Mata Mandir",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.195601,
+      "lng": 78.1438319
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778867"
+  },
+  {
+    "id": "mote_ganesh_ji_gwalior",
+    "name": "Mote Ganesh Ji",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2001359,
+      "lng": 78.1454836
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778875"
+  },
+  {
+    "id": "indian_coffee_house_gwalior",
+    "name": "Indian Coffee House",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2090932,
+      "lng": 78.1714796
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778883"
+  },
+  {
+    "id": "shri_laxmi_narayan_mandir_gwalior",
+    "name": "Shri Laxmi Narayan Mandir",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "religious",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2051013,
+      "lng": 78.1465315
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-07T21:44:41.778890"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "area1_id": "area_indiranagar_bangalore",
+    "area2_id": "area_naranpura_ahmedabad",
+    "similarity_score": 0.72,
+    "shared_traits": ["markets", "local_food_scene", "mid_range_rent", "walkable"]
+  },
+  {
+    "area1_id": "area_whitefield_bangalore",
+    "area2_id": "area_satellite_ahmedabad",
+    "similarity_score": 0.68,
+    "shared_traits": ["modern_residential", "tech_professionals", "shopping_malls"]
+  }
+]
