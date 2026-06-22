@@ -57,44 +57,56 @@ class Repository:
 
     def get_restaurants(self, city_id: str, area_id: Optional[str] = None,
                         cuisine: Optional[str] = None, vegetarian_only: bool = False,
-                        price_range: Optional[str] = None, limit: int = 10) -> List[Dict[str, Any]]:
-        """Restaurants ranked by google_rating, optionally filtered by area/cuisine/diet/price."""
+                        price_range: Optional[str] = None, limit: int = 10,
+                        user_lat: Optional[float] = None, user_lng: Optional[float] = None) -> List[Dict[str, Any]]:
+        """Restaurants ranked by distance when user_lat/user_lng are given (nearest first,
+        rating as tiebreaker), else by google_rating. Optionally filtered by area/cuisine/diet/price."""
         return self._query("""
             MATCH (c:City {id: $city_id})-[:HAS_AREA]->(a:Area)-[:HAS_RESTAURANT]->(r:Restaurant)
             WHERE ($area_id IS NULL OR a.id = $area_id)
               AND (NOT $vegetarian_only OR r.vegetarian_options = true)
               AND ($cuisine IS NULL OR $cuisine IN r.cuisine_types)
               AND ($price_range IS NULL OR r.price_range = $price_range)
+            WITH r, a,
+                 CASE WHEN $user_lat IS NOT NULL AND $user_lng IS NOT NULL
+                      THEN point.distance(r.coordinates, point({latitude: $user_lat, longitude: $user_lng})) / 1000.0
+                      ELSE NULL END AS distance_km
             RETURN r.name AS name, a.name AS area, r.cuisine_types AS cuisine_types,
                    r.specialty_dishes AS specialty_dishes, r.price_range AS price_range,
                    r.average_cost_per_person AS average_cost_per_person,
                    r.vegetarian_options AS vegetarian_options, r.vegan_options AS vegan_options,
-                   r.ambiance AS ambiance, r.google_rating AS rating
-            ORDER BY r.google_rating DESC
+                   r.ambiance AS ambiance, r.google_rating AS rating, distance_km
+            ORDER BY distance_km ASC, r.google_rating DESC
             LIMIT $limit
         """, city_id=city_id, area_id=area_id, cuisine=cuisine, vegetarian_only=vegetarian_only,
-             price_range=price_range, limit=limit)
+             price_range=price_range, limit=limit, user_lat=user_lat, user_lng=user_lng)
 
     # ============ ATTRACTIONS (PLACES) ============
 
     def get_attractions(self, city_id: str, area_id: Optional[str] = None,
                         category: Optional[str] = None, must_visit_only: bool = False,
-                        limit: int = 10) -> List[Dict[str, Any]]:
-        """Attractions ranked by google_rating, optionally filtered by area/category/must-visit."""
+                        limit: int = 10, user_lat: Optional[float] = None,
+                        user_lng: Optional[float] = None) -> List[Dict[str, Any]]:
+        """Attractions ranked by distance when user_lat/user_lng are given (nearest first,
+        rating as tiebreaker), else by google_rating. Optionally filtered by area/category/must-visit."""
         rows = self._query("""
             MATCH (c:City {id: $city_id})-[:HAS_AREA]->(a:Area)-[:HAS_PLACE]->(p:Place)
             WHERE ($area_id IS NULL OR a.id = $area_id)
               AND ($category IS NULL OR p.category = $category)
               AND (NOT $must_visit_only OR p.must_visit = true)
+            WITH p, a,
+                 CASE WHEN $user_lat IS NOT NULL AND $user_lng IS NOT NULL
+                      THEN point.distance(p.coordinates, point({latitude: $user_lat, longitude: $user_lng})) / 1000.0
+                      ELSE NULL END AS distance_km
             RETURN p.name AS name, a.name AS area, p.place_type AS place_type,
                    p.category AS category, p.significance AS significance,
                    p.description AS description, p.duration_hours AS duration_hours,
                    p.entry_fee AS entry_fee, p.must_visit AS must_visit,
-                   p.google_rating AS rating
-            ORDER BY p.google_rating DESC
+                   p.google_rating AS rating, distance_km
+            ORDER BY distance_km ASC, p.google_rating DESC
             LIMIT $limit
         """, city_id=city_id, area_id=area_id, category=category,
-             must_visit_only=must_visit_only, limit=limit)
+             must_visit_only=must_visit_only, limit=limit, user_lat=user_lat, user_lng=user_lng)
         for row in rows:
             row["entry_fee"] = json.loads(row["entry_fee"]) if row["entry_fee"] else {}
         return rows

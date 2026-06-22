@@ -12,5 +12,8 @@ pydantic>=2.9.0
 # Database (repository layer)
 neo4j>=5.13.0
 
+# Conversation memory (chat history / session window / user facts)
+redis>=5.0.0
+
 # Config
 python-dotenv>=1.0.0

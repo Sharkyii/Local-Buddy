@@ -3,8 +3,9 @@ BaseAgent — pairs a system prompt with a fixed toolset and runs a manual
 tool-use loop through LiteLLM.
 
 LiteLLM gives every provider the same OpenAI-style `tools` / `tool_calls`
-shape, so one loop here drives either Claude or Groq depending on which API
-key is configured (see _select_model) — no per-provider agent code needed.
+shape, so one loop here drives Claude, Groq, or a local Ollama model
+depending on what's configured (see _select_model) — no per-provider
+agent code needed.
 """
 
 import json
@@ -33,14 +34,28 @@ MAX_TOOL_ROUNDS = 8
 COMPLETION_RETRIES = 3
 RATE_LIMIT_BACKOFF_SECONDS = 5
 
+# Qwen3 is a hybrid reasoning model — it emits a long <think> trace before every
+# answer unless told not to. "/no_think" is Qwen3's own documented directive for
+# suppressing that trace; it's meaningless (and harmless) to every other model,
+# so it's safe to always append rather than branch on which model is selected.
+NO_THINK_DIRECTIVE = "\n\n/no_think"
+
 
 def _select_model() -> str:
-    """Prefer Claude when ANTHROPIC_API_KEY is set; fall back to Groq's free tier."""
+    """OLLAMA_MODEL is an explicit override — set it to force a local model even
+    if ANTHROPIC_API_KEY/GROQ_API_KEY are also present (e.g. to keep everything
+    on-machine, with no chance of a cloud model volunteering outside knowledge).
+    Otherwise prefer Claude, then fall back to Groq's free tier."""
+    if os.getenv("OLLAMA_MODEL"):
+        return os.getenv("OLLAMA_MODEL")
     if os.getenv("ANTHROPIC_API_KEY"):
         return ANTHROPIC_MODEL
     if os.getenv("GROQ_API_KEY"):
         return GROQ_MODEL
-    raise RuntimeError("Set ANTHROPIC_API_KEY (preferred) or GROQ_API_KEY to run LocalBuddy's agents.")
+    raise RuntimeError(
+        "Set OLLAMA_MODEL (e.g. ollama_chat/qwen3:8b), ANTHROPIC_API_KEY, or GROQ_API_KEY "
+        "to run LocalBuddy's agents."
+    )
 
 
 @dataclass
@@ -61,17 +76,25 @@ class Tool:
 class BaseAgent:
     def __init__(self, system_prompt: str, tools: List[Tool]):
         self.model = _select_model()
-        self.system_prompt = system_prompt
+        self.system_prompt = system_prompt + NO_THINK_DIRECTIVE
         self.tool_schemas = [tool.to_schema() for tool in tools]
         self.tool_functions = {tool.name: tool.function for tool in tools}
 
     def respond(self, query: str) -> str:
-        """Run the tool-use loop to completion and return the model's final text reply."""
-        messages = [
+        """Stateless one-shot ask — used by sub-agents, which never carry memory."""
+        return self._loop([
             {"role": "system", "content": self.system_prompt},
             {"role": "user", "content": query},
-        ]
+        ])
 
+    def respond_to(self, messages: List[Dict[str, Any]]) -> str:
+        """Multi-turn ask — `messages` already carries whatever the caller assembled
+        (history, injected user-memory facts, the new turn); the system prompt is
+        prepended here so callers never need to know it."""
+        return self._loop([{"role": "system", "content": self.system_prompt}, *messages])
+
+    def _loop(self, messages: List[Dict[str, Any]]) -> str:
+        """Run the tool-use loop to completion and return the model's final text reply."""
         for _ in range(MAX_TOOL_ROUNDS):
             response = self._complete(messages)
             message = response.choices[0].message
@@ -82,7 +105,10 @@ class BaseAgent:
             messages.append(message)
             for call in tool_calls:
                 function = self.tool_functions[call.function.name]
-                arguments = json.loads(call.function.arguments or "{}")
+                # Groq sometimes returns the literal string "null" for a no-arg
+                # tool's arguments instead of "{}" — json.loads turns that into
+                # None, and **None blows up, so coerce back to {} either way.
+                arguments = json.loads(call.function.arguments or "{}") or {}
                 messages.append({
                     "tool_call_id": call.id,
                     "role": "tool",
