@@ -84,11 +84,15 @@ class OpenStreetMapCollector:
         time.sleep(1)  # Nominatim rate limit: 1 req/s
 
         filters = (
-            '  node["tourism"~"museum|attraction|monument|artwork|viewpoint"]'
+            '  node["tourism"~"museum|attraction|monument|artwork|viewpoint|theme_park"]'
             "(around:{radius},{lat},{lng});\n"
             '  node["historic"~"monument|memorial|castle|ruins|archaeological_site"]'
             "(around:{radius},{lat},{lng});\n"
-            '  node["amenity"="place_of_worship"](around:{radius},{lat},{lng});'
+            '  node["amenity"="place_of_worship"](around:{radius},{lat},{lng});\n'
+            '  node["leisure"~"park|garden|nature_reserve|swimming_pool|water_park|amusement_arcade"]'
+            "(around:{radius},{lat},{lng});\n"
+            '  node["shop"="mall"](around:{radius},{lat},{lng});\n'
+            '  node["amenity"~"cinema|theatre|nightclub"](around:{radius},{lat},{lng});'
         )
         elements = self._overpass_query(center["lat"], center["lng"], filters, search_radius)
 
@@ -106,6 +110,41 @@ class OpenStreetMapCollector:
         logger.info(f"✓ Found {len(places)} attractions")
         return places
 
+    def search_utilities(self, city_name: str, search_radius: int = 50000,
+                         result_limit: int = 50) -> List[Place]:
+        """Practical day-to-day places — healthcare, finance, transport, fitness.
+        Separate from search_attractions since these aren't sightseeing, but
+        stored as the same Place node type (just new PlaceCategory values)."""
+        logger.info(f"Searching utilities in {city_name}...")
+        center = self._geocode(city_name)
+        if not center:
+            return []
+        time.sleep(1)
+
+        filters = (
+            '  node["amenity"~"hospital|pharmacy|clinic"](around:{radius},{lat},{lng});\n'
+            '  node["amenity"~"atm|bank"](around:{radius},{lat},{lng});\n'
+            '  node["amenity"~"bus_station"](around:{radius},{lat},{lng});\n'
+            '  node["highway"="bus_stop"](around:{radius},{lat},{lng});\n'
+            '  node["railway"~"station|halt"](around:{radius},{lat},{lng});\n'
+            '  node["leisure"="fitness_centre"](around:{radius},{lat},{lng});'
+        )
+        elements = self._overpass_query(center["lat"], center["lng"], filters, search_radius)
+
+        places, seen = [], set()
+        for item in elements:
+            if len(places) >= result_limit:
+                break
+            if item["id"] in seen:
+                continue
+            seen.add(item["id"])
+            place = self._parse_place(item, city_name)
+            if place:
+                places.append(place)
+
+        logger.info(f"✓ Found {len(places)} utilities")
+        return places
+
     def search_hotels(self, city_name: str, search_radius: int = 50000,
                       result_limit: int = 50) -> List[Hotel]:
         logger.info(f"Searching hotels in {city_name}...")
@@ -115,7 +154,7 @@ class OpenStreetMapCollector:
         time.sleep(1)
 
         filters = (
-            '  node["tourism"~"hotel|hostel|guest_house|motel"]'
+            '  node["tourism"~"hotel|hostel|guest_house|motel|resort"]'
             "(around:{radius},{lat},{lng});"
         )
         elements = self._overpass_query(center["lat"], center["lng"], filters, search_radius)
@@ -168,6 +207,14 @@ class OpenStreetMapCollector:
     def _city_slug(self, city_name: str) -> str:
         return city_name.split(",")[0].lower().replace(" ", "_")
 
+    def _make_id(self, name: str, city_name: str, lat: float, lng: float) -> str:
+        """Name-only IDs collapse distinct real locations that share a name
+        (e.g. 10 different State Bank of India branches all MERGEing into one
+        node) — coordinates (~11m precision) disambiguate them while staying
+        stable across re-runs of the same OSM node."""
+        name_slug = name.lower().replace(" ", "_")
+        return f"{name_slug}_{round(lat, 4)}_{round(lng, 4)}_{self._city_slug(city_name)}"
+
     def _parse_place(self, item: Dict, city_name: str) -> Optional[Place]:
         try:
             tags = item.get("tags", {})
@@ -177,7 +224,7 @@ class OpenStreetMapCollector:
                 return None
 
             return Place(
-                id=f"{name.lower().replace(' ', '_')}_{self._city_slug(city_name)}",
+                id=self._make_id(name, city_name, lat, lng),
                 name=name,
                 city=city_name,
                 area="city_center",
@@ -206,12 +253,13 @@ class OpenStreetMapCollector:
                 stars = 0
 
             return Hotel(
-                id=f"{name.lower().replace(' ', '_')}_{self._city_slug(city_name)}",
+                id=self._make_id(name, city_name, lat, lng),
                 name=name,
                 city=city_name,
                 area="city_center",
                 coordinates=Coordinates(lat=lat, lng=lng),
                 stars=stars,
+                hotel_type=tags.get("tourism", "hotel"),
                 data_source="openstreetmap",
             )
         except Exception as e:
@@ -230,7 +278,7 @@ class OpenStreetMapCollector:
             cuisine_types = [c.strip() for c in raw_cuisine.split(";")]
 
             return Restaurant(
-                id=f"{name.lower().replace(' ', '_')}_{self._city_slug(city_name)}",
+                id=self._make_id(name, city_name, lat, lng),
                 name=name,
                 city=city_name,
                 area="city_center",
@@ -252,7 +300,18 @@ class OpenStreetMapCollector:
         leisure = tags.get("leisure", "")
         waterway = tags.get("waterway", "")
         water = tags.get("water", "")
+        shop = tags.get("shop", "")
+        highway = tags.get("highway", "")
+        railway = tags.get("railway", "")
 
+        if amenity in ("hospital", "pharmacy", "clinic"):
+            return PlaceCategory.HEALTHCARE
+        if amenity in ("atm", "bank"):
+            return PlaceCategory.FINANCE
+        if amenity == "bus_station" or highway == "bus_stop" or railway in ("station", "halt"):
+            return PlaceCategory.TRANSPORT
+        if leisure == "fitness_centre":
+            return PlaceCategory.FITNESS
         if "museum" in tourism:
             return PlaceCategory.MUSEUM
         if historic in ("monument", "memorial", "castle", "ruins", "archaeological_site"):
@@ -279,9 +338,20 @@ class OpenStreetMapCollector:
             return PlaceCategory.PARK
         if natural in ("wood", "forest"):
             return PlaceCategory.NATURE
-        if tourism == "mall" or amenity == "marketplace":
+        if tourism == "mall" or amenity == "marketplace" or shop == "mall":
             return PlaceCategory.SHOPPING
-        return PlaceCategory.ENTERTAINMENT
+        if amenity in ("cinema", "theatre") or leisure in ("water_park", "amusement_arcade") \
+                or tourism == "theme_park":
+            return PlaceCategory.ENTERTAINMENT
+        if amenity == "nightclub":
+            return PlaceCategory.NIGHTLIFE
+        if leisure == "swimming_pool":
+            return PlaceCategory.POOL
+        # Covers tourism=artwork/attraction (queried for explicitly in
+        # search_attractions) plus anything else with no specific rule above.
+        # NOT "entertainment" — that implies cinemas/theme parks, which is
+        # misleading for an arbitrary unmatched OSM node.
+        return PlaceCategory.LANDMARK
 
 
 if __name__ == '__main__':

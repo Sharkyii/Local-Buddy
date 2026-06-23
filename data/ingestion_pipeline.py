@@ -10,7 +10,7 @@ import time
 from pathlib import Path
 from dotenv import load_dotenv
 from typing import List
-from data.models import City, Area, Place, Restaurant, Hotel, Norm, Coordinates
+from data.models import City, Area, Place, Restaurant, Hotel, Norm, Coordinates, CostOfLiving
 from data.collectors.osm_collector import OpenStreetMapCollector
 from data.loaders.neo4j_loader import Neo4jLoader
 
@@ -74,6 +74,10 @@ class DataIngestionPipeline:
         logger.info(f"[STEP 4] Collecting restaurants from OpenStreetMap...")
         self._collect_and_load(city_name, city_id, "restaurants")
 
+        time.sleep(5)
+        logger.info(f"[STEP 4b] Collecting utilities (healthcare/finance/transport/fitness)...")
+        self._collect_and_load(city_name, city_id, "utilities")
+
         # Step 5: Load manual data (norms, areas, seed places, cost of living)
         logger.info(f"[STEP 5] Loading manual data from JSON fixtures...")
         self.load_manual_norms(city_id)
@@ -110,6 +114,17 @@ class DataIngestionPipeline:
         "attractions": ("search_attractions", "load_attractions_to_neo4j"),
         "hotels": ("search_hotels", "load_hotels_to_neo4j"),
         "restaurants": ("search_restaurants", "load_restaurants_to_neo4j"),
+        # Practical places (healthcare/finance/transport/fitness) — same Place node
+        # type as attractions, so it reuses that loader rather than duplicating it.
+        "utilities": ("search_utilities", "load_attractions_to_neo4j"),
+    }
+
+    # Maps a collection kind to its (node label, Area relationship) for link_to_nearest_area
+    LINK_TARGETS = {
+        "attractions": ("Place", "HAS_PLACE"),
+        "hotels": ("Hotel", "HAS_HOTEL"),
+        "restaurants": ("Restaurant", "HAS_RESTAURANT"),
+        "utilities": ("Place", "HAS_PLACE"),
     }
 
     def _collect_and_load(self, city_name: str, city_id: str, kind: str) -> int:
@@ -138,13 +153,12 @@ class DataIngestionPipeline:
             logger.warning(f"  ⚠️  No stats found for {city_id} — run run_full_pipeline first")
             return
 
-        link_targets = {
-            "attractions": ("Place", "HAS_PLACE"),
-            "hotels": ("Hotel", "HAS_HOTEL"),
-            "restaurants": ("Restaurant", "HAS_RESTAURANT"),
-        }
+        # "utilities" shares the Place label with "attractions", and
+        # get_city_stats only reports one combined count for it (keyed
+        # "attractions") — checking "utilities" here would always read as a
+        # phantom gap (the key never exists) and re-collect every single run.
         gaps = [kind for kind in self._COLLECTION_METHODS
-                if stats.get(kind, 0) < threshold]
+                if kind != "utilities" and stats.get(kind, 0) < threshold]
 
         if not gaps:
             logger.info(f"  ✓ No data gaps for {city_name} (all categories ≥ {threshold})")
@@ -158,8 +172,41 @@ class DataIngestionPipeline:
             count = self._collect_and_load(city_name, city_id, kind)
             logger.info(f"  → Re-collected {count} {kind} for {city_name}")
 
-            label, relationship = link_targets[kind]
+            label, relationship = self.LINK_TARGETS[kind]
             self.neo4j_loader.link_to_nearest_area(city_id, label, relationship)
+
+    def verify_hotel_prices(self, repository, city_id: str, city_name: str, limit: int = None):
+        """Web-search each hotel's current price (via PriceVerifier) and stamp the
+        result onto its Hotel node. Takes a Repository instance from the caller
+        rather than opening a second Neo4j connection — api/main.py already holds
+        one in app.state. Paced with a delay between hotels since this is one
+        search + one LLM call per hotel and free search APIs rate-limit on volume.
+
+        `limit` caps how many hotels get (re-)verified in one call — verifying an
+        entire city's worth of hotels can take minutes, so default callers (the
+        /admin/refresh endpoint) should pass a sane cap rather than running
+        unbounded by default."""
+        from data.price_verifier import PriceVerifier
+
+        hotels = repository.get_hotels(city_id, limit=limit or 1000)
+        verifier = PriceVerifier()
+        logger.info(f"  Verifying live prices for {len(hotels)} hotels in {city_name}...")
+
+        verified = 0
+        for i, hotel in enumerate(hotels):
+            if i > 0:
+                time.sleep(2)
+            result = verifier.verify_hotel_price(hotel["name"], city_name)
+            if self.neo4j_loader.update_verified_price(
+                city_id, hotel["name"], result["price"], result["currency"], result["confidence"],
+            ):
+                verified += 1
+                if result["price"] is not None:
+                    logger.info(f"  → {hotel['name']}: {result['price']} {result['currency']} "
+                                f"({result['confidence']} confidence)")
+
+        logger.info(f"✓ Verified prices for {verified}/{len(hotels)} hotels in {city_name}")
+        return verified
 
     def bootstrap_city(self, city_name: str, city_id: str):
         """
@@ -425,7 +472,9 @@ class DataIngestionPipeline:
             logger.error(f"Error loading norm contexts: {e}")
 
     def load_manual_cost_of_living(self, city_id: str):
-        """Load cost of living data from JSON"""
+        """Load cost of living data from JSON into Neo4j as CostOfLiving nodes
+        linked to the City — previously this only validated the JSON parsed
+        without ever writing it to the graph, so the data was uncollectable."""
         fixture_file = self.data_dir / f"{city_id}_cost_of_living.json"
 
         if not fixture_file.exists():
@@ -434,9 +483,24 @@ class DataIngestionPipeline:
 
         try:
             with open(fixture_file, 'r') as f:
-                json.load(f)
+                items_data = json.load(f)
 
-            logger.info(f"✓ Cost of living data ready for {city_id}")
+            created = 0
+            for item_dict in items_data:
+                item = CostOfLiving(
+                    id=item_dict["id"],
+                    city=item_dict["city"],
+                    category=item_dict["category"],
+                    item=item_dict["item"],
+                    price_range=item_dict.get("price_range", {}),
+                    neighborhood_breakdown=item_dict.get("neighborhood_breakdown", {}),
+                    compared_to_city=item_dict.get("compared_to_city", ""),
+                    parity_ratio=item_dict.get("parity_ratio", 1.0),
+                )
+                if self.neo4j_loader.create_cost_of_living_item(item):
+                    created += 1
+
+            logger.info(f"✓ Loaded {created}/{len(items_data)} cost-of-living items for {city_id}")
 
         except Exception as e:
             logger.error(f"Error loading cost of living: {e}")

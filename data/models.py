@@ -46,11 +46,54 @@ class PlaceCategory(Enum):
     WATERFALL = "waterfall"
     MARKET = "market"
     SHOPPING = "shopping"
-    ENTERTAINMENT = "entertainment"
-    NIGHTLIFE = "nightlife"
+    ENTERTAINMENT = "entertainment"  # cinemas, theatres, theme/water parks, amusement arcades
+    NIGHTLIFE = "nightlife"  # nightclubs
+    POOL = "pool"  # swimming pools
     FOOD = "food"
     EDUCATIONAL = "educational"
     NATURE = "nature"
+    HEALTHCARE = "healthcare"  # hospitals, clinics, pharmacies
+    FINANCE = "finance"  # ATMs, banks
+    TRANSPORT = "transport"  # bus stops/stations, railway stations
+    FITNESS = "fitness"  # gyms/fitness centres
+    LANDMARK = "landmark"  # public art/sculptures/generic attractions — honest catch-all,
+                           # NOT a synonym for "entertainment" (cinemas/theme parks etc.)
+
+
+# Buckets the fine-grained PlaceCategory values into a handful of clean
+# top-level groups for display (map legends, agent summaries) without losing
+# the precise category used for filtering. Pure lookup, not stored on nodes —
+# computed at read time in Repository so it can't drift out of sync.
+CATEGORY_GROUPS: Dict[str, str] = {
+    "historical": "Heritage & Culture",
+    "religious": "Heritage & Culture",
+    "museum": "Heritage & Culture",
+    "landmark": "Heritage & Culture",
+    "park": "Nature & Outdoors",
+    "garden": "Nature & Outdoors",
+    "lake": "Nature & Outdoors",
+    "river": "Nature & Outdoors",
+    "dam": "Nature & Outdoors",
+    "viewpoint": "Nature & Outdoors",
+    "wildlife": "Nature & Outdoors",
+    "beach": "Nature & Outdoors",
+    "waterfall": "Nature & Outdoors",
+    "nature": "Nature & Outdoors",
+    "market": "Shopping & Leisure",
+    "shopping": "Shopping & Leisure",
+    "entertainment": "Shopping & Leisure",
+    "nightlife": "Shopping & Leisure",
+    "pool": "Shopping & Leisure",
+    "educational": "Education",
+    "healthcare": "Services & Utilities",
+    "finance": "Services & Utilities",
+    "transport": "Services & Utilities",
+    "fitness": "Services & Utilities",
+}
+
+
+def category_group(category: Optional[str]) -> str:
+    return CATEGORY_GROUPS.get(category, "Other")
 
 
 @dataclass
@@ -254,6 +297,7 @@ class Hotel:
     area: str
     coordinates: Coordinates
     stars: int  # 1-5
+    hotel_type: str = "hotel"  # OSM tourism tag: hotel/resort/hostel/guest_house/motel
     price_per_night: Dict[str, int] = None  # {"economy": 1000, "standard": 2000}
     amenities: List[str] = None
     specialties: List[str] = None

@@ -1,6 +1,6 @@
 [
   {
-    "id": "spice_ahmedabad",
+    "id": "spice_23.0125_72.568_ahmedabad",
     "name": "Spice",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -9,6 +9,7 @@
       "lng": 72.5679747
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -18,10 +19,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675806"
+    "created_at": "2026-06-22T16:34:27.545070"
   },
   {
-    "id": "dev_regency_ahmedabad",
+    "id": "dev_regency_23.0156_72.5657_ahmedabad",
     "name": "Dev Regency",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -30,6 +31,7 @@
       "lng": 72.5656966
     },
     "stars": 3,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -39,10 +41,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675838"
+    "created_at": "2026-06-22T16:34:27.545091"
   },
   {
-    "id": "comfort_inn_ahmedabad",
+    "id": "comfort_inn_23.0811_72.617_ahmedabad",
     "name": "Comfort Inn",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -51,6 +53,7 @@
       "lng": 72.6169531
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -60,10 +63,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675848"
+    "created_at": "2026-06-22T16:34:27.545099"
   },
   {
-    "id": "sabermati_ashram_guesthouse_ahmedabad",
+    "id": "sabermati_ashram_guesthouse_23.0614_72.58_ahmedabad",
     "name": "Sabermati Ashram Guesthouse",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -72,6 +75,7 @@
       "lng": 72.579973
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -81,10 +85,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675855"
+    "created_at": "2026-06-22T16:34:27.545104"
   },
   {
-    "id": "hotel_alkan_ahmedabad",
+    "id": "hotel_alkan_23.0292_72.5835_ahmedabad",
     "name": "Hotel Alkan",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -93,6 +97,7 @@
       "lng": 72.5834609
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -102,10 +107,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675862"
+    "created_at": "2026-06-22T16:34:27.545110"
   },
   {
-    "id": "the_grand_bhagwati_ahmedabad",
+    "id": "the_grand_bhagwati_23.0425_72.5144_ahmedabad",
     "name": "The Grand Bhagwati",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -114,6 +119,7 @@
       "lng": 72.5144059
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -123,10 +129,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675868"
+    "created_at": "2026-06-22T16:34:27.545114"
   },
   {
-    "id": "kaka_bhajipav_ahmedabad",
+    "id": "kaka_bhajipav_23.0037_72.638_ahmedabad",
     "name": "Kaka Bhajipav",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -135,6 +141,7 @@
       "lng": 72.6379538
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -144,10 +151,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675874"
+    "created_at": "2026-06-22T16:34:27.545119"
   },
   {
-    "id": "the_ummed_ahmedabad_ahmedabad",
+    "id": "the_ummed_ahmedabad_23.0824_72.6165_ahmedabad",
     "name": "The Ummed Ahmedabad",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -156,6 +163,7 @@
       "lng": 72.6165176
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -165,10 +173,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675879"
+    "created_at": "2026-06-22T16:34:27.545124"
   },
   {
-    "id": "al-aman_hotel_ahmedabad",
+    "id": "al-aman_hotel_23.0171_72.5899_ahmedabad",
     "name": "Al-Aman Hotel",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -177,6 +185,7 @@
       "lng": 72.589927
     },
     "stars": 0,
+    "hotel_type": "guest_house",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -186,10 +195,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675884"
+    "created_at": "2026-06-22T16:34:27.545128"
   },
   {
-    "id": "cadillac_guest_house_ahmedabad",
+    "id": "cadillac_guest_house_23.026_72.5814_ahmedabad",
     "name": "Cadillac Guest House",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -198,6 +207,7 @@
       "lng": 72.5814073
     },
     "stars": 0,
+    "hotel_type": "guest_house",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -207,10 +217,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675890"
+    "created_at": "2026-06-22T16:34:27.545133"
   },
   {
-    "id": "good_night_ahmedabad",
+    "id": "good_night_23.0269_72.5817_ahmedabad",
     "name": "Good Night",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -219,6 +229,7 @@
       "lng": 72.5816588
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -228,10 +239,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675896"
+    "created_at": "2026-06-22T16:34:27.545137"
   },
   {
-    "id": "hotel_embassy_ahmedabad",
+    "id": "hotel_embassy_23.0233_72.5785_ahmedabad",
     "name": "Hotel Embassy",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -240,6 +251,7 @@
       "lng": 72.5784759
     },
     "stars": 0,
+    "hotel_type": "guest_house",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -249,10 +261,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675904"
+    "created_at": "2026-06-22T16:34:27.545142"
   },
   {
-    "id": "new_esquire_ahmedabad",
+    "id": "new_esquire_23.0268_72.5817_ahmedabad",
     "name": "New Esquire",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -261,6 +273,7 @@
       "lng": 72.5816543
     },
     "stars": 0,
+    "hotel_type": "guest_house",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -270,10 +283,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675921"
+    "created_at": "2026-06-22T16:34:27.545146"
   },
   {
-    "id": "paris_hotel_ahmedabad",
+    "id": "paris_hotel_23.028_72.5981_ahmedabad",
     "name": "Paris Hotel",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -282,6 +295,7 @@
       "lng": 72.5981085
     },
     "stars": 0,
+    "hotel_type": "guest_house",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -291,10 +305,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675927"
+    "created_at": "2026-06-22T16:34:27.545151"
   },
   {
-    "id": "rajdhani_guest_house_ahmedabad",
+    "id": "rajdhani_guest_house_23.0253_72.5816_ahmedabad",
     "name": "Rajdhani Guest House",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -303,6 +317,7 @@
       "lng": 72.5815886
     },
     "stars": 0,
+    "hotel_type": "guest_house",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -312,10 +327,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675933"
+    "created_at": "2026-06-22T16:34:27.545155"
   },
   {
-    "id": "sahil_guest_house_ahmedabad",
+    "id": "sahil_guest_house_23.0258_72.5816_ahmedabad",
     "name": "Sahil Guest House",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -324,6 +339,7 @@
       "lng": 72.5815592
     },
     "stars": 0,
+    "hotel_type": "guest_house",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -333,10 +349,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675939"
+    "created_at": "2026-06-22T16:34:27.545160"
   },
   {
-    "id": "soheb_guest_house_ahmedabad",
+    "id": "soheb_guest_house_23.0254_72.5816_ahmedabad",
     "name": "Soheb Guest House",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -345,6 +361,7 @@
       "lng": 72.5815908
     },
     "stars": 0,
+    "hotel_type": "guest_house",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -354,10 +371,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675945"
+    "created_at": "2026-06-22T16:34:27.545165"
   },
   {
-    "id": "venus_guest_house_ahmedabad",
+    "id": "venus_guest_house_23.0259_72.5816_ahmedabad",
     "name": "Venus Guest House",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -366,6 +383,7 @@
       "lng": 72.5815558
     },
     "stars": 0,
+    "hotel_type": "guest_house",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -375,10 +393,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675951"
+    "created_at": "2026-06-22T16:34:27.545170"
   },
   {
-    "id": "bismillah_boarding_guesthouse_ahmedabad",
+    "id": "bismillah_boarding_guesthouse_23.0249_72.5828_ahmedabad",
     "name": "Bismillah Boarding Guesthouse",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -387,6 +405,7 @@
       "lng": 72.5828443
     },
     "stars": 0,
+    "hotel_type": "guest_house",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -396,10 +415,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675959"
+    "created_at": "2026-06-22T16:34:27.545275"
   },
   {
-    "id": "comfort_ahmedabad",
+    "id": "comfort_23.0265_72.5821_ahmedabad",
     "name": "Comfort",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -408,6 +427,7 @@
       "lng": 72.5821262
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -417,10 +437,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675965"
+    "created_at": "2026-06-22T16:34:27.545280"
   },
   {
-    "id": "mehul_ahmedabad",
+    "id": "mehul_23.0267_72.5819_ahmedabad",
     "name": "Mehul",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -429,6 +449,7 @@
       "lng": 72.581946
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -438,10 +459,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675970"
+    "created_at": "2026-06-22T16:34:27.545283"
   },
   {
-    "id": "metropole_ahmedabad",
+    "id": "metropole_23.0267_72.5819_ahmedabad",
     "name": "Metropole",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -450,6 +471,7 @@
       "lng": 72.5819313
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -459,10 +481,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675976"
+    "created_at": "2026-06-22T16:34:27.545287"
   },
   {
-    "id": "naeeka_ahmedabad",
+    "id": "naeeka_23.0552_72.5909_ahmedabad",
     "name": "Naeeka",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -471,6 +493,7 @@
       "lng": 72.5908571
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -480,10 +503,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675982"
+    "created_at": "2026-06-22T16:34:27.545291"
   },
   {
-    "id": "sahara_ahmedabad",
+    "id": "sahara_23.0253_72.583_ahmedabad",
     "name": "Sahara",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -492,6 +515,7 @@
       "lng": 72.5829711
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -501,10 +525,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675991"
+    "created_at": "2026-06-22T16:34:27.545295"
   },
   {
-    "id": "volga_ahmedabad",
+    "id": "volga_23.0268_72.582_ahmedabad",
     "name": "Volga",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -513,6 +537,7 @@
       "lng": 72.582027
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -522,10 +547,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.675996"
+    "created_at": "2026-06-22T16:34:27.545299"
   },
   {
-    "id": "zk_ahmedabad",
+    "id": "zk_23.0263_72.5825_ahmedabad",
     "name": "ZK",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -534,6 +559,7 @@
       "lng": 72.5824954
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -543,10 +569,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676002"
+    "created_at": "2026-06-22T16:34:27.545303"
   },
   {
-    "id": "hotel_repose_ahmedabad",
+    "id": "hotel_repose_23.2982_72.4374_ahmedabad",
     "name": "Hotel Repose",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -555,6 +581,7 @@
       "lng": 72.437423
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -564,10 +591,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676008"
+    "created_at": "2026-06-22T16:34:27.545307"
   },
   {
-    "id": "hotel_sahyog_ahmedabad",
+    "id": "hotel_sahyog_23.2813_72.4417_ahmedabad",
     "name": "Hotel SAHYOG",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -576,6 +603,7 @@
       "lng": 72.4416567
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -585,10 +613,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676013"
+    "created_at": "2026-06-22T16:34:27.545311"
   },
   {
-    "id": "hotel_prestige_ahmedabad",
+    "id": "hotel_prestige_23.3068_72.436_ahmedabad",
     "name": "Hotel prestige",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -597,6 +625,7 @@
       "lng": 72.4359525
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -606,10 +635,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676019"
+    "created_at": "2026-06-22T16:34:27.545314"
   },
   {
-    "id": "amrit_hotel_chhatral_ahmedabad",
+    "id": "amrit_hotel_chhatral_23.2653_72.4638_ahmedabad",
     "name": "Amrit hotel chhatral",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -618,6 +647,7 @@
       "lng": 72.4638403
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -627,10 +657,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676024"
+    "created_at": "2026-06-22T16:34:27.545318"
   },
   {
-    "id": "hotel_sky_way_ahmedabad",
+    "id": "hotel_sky_way_23.3797_72.4051_ahmedabad",
     "name": "hotel sky way",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -639,6 +669,7 @@
       "lng": 72.4051152
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -648,10 +679,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676030"
+    "created_at": "2026-06-22T16:34:27.545321"
   },
   {
-    "id": "hotel_silver_inn_ahmedabad",
+    "id": "hotel_silver_inn_23.2526_72.4841_ahmedabad",
     "name": "Hotel silver inn",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -660,6 +691,7 @@
       "lng": 72.4840781
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -669,10 +701,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676036"
+    "created_at": "2026-06-22T16:34:27.545325"
   },
   {
-    "id": "hotel_sangam_ahmedabad",
+    "id": "hotel_sangam_23.3795_72.4063_ahmedabad",
     "name": "Hotel sangam",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -681,6 +713,7 @@
       "lng": 72.4062593
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -690,10 +723,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676041"
+    "created_at": "2026-06-22T16:34:27.545328"
   },
   {
-    "id": "hotel_sangrila_ahmedabad",
+    "id": "hotel_sangrila_22.9139_72.4019_ahmedabad",
     "name": "hotel sangrila",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -702,6 +735,7 @@
       "lng": 72.401875
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -711,10 +745,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676047"
+    "created_at": "2026-06-22T16:34:27.545333"
   },
   {
-    "id": "hotel_purohit_ahmedabad",
+    "id": "hotel_purohit_23.3481_72.4174_ahmedabad",
     "name": "hotel purohit",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -723,6 +757,7 @@
       "lng": 72.4174145
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -732,10 +767,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676052"
+    "created_at": "2026-06-22T16:34:27.545337"
   },
   {
-    "id": "hotel_ambar_ahmedabad",
+    "id": "hotel_ambar_23.3794_72.4054_ahmedabad",
     "name": "Hotel ambar",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -744,6 +779,7 @@
       "lng": 72.4053812
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -753,10 +789,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676058"
+    "created_at": "2026-06-22T16:34:27.545340"
   },
   {
-    "id": "hotel_sagar_ahmedabad",
+    "id": "hotel_sagar_23.3833_72.4054_ahmedabad",
     "name": "hotel sagar",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -765,6 +801,7 @@
       "lng": 72.4054079
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -774,10 +811,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676063"
+    "created_at": "2026-06-22T16:34:27.545344"
   },
   {
-    "id": "hotel_garden_safari_ahmedabad",
+    "id": "hotel_garden_safari_23.3874_72.4029_ahmedabad",
     "name": "hotel garden safari",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -786,6 +823,7 @@
       "lng": 72.4028606
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -795,10 +833,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676069"
+    "created_at": "2026-06-22T16:34:27.545347"
   },
   {
-    "id": "hotel_navjivan_ahmedabad",
+    "id": "hotel_navjivan_23.4148_72.397_ahmedabad",
     "name": "hotel navjivan",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -807,6 +845,7 @@
       "lng": 72.3970084
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -816,10 +855,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676082"
+    "created_at": "2026-06-22T16:34:27.545351"
   },
   {
-    "id": "hotel_relish_ahmedabad",
+    "id": "hotel_relish_23.4327_72.3905_ahmedabad",
     "name": "Hotel relish",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -828,6 +867,7 @@
       "lng": 72.3904988
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -837,10 +877,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676088"
+    "created_at": "2026-06-22T16:34:27.545354"
   },
   {
-    "id": "hotel_kalapi_ahmedabad",
+    "id": "hotel_kalapi_23.3291_72.426_ahmedabad",
     "name": "Hotel kalapi",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -849,6 +889,7 @@
       "lng": 72.4259505
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -858,10 +899,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676093"
+    "created_at": "2026-06-22T16:34:27.545358"
   },
   {
-    "id": "hotel_suhana_ahmedabad",
+    "id": "hotel_suhana_23.3932_72.402_ahmedabad",
     "name": "hotel suhana",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -870,6 +911,7 @@
       "lng": 72.4019931
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -879,10 +921,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676098"
+    "created_at": "2026-06-22T16:34:27.545361"
   },
   {
-    "id": "swagat_hotel_ahmedabad",
+    "id": "swagat_hotel_23.3967_72.3989_ahmedabad",
     "name": "swagat hotel",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -891,6 +933,7 @@
       "lng": 72.3989119
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -900,10 +943,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676104"
+    "created_at": "2026-06-22T16:34:27.545365"
   },
   {
-    "id": "shiv_kripa_hotel_ahmedabad",
+    "id": "shiv_kripa_hotel_23.3509_72.4164_ahmedabad",
     "name": "Shiv kripa hotel",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -912,6 +955,7 @@
       "lng": 72.4163906
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -921,10 +965,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676109"
+    "created_at": "2026-06-22T16:34:27.545368"
   },
   {
-    "id": "navjivan_hotel_ahmedabad",
+    "id": "navjivan_hotel_23.4247_72.394_ahmedabad",
     "name": "navjivan hotel",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -933,6 +977,7 @@
       "lng": 72.3940447
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -942,10 +987,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676249"
+    "created_at": "2026-06-22T16:34:27.545372"
   },
   {
-    "id": "hotel_new_sagar_ahmedabad",
+    "id": "hotel_new_sagar_23.3536_72.4154_ahmedabad",
     "name": "Hotel new sagar",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -954,6 +999,7 @@
       "lng": 72.4153666
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -963,10 +1009,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676254"
+    "created_at": "2026-06-22T16:34:27.545376"
   },
   {
-    "id": "hotel_gokul_ahmedabad",
+    "id": "hotel_gokul_23.3272_72.4279_ahmedabad",
     "name": "Hotel gokul",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -975,6 +1021,7 @@
       "lng": 72.427916
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -984,10 +1031,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676260"
+    "created_at": "2026-06-22T16:34:27.545379"
   },
   {
-    "id": "hotel_ashirvad_ahmedabad",
+    "id": "hotel_ashirvad_23.2786_72.4411_ahmedabad",
     "name": "Hotel ashirvad",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -996,6 +1043,7 @@
       "lng": 72.4410709
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -1005,10 +1053,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676265"
+    "created_at": "2026-06-22T16:34:27.545383"
   },
   {
-    "id": "hotel_sindbad_ahmedabad",
+    "id": "hotel_sindbad_23.2523_72.4855_ahmedabad",
     "name": "Hotel sindbad",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -1017,6 +1065,7 @@
       "lng": 72.4854844
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -1026,10 +1075,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676270"
+    "created_at": "2026-06-22T16:34:27.545386"
   },
   {
-    "id": "hotel_sahyog_ahmedabad",
+    "id": "hotel_sahyog_23.2789_72.4418_ahmedabad",
     "name": "Hotel Sahyog",
     "city": "Ahmedabad, India",
     "area": "city_center",
@@ -1038,6 +1087,7 @@
       "lng": 72.4417611
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -1047,6 +1097,1172 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:43:36.676275"
+    "created_at": "2026-06-22T16:34:27.545390"
+  },
+  {
+    "id": "sattadhar_benquet_23.2488_72.4848_ahmedabad",
+    "name": "Sattadhar Benquet",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2487984,
+      "lng": 72.4847949
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545394"
+  },
+  {
+    "id": "hotel_satkar_23.2798_72.4417_ahmedabad",
+    "name": "Hotel Satkar",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2798133,
+      "lng": 72.4416517
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545397"
+  },
+  {
+    "id": "hotel_amiras_23.2796_72.4411_ahmedabad",
+    "name": "Hotel Amiras",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2796399,
+      "lng": 72.4410772
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545401"
+  },
+  {
+    "id": "hotel_royal_hill_23.2523_72.484_ahmedabad",
+    "name": "Hotel royal hill",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2522871,
+      "lng": 72.4840233
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545404"
+  },
+  {
+    "id": "olive_plaza_guest_house_23.4327_72.3907_ahmedabad",
+    "name": "Olive Plaza Guest House",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.4327326,
+      "lng": 72.3907409
+    },
+    "stars": 0,
+    "hotel_type": "guest_house",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545408"
+  },
+  {
+    "id": "hotel_neptune\n_23.2391_72.4917_ahmedabad",
+    "name": "Hotel Neptune\n",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2391067,
+      "lng": 72.4916641
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545411"
+  },
+  {
+    "id": "hotel_nayan_palace_23.2833_72.4403_ahmedabad",
+    "name": "Hotel Nayan palace",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2833368,
+      "lng": 72.4403287
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545415"
+  },
+  {
+    "id": "hotel_honey_bonney_23.0333_72.5579_ahmedabad",
+    "name": "hotel honey bonney",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0333487,
+      "lng": 72.5578806
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545418"
+  },
+  {
+    "id": "adi_jati_kanya_chhatralay-_hostel_23.0684_72.5768_ahmedabad",
+    "name": "Adi jati kanya chhatralay- Hostel",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0683684,
+      "lng": 72.5767927
+    },
+    "stars": 0,
+    "hotel_type": "hostel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545422"
+  },
+  {
+    "id": "garden_paradise_23.0452_72.4616_ahmedabad",
+    "name": "Garden Paradise",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0451788,
+      "lng": 72.4615643
+    },
+    "stars": 0,
+    "hotel_type": "guest_house",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545425"
+  },
+  {
+    "id": "stop_n_stay_23.18_72.5741_ahmedabad",
+    "name": "Stop N Stay",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1800454,
+      "lng": 72.5741461
+    },
+    "stars": 0,
+    "hotel_type": "motel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545429"
+  },
+  {
+    "id": "ghanshyam_o/blok_23.0773_72.5544_ahmedabad",
+    "name": "ghanshyam o/blok",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0772851,
+      "lng": 72.5544064
+    },
+    "stars": 0,
+    "hotel_type": "guest_house",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545433"
+  },
+  {
+    "id": "boulevard_9_resort_and_spa_22.6876_72.8388_ahmedabad",
+    "name": "Boulevard 9 Resort and Spa",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.6875574,
+      "lng": 72.8388482
+    },
+    "stars": 3,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545437"
+  },
+  {
+    "id": "terrace_garden_22.6943_72.8596_ahmedabad",
+    "name": "Terrace Garden",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.6943043,
+      "lng": 72.8596266
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545441"
+  },
+  {
+    "id": "bhavsar_hostel_23.0675_72.569_ahmedabad",
+    "name": "Bhavsar Hostel",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.06745,
+      "lng": 72.568993
+    },
+    "stars": 0,
+    "hotel_type": "hostel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545445"
+  },
+  {
+    "id": "prl_thaltz_hostel_23.0436_72.4929_ahmedabad",
+    "name": "Prl thaltz hostel",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0435976,
+      "lng": 72.4929192
+    },
+    "stars": 0,
+    "hotel_type": "hostel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545450"
+  },
+  {
+    "id": "krsna_lila_23.0288_72.3001_ahmedabad",
+    "name": "Krsna Lila",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0288104,
+      "lng": 72.3001469
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545453"
+  },
+  {
+    "id": "evergreen_hotel_22.9743_72.5865_ahmedabad",
+    "name": "Evergreen Hotel",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.9742764,
+      "lng": 72.5865341
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545457"
+  },
+  {
+    "id": "royal_hotel_23.1615_72.8081_ahmedabad",
+    "name": "Royal Hotel",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1615482,
+      "lng": 72.8080635
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545460"
+  },
+  {
+    "id": "fortune_inn_haveli_23.2172_72.6491_ahmedabad",
+    "name": "Fortune Inn Haveli",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2172456,
+      "lng": 72.6491326
+    },
+    "stars": 4,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545464"
+  },
+  {
+    "id": "h1_boys_hostel_23.1266_72.5448_ahmedabad",
+    "name": "H1 Boys hostel",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1266251,
+      "lng": 72.5448028
+    },
+    "stars": 0,
+    "hotel_type": "hostel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545468"
+  },
+  {
+    "id": "anu_fellows_university_hostel_23.0233_72.4122_ahmedabad",
+    "name": "ANU Fellows University Hostel",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0232777,
+      "lng": 72.4122274
+    },
+    "stars": 0,
+    "hotel_type": "hostel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545472"
+  },
+  {
+    "id": "sanskardham_school_hostel_23.029_72.4279_ahmedabad",
+    "name": "Sanskardham School Hostel",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0290226,
+      "lng": 72.4279103
+    },
+    "stars": 0,
+    "hotel_type": "hostel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545475"
+  },
+  {
+    "id": "ramada_23.0106_72.5048_ahmedabad",
+    "name": "Ramada",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0106115,
+      "lng": 72.5048495
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545479"
+  },
+  {
+    "id": "\u0939\u094b\u091f\u0932_\u092e\u0940\u0930\u0947\u0915\u0932_23.015_72.5951_ahmedabad",
+    "name": "\u0939\u094b\u091f\u0932 \u092e\u0940\u0930\u0947\u0915\u0932",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0149614,
+      "lng": 72.5951405
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545484"
+  },
+  {
+    "id": "jalaram_parotha_house_23.0178_72.5678_ahmedabad",
+    "name": "Jalaram Parotha House",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0178297,
+      "lng": 72.567758
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545489"
+  },
+  {
+    "id": "hotel_marigol_23.2288_72.6484_ahmedabad",
+    "name": "Hotel marigol",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2288072,
+      "lng": 72.6484446
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545492"
+  },
+  {
+    "id": "hotel_darshan_23.3899_72.399_ahmedabad",
+    "name": "Hotel Darshan",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.3899055,
+      "lng": 72.3990293
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545496"
+  },
+  {
+    "id": "amris_23.2852_72.4409_ahmedabad",
+    "name": "amris",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2852301,
+      "lng": 72.4408574
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545499"
+  },
+  {
+    "id": "radisson_blu_23.0233_72.5572_ahmedabad",
+    "name": "Radisson Blu",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0232906,
+      "lng": 72.5572097
+    },
+    "stars": 5,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545503"
+  },
+  {
+    "id": "hyatt_vastrapore_lake_23.0392_72.5305_ahmedabad",
+    "name": "Hyatt Vastrapore Lake",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0391529,
+      "lng": 72.530495
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545506"
+  },
+  {
+    "id": "hotel_king_palace_23.064_72.5814_ahmedabad",
+    "name": "Hotel King Palace",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0639876,
+      "lng": 72.5813581
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545509"
+  },
+  {
+    "id": "kirti_executive_lounge_23.027_72.6012_ahmedabad",
+    "name": "Kirti Executive Lounge",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0270204,
+      "lng": 72.6011501
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545513"
+  },
+  {
+    "id": "amba_suites_hotel_&_conventions_23.1873_72.574_ahmedabad",
+    "name": "Amba Suites Hotel & Conventions",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1872784,
+      "lng": 72.5740038
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545517"
+  },
+  {
+    "id": "wyndham_ahmedabad_23.0062_72.4542_ahmedabad",
+    "name": "Wyndham Ahmedabad",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0062125,
+      "lng": 72.4542309
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545521"
+  },
+  {
+    "id": "holiday_inn_express_23.0114_72.5106_ahmedabad",
+    "name": "Holiday Inn Express",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.011444,
+      "lng": 72.5106175
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545524"
+  },
+  {
+    "id": "\u0917\u0941\u0930\u094d\u091c\u0930_\u0922\u093e\u092c\u093e_\u090f\u0902\u0921_\u091f\u094d\u0930\u0915_\u092a\u093e\u0930\u094d\u0915\u093f\u0902\u0917_23.1731_72.3749_ahmedabad",
+    "name": "\u0917\u0941\u0930\u094d\u091c\u0930 \u0922\u093e\u092c\u093e \u090f\u0902\u0921 \u091f\u094d\u0930\u0915 \u092a\u093e\u0930\u094d\u0915\u093f\u0902\u0917",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1730717,
+      "lng": 72.3749067
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545528"
+  },
+  {
+    "id": "gurjar_dhaba_truck_parking_ka_suvidha_23.1751_72.3751_ahmedabad",
+    "name": "Gurjar Dhaba truck parking ka suvidha",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1751073,
+      "lng": 72.3751066
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545532"
+  },
+  {
+    "id": "hotel_decent_truck_parking_23.3915_72.4024_ahmedabad",
+    "name": "Hotel decent truck parking",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.3915245,
+      "lng": 72.4023559
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545535"
+  },
+  {
+    "id": "\u0916\u093e\u0932\u0938\u093e_\u092a\u0902\u091c\u093e\u092c_22.7109_72.8019_ahmedabad",
+    "name": "\u0916\u093e\u0932\u0938\u093e \u092a\u0902\u091c\u093e\u092c",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.7108805,
+      "lng": 72.8019249
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545539"
+  },
+  {
+    "id": "hotel_kamran_palace_23.0269_72.583_ahmedabad",
+    "name": "Hotel Kamran Palace",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0269056,
+      "lng": 72.5829956
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545542"
+  },
+  {
+    "id": "bahumali_bhavan_23.0255_72.5795_ahmedabad",
+    "name": "bahumali bhavan",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0254619,
+      "lng": 72.5794892
+    },
+    "stars": 0,
+    "hotel_type": "guest_house",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545546"
+  },
+  {
+    "id": "the_parterre_23.0509_72.5037_ahmedabad",
+    "name": "The Parterre",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0509007,
+      "lng": 72.5037209
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545550"
+  },
+  {
+    "id": "the_leela_gandhinagar_23.2341_72.6289_ahmedabad",
+    "name": "The Leela Gandhinagar",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2341338,
+      "lng": 72.6288875
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545554"
+  },
+  {
+    "id": "hotel_surya_villas_by_srurban_hotels_23.041_72.5521_ahmedabad",
+    "name": "Hotel Surya Villas by SrUrban Hotels",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.041029,
+      "lng": 72.5520935
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545558"
+  },
+  {
+    "id": "marshall_23.03_72.5993_ahmedabad",
+    "name": "Marshall",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0300339,
+      "lng": 72.5992998
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545562"
+  },
+  {
+    "id": "mg_hostel_and_pg_accommodation_23.2219_72.5037_ahmedabad",
+    "name": "MG Hostel and PG Accommodation",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2219429,
+      "lng": 72.503733
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545565"
+  },
+  {
+    "id": "ginger_23.0264_72.3101_ahmedabad",
+    "name": "Ginger",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0264243,
+      "lng": 72.3101169
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545569"
+  },
+  {
+    "id": "the_grand_vinayak_hotel_23.2354_72.6662_ahmedabad",
+    "name": "The Grand Vinayak Hotel",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2353537,
+      "lng": 72.6662414
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545573"
+  },
+  {
+    "id": "hillton_23.1848_72.6292_ahmedabad",
+    "name": "Hillton",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1848365,
+      "lng": 72.6291705
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545576"
+  },
+  {
+    "id": "downtown_23.1845_72.6313_ahmedabad",
+    "name": "Downtown",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1845139,
+      "lng": 72.6312887
+    },
+    "stars": 0,
+    "hotel_type": "hotel",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545579"
+  },
+  {
+    "id": "parmeshwar_5_23.1224_72.5734_ahmedabad",
+    "name": "Parmeshwar 5",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1223913,
+      "lng": 72.5733728
+    },
+    "stars": 0,
+    "hotel_type": "guest_house",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545583"
+  },
+  {
+    "id": "naniji's_home_23.115_72.5672_ahmedabad",
+    "name": "Naniji's home",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1150163,
+      "lng": 72.5672211
+    },
+    "stars": 0,
+    "hotel_type": "guest_house",
+    "price_per_night": {},
+    "amenities": [],
+    "specialties": [],
+    "accessibility": {},
+    "google_rating": 0.0,
+    "check_in_time": "14:00",
+    "check_out_time": "11:00",
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:27.545586"
   }
 ]

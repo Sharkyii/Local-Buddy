@@ -10,7 +10,7 @@ body {
 }
 
 .app {
-  max-width: 720px;
+  max-width: 960px;
   margin: 0 auto;
   height: 100vh;
   display: flex;
@@ -28,6 +28,32 @@ header {
 header h1 {
   font-size: 1.1rem;
   margin: 0;
+}
+
+.header-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.view-toggle {
+  display: flex;
+  border: 1px solid #2f333d;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.view-toggle button {
+  background: #1b1e26;
+  color: #e6e6e6;
+  border: none;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+.view-toggle button.active {
+  background: #2f6fed;
+  color: white;
 }
 
 select {
@@ -111,4 +137,43 @@ select {
 .input-row button:disabled {
   opacity: 0.5;
   cursor: default;
+}
+
+.map-view {
+  flex: 1;
+  position: relative;
+  min-height: 0;
+}
+
+.map-loading {
+  padding: 20px;
+  color: #9aa0aa;
+}
+
+.map-legend {
+  position: absolute;
+  bottom: 16px;
+  left: 16px;
+  z-index: 1000;
+  background: rgba(15, 17, 21, 0.85);
+  border: 1px solid #2f333d;
+  border-radius: 8px;
+  padding: 8px 12px;
+  display: flex;
+  gap: 12px;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.8rem;
+  text-transform: capitalize;
+}
+
+.legend-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
 }

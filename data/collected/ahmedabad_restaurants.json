@@ -1,1 +1,7110 @@
-[]
+[
+  {
+    "id": "vishala_22.9936_72.5357_ahmedabad",
+    "name": "Vishala",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.9936417,
+      "lng": 72.5357058
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502053"
+  },
+  {
+    "id": "rajvadu_restaurant_23.0042_72.5398_ahmedabad",
+    "name": "Rajvadu Restaurant",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0042051,
+      "lng": 72.5397742
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502072"
+  },
+  {
+    "id": "mangaldas_ni_haveli_23.0227_72.5921_ahmedabad",
+    "name": "Mangaldas Ni Haveli",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0227338,
+      "lng": 72.5920852
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502079"
+  },
+  {
+    "id": "mcdonald's_23.0318_72.5702_ahmedabad",
+    "name": "McDonald's",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0317635,
+      "lng": 72.5701852
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502085"
+  },
+  {
+    "id": "cyber_cafe_23.0423_72.57_ahmedabad",
+    "name": "Cyber Cafe",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0422876,
+      "lng": 72.5699576
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502090"
+  },
+  {
+    "id": "cafe_souq_23.041_72.5486_ahmedabad",
+    "name": "Cafe Souq",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0410467,
+      "lng": 72.5485619
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502095"
+  },
+  {
+    "id": "chocolate_room_23.0407_72.5485_ahmedabad",
+    "name": "Chocolate Room",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0407234,
+      "lng": 72.5485324
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502099"
+  },
+  {
+    "id": "barrista,_vijay_4_roads_23.0427_72.5495_ahmedabad",
+    "name": "Barrista, Vijay 4 Roads",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0427079,
+      "lng": 72.5494685
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502103"
+  },
+  {
+    "id": "cafe_coffee_day_23.0313_72.5494_ahmedabad",
+    "name": "Cafe Coffee Day",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0312796,
+      "lng": 72.5493907
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502107"
+  },
+  {
+    "id": "upper_crust_cafe_23.0412_72.5486_ahmedabad",
+    "name": "Upper Crust Cafe",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0412121,
+      "lng": 72.5485673
+    },
+    "cuisine_types": [
+      "international"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502112"
+  },
+  {
+    "id": "cafeteria_23.1887_72.6268_ahmedabad",
+    "name": "Cafeteria",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1887134,
+      "lng": 72.6268235
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502116"
+  },
+  {
+    "id": "chai_gate!!!_23.0121_72.5692_ahmedabad",
+    "name": "Chai Gate!!!",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0120603,
+      "lng": 72.5691606
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502121"
+  },
+  {
+    "id": "amul_23.0117_72.5688_ahmedabad",
+    "name": "Amul",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0116852,
+      "lng": 72.568823
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502125"
+  },
+  {
+    "id": "u.s_pizza_22.6811_72.8688_ahmedabad",
+    "name": "U.S Pizza",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.6811071,
+      "lng": 72.868841
+    },
+    "cuisine_types": [
+      "pizza"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502129"
+  },
+  {
+    "id": "dinner_bell_23.0458_72.5525_ahmedabad",
+    "name": "Dinner Bell",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0457522,
+      "lng": 72.5524611
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502133"
+  },
+  {
+    "id": "havmor_restaurant_23.0377_72.5658_ahmedabad",
+    "name": "Havmor Restaurant",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0376713,
+      "lng": 72.565775
+    },
+    "cuisine_types": [
+      "italian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502137"
+  },
+  {
+    "id": "natural_ice_cream_23.0329_72.5655_ahmedabad",
+    "name": "Natural Ice Cream",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0328812,
+      "lng": 72.5655478
+    },
+    "cuisine_types": [
+      "ice_cream"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502141"
+  },
+  {
+    "id": "agashiye_restaurant_23.027_72.5816_ahmedabad",
+    "name": "Agashiye Restaurant",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0270378,
+      "lng": 72.5816167
+    },
+    "cuisine_types": [
+      "regional"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502170"
+  },
+  {
+    "id": "food_temple_23.0848_72.5648_ahmedabad",
+    "name": "Food Temple",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0847638,
+      "lng": 72.5647629
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502174"
+  },
+  {
+    "id": "black_salt_23.0523_72.4999_ahmedabad",
+    "name": "Black Salt",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0523024,
+      "lng": 72.4998803
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502178"
+  },
+  {
+    "id": "green_house_restaurant_23.0273_72.5816_ahmedabad",
+    "name": "Green House Restaurant",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0272633,
+      "lng": 72.5816108
+    },
+    "cuisine_types": [
+      "regional"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502182"
+  },
+  {
+    "id": "vrundavan_restaurant;akhbar_nagar_circle_23.0674_72.5646_ahmedabad",
+    "name": "Vrundavan Restaurant;AKHBAR NAGAR CIRCLE",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0674245,
+      "lng": 72.5645716
+    },
+    "cuisine_types": [
+      "Punjabi,_SouthIndia,_Gujarati Thali."
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502186"
+  },
+  {
+    "id": "ken's_koffee_plus_plus_23.1964_72.6328_ahmedabad",
+    "name": "Ken's Koffee Plus Plus",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1964319,
+      "lng": 72.6328106
+    },
+    "cuisine_types": [
+      "Gujarati"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502190"
+  },
+  {
+    "id": "real_paprika_23.0213_72.5435_ahmedabad",
+    "name": "Real Paprika",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0212619,
+      "lng": 72.543503
+    },
+    "cuisine_types": [
+      "pizza"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502195"
+  },
+  {
+    "id": "gol_limbda_bhajiya_and_nashta_house_23.0201_72.586_ahmedabad",
+    "name": "Gol Limbda Bhajiya and Nashta House",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0200882,
+      "lng": 72.5860331
+    },
+    "cuisine_types": [
+      "regional"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502199"
+  },
+  {
+    "id": "zen_cafe_23.0362_72.5494_ahmedabad",
+    "name": "Zen Cafe",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0362229,
+      "lng": 72.5494261
+    },
+    "cuisine_types": [
+      "coffee",
+      "snack"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502203"
+  },
+  {
+    "id": "barbeque_nation_23.048_72.5269_ahmedabad",
+    "name": "Barbeque Nation",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0480405,
+      "lng": 72.526862
+    },
+    "cuisine_types": [
+      "regional"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502207"
+  },
+  {
+    "id": "cafe_coffee_day_23.033_72.56_ahmedabad",
+    "name": "Cafe Coffee Day",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0329764,
+      "lng": 72.5600005
+    },
+    "cuisine_types": [
+      "coffee_shop"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502211"
+  },
+  {
+    "id": "shreeji_krupa_vadapav_23.0423_72.5492_ahmedabad",
+    "name": "Shreeji krupa vadapav",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0423379,
+      "lng": 72.549193
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502214"
+  },
+  {
+    "id": "mcdonald's_23.0424_72.5487_ahmedabad",
+    "name": "McDonald's",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0423816,
+      "lng": 72.5486525
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502218"
+  },
+  {
+    "id": "asharfilal_kulfi_23.0427_72.5492_ahmedabad",
+    "name": "Asharfilal Kulfi",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0426757,
+      "lng": 72.5492422
+    },
+    "cuisine_types": [
+      "ice_cream"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502222"
+  },
+  {
+    "id": "ghandi_cold_drink_house_23.0246_72.5829_ahmedabad",
+    "name": "Ghandi Cold Drink House",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0246187,
+      "lng": 72.5828928
+    },
+    "cuisine_types": [
+      "ice_cream"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502226"
+  },
+  {
+    "id": "lucky_tea_shop_23.0276_72.5811_ahmedabad",
+    "name": "Lucky Tea Shop",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.027562,
+      "lng": 72.5811204
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502230"
+  },
+  {
+    "id": "naeeka_23.0552_72.5909_ahmedabad",
+    "name": "Naeeka",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0552316,
+      "lng": 72.5908571
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502233"
+  },
+  {
+    "id": "nishat_23.0249_72.5829_ahmedabad",
+    "name": "Nishat",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0248713,
+      "lng": 72.5829376
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502237"
+  },
+  {
+    "id": "nishat_23.0249_72.5831_ahmedabad",
+    "name": "Nishat",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0248607,
+      "lng": 72.5830856
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502241"
+  },
+  {
+    "id": "paramount_23.0246_72.5824_ahmedabad",
+    "name": "Paramount",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0245678,
+      "lng": 72.5823659
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502244"
+  },
+  {
+    "id": "relief_cyber_cafe_23.0263_72.583_ahmedabad",
+    "name": "Relief Cyber Cafe",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0263181,
+      "lng": 72.5830356
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502248"
+  },
+  {
+    "id": "jasuben_pizza_23.0207_72.5541_ahmedabad",
+    "name": "Jasuben Pizza",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0206812,
+      "lng": 72.5540845
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502252"
+  },
+  {
+    "id": "canteen_23.1862_72.633_ahmedabad",
+    "name": "Canteen",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1862186,
+      "lng": 72.6329653
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502256"
+  },
+  {
+    "id": "maharaj_food_corner_23.0839_72.5892_ahmedabad",
+    "name": "MAHARAJ Food Corner",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0839448,
+      "lng": 72.5892158
+    },
+    "cuisine_types": [
+      "regional"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502260"
+  },
+  {
+    "id": "waah_23.0343_72.5609_ahmedabad",
+    "name": "waah",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0342579,
+      "lng": 72.5609251
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502264"
+  },
+  {
+    "id": "havmor_23.0343_72.5608_ahmedabad",
+    "name": "havmor",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0342641,
+      "lng": 72.5608446
+    },
+    "cuisine_types": [
+      "regional"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502267"
+  },
+  {
+    "id": "choice_23.0345_72.5613_ahmedabad",
+    "name": "choice",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0344517,
+      "lng": 72.5612536
+    },
+    "cuisine_types": [
+      "pizza"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502271"
+  },
+  {
+    "id": "chocolate_room_23.0358_72.5617_ahmedabad",
+    "name": "chocolate room",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0358422,
+      "lng": 72.5617312
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502276"
+  },
+  {
+    "id": "purohit_23.0342_72.561_ahmedabad",
+    "name": "purohit",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0342345,
+      "lng": 72.5610096
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502279"
+  },
+  {
+    "id": "cafe_coffee_day_23.0245_72.5073_ahmedabad",
+    "name": "Cafe Coffee Day",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0245018,
+      "lng": 72.5073318
+    },
+    "cuisine_types": [
+      "coffee_shop"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502283"
+  },
+  {
+    "id": "honest_23.0386_72.5127_ahmedabad",
+    "name": "Honest",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0385865,
+      "lng": 72.5126614
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": true,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502287"
+  },
+  {
+    "id": "subway_23.0385_72.5129_ahmedabad",
+    "name": "Subway",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0385075,
+      "lng": 72.512884
+    },
+    "cuisine_types": [
+      "sandwich"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502290"
+  },
+  {
+    "id": "mcdonald's_23.0244_72.5073_ahmedabad",
+    "name": "McDonald's",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0244178,
+      "lng": 72.507327
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502294"
+  },
+  {
+    "id": "havmor_23.0382_72.5123_ahmedabad",
+    "name": "Havmor",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0381817,
+      "lng": 72.5122645
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": true,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502297"
+  },
+  {
+    "id": "janta_ice_cream_23.2184_72.5152_ahmedabad",
+    "name": "JANTA ice cream",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2184113,
+      "lng": 72.5151861
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502301"
+  },
+  {
+    "id": "md_masala_23.2412_72.4876_ahmedabad",
+    "name": "MD masala",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.241203,
+      "lng": 72.4875858
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502305"
+  },
+  {
+    "id": "gruh_laxmi_spices_23.2071_72.5343_ahmedabad",
+    "name": "Gruh laxmi spices",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2070953,
+      "lng": 72.5343354
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502309"
+  },
+  {
+    "id": "lucky_tea_center_23.2456_72.4978_ahmedabad",
+    "name": "lucky tea center",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2456191,
+      "lng": 72.4978359
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502312"
+  },
+  {
+    "id": "karnavati_fastfood_23.2849_72.44_ahmedabad",
+    "name": "Karnavati fastfood",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2848545,
+      "lng": 72.4400144
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502316"
+  },
+  {
+    "id": "sattadhar_bhojnalay_23.2484_72.4849_ahmedabad",
+    "name": "Sattadhar bhojnalay",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2484269,
+      "lng": 72.4848601
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502320"
+  },
+  {
+    "id": "hotel_musafir_23.2527_72.484_ahmedabad",
+    "name": "Hotel Musafir",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2527008,
+      "lng": 72.4840286
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502324"
+  },
+  {
+    "id": "jay_bhavani_vadapav_23.2529_72.4837_ahmedabad",
+    "name": "Jay bhavani vadapav",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2529063,
+      "lng": 72.483675
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502327"
+  },
+  {
+    "id": "pooja_fastfood_23.2409_72.501_ahmedabad",
+    "name": "Pooja fastfood",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2408637,
+      "lng": 72.5010327
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502331"
+  },
+  {
+    "id": "nescafe_23.0371_72.5443_ahmedabad",
+    "name": "Nescafe",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0371357,
+      "lng": 72.5443257
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502335"
+  },
+  {
+    "id": "tgb_23.0058_72.5553_ahmedabad",
+    "name": "TGB",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.005805,
+      "lng": 72.5552881
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502339"
+  },
+  {
+    "id": "domino's_23.051_72.644_ahmedabad",
+    "name": "Domino's",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.051025,
+      "lng": 72.64396
+    },
+    "cuisine_types": [
+      "pizza"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502342"
+  },
+  {
+    "id": "tgb_23.051_72.6446_ahmedabad",
+    "name": "TGB",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0510167,
+      "lng": 72.64456
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502346"
+  },
+  {
+    "id": "spoons_n_straws_23.0512_72.6438_ahmedabad",
+    "name": "Spoons n straws",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0512085,
+      "lng": 72.643756
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502349"
+  },
+  {
+    "id": "mcdonald's_23.0142_72.5974_ahmedabad",
+    "name": "McDonald's",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0142097,
+      "lng": 72.597377
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502385"
+  },
+  {
+    "id": "subway_23.0465_72.5295_ahmedabad",
+    "name": "Subway",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0464898,
+      "lng": 72.5294517
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502389"
+  },
+  {
+    "id": "bhojnalaya_-_unodri_bhavan_23.1799_72.573_ahmedabad",
+    "name": "Bhojnalaya - Unodri Bhavan",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1799492,
+      "lng": 72.5730115
+    },
+    "cuisine_types": [
+      "regional"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502393"
+  },
+  {
+    "id": "kaka_fast_food_23.1104_72.6749_ahmedabad",
+    "name": "Kaka fast food",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1103852,
+      "lng": 72.6748785
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502397"
+  },
+  {
+    "id": "kaka_ni_bhajipav_23.1113_72.6719_ahmedabad",
+    "name": "Kaka ni bhajipav",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1113356,
+      "lng": 72.6718897
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502401"
+  },
+  {
+    "id": "kaka_fastfood_23.1104_72.6748_ahmedabad",
+    "name": "Kaka fastfood",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1104061,
+      "lng": 72.6748011
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502404"
+  },
+  {
+    "id": "gayatri_tea_stall_22.6908_72.8617_ahmedabad",
+    "name": "Gayatri Tea Stall",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.6907783,
+      "lng": 72.8617094
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502408"
+  },
+  {
+    "id": "saibaba_tea_stall_22.6926_72.86_ahmedabad",
+    "name": "Saibaba tea stall",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.6926106,
+      "lng": 72.8600379
+    },
+    "cuisine_types": [
+      "tea"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502412"
+  },
+  {
+    "id": "kathi_junction_22.6948_72.8596_ahmedabad",
+    "name": "Kathi Junction",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.6947627,
+      "lng": 72.8596266
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502416"
+  },
+  {
+    "id": "saibaba_refreshments_22.6927_72.86_ahmedabad",
+    "name": "Saibaba Refreshments",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.6926553,
+      "lng": 72.8600277
+    },
+    "cuisine_types": [
+      "burger,_Sandwich,_Puff",
+      "Vada_pav",
+      "coldrinks"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502420"
+  },
+  {
+    "id": "atithi_dining_hall_23.0381_72.5138_ahmedabad",
+    "name": "Atithi Dining Hall",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0381074,
+      "lng": 72.5138086
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502424"
+  },
+  {
+    "id": "shreeeji_milk_palace_23.237_72.4939_ahmedabad",
+    "name": "Shreeeji Milk Palace",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2370307,
+      "lng": 72.4938701
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502427"
+  },
+  {
+    "id": "sabri_kathiyavadi,panjabi_23.0592_72.6708_ahmedabad",
+    "name": "Sabri Kathiyavadi,panjabi",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0591783,
+      "lng": 72.6708433
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502431"
+  },
+  {
+    "id": "food_point_51_hotels_23.2322_72.6491_ahmedabad",
+    "name": "Food point 51 hotels",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2322383,
+      "lng": 72.6490567
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502435"
+  },
+  {
+    "id": "food_point_restaurant_23.2322_72.6494_ahmedabad",
+    "name": "Food point Restaurant",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2322032,
+      "lng": 72.6494087
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502438"
+  },
+  {
+    "id": "food_court_sec.16_23.2325_72.6492_ahmedabad",
+    "name": "Food Court sec.16",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2324893,
+      "lng": 72.6491648
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502442"
+  },
+  {
+    "id": "afc_garden_restaurant_23.1111_72.6051_ahmedabad",
+    "name": "AFC Garden Restaurant",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.111054,
+      "lng": 72.6050699
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502445"
+  },
+  {
+    "id": "kabir_restaurant_23.0796_72.6691_ahmedabad",
+    "name": "Kabir Restaurant",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0795581,
+      "lng": 72.6690656
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502449"
+  },
+  {
+    "id": "cremos_23.282_72.4415_ahmedabad",
+    "name": "Cremos",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2820159,
+      "lng": 72.441546
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502452"
+  },
+  {
+    "id": "golden_curries_22.6948_72.8747_ahmedabad",
+    "name": "Golden Curries",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.6948279,
+      "lng": 72.8746928
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502456"
+  },
+  {
+    "id": "arbi_23.0301_72.6002_ahmedabad",
+    "name": "arbi",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.030136,
+      "lng": 72.600163
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502460"
+  },
+  {
+    "id": "cooking_culture_23.0354_72.5065_ahmedabad",
+    "name": "Cooking Culture",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.035392,
+      "lng": 72.5065
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502464"
+  },
+  {
+    "id": "handi_hotel_23.066_72.5828_ahmedabad",
+    "name": "HANDI HOTEL",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0659846,
+      "lng": 72.5827993
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502467"
+  },
+  {
+    "id": "little_italy_23.0324_72.5082_ahmedabad",
+    "name": "Little Italy",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0324134,
+      "lng": 72.5082222
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502471"
+  },
+  {
+    "id": "tandoorworkz_23.02_72.5581_ahmedabad",
+    "name": "Tandoorworkz",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0199957,
+      "lng": 72.5580704
+    },
+    "cuisine_types": [
+      "burger",
+      "sandwich",
+      "regional",
+      "ice_cream",
+      "grill",
+      "cake",
+      "coffee_shop",
+      "pasta",
+      "noodles",
+      "pancake",
+      "pizza",
+      "chicken",
+      "fish_and_chips",
+      "curry",
+      "indian",
+      "fish",
+      "breakfast",
+      "savory_pancakes",
+      "tea",
+      "seafood",
+      "sausage",
+      "local",
+      "barbecue"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": true,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502476"
+  },
+  {
+    "id": "annapurna_22.9818_72.6318_ahmedabad",
+    "name": "Annapurna",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.9818481,
+      "lng": 72.6317943
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502480"
+  },
+  {
+    "id": "gayatri_22.9812_72.6319_ahmedabad",
+    "name": "Gayatri",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.9811933,
+      "lng": 72.6319432
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502484"
+  },
+  {
+    "id": "royal_pride_22.9816_72.6329_ahmedabad",
+    "name": "Royal Pride",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.9815706,
+      "lng": 72.6329291
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502488"
+  },
+  {
+    "id": "nilam_snacks_23.055_72.5399_ahmedabad",
+    "name": "nilam snacks",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0550362,
+      "lng": 72.5398877
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502492"
+  },
+  {
+    "id": "tan-man_bhaji_pav_23.0072_72.6638_ahmedabad",
+    "name": "Tan-man bhaji pav",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0071778,
+      "lng": 72.6638136
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502495"
+  },
+  {
+    "id": "upper_crest_23.0169_72.4703_ahmedabad",
+    "name": "Upper Crest",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0168753,
+      "lng": 72.4703195
+    },
+    "cuisine_types": [
+      "regional"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502499"
+  },
+  {
+    "id": "shmbhu's_cafe_23.1653_72.8122_ahmedabad",
+    "name": "Shmbhu's cafe",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1653459,
+      "lng": 72.812201
+    },
+    "cuisine_types": [
+      "regional"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502503"
+  },
+  {
+    "id": "kutchi_king_23.1646_72.8108_ahmedabad",
+    "name": "Kutchi King",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1646237,
+      "lng": 72.8107969
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502507"
+  },
+  {
+    "id": "apun_ka_adda_23.1647_72.811_ahmedabad",
+    "name": "Apun Ka Adda",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1647419,
+      "lng": 72.8109707
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502511"
+  },
+  {
+    "id": "yash_farsan_23.1656_72.8133_ahmedabad",
+    "name": "Yash Farsan",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1655503,
+      "lng": 72.8133323
+    },
+    "cuisine_types": [
+      "regional"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502515"
+  },
+  {
+    "id": "jay_bhole_23.1664_72.8139_ahmedabad",
+    "name": "Jay Bhole",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1663714,
+      "lng": 72.8139376
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502518"
+  },
+  {
+    "id": "tulsi_restaurant_23.1617_72.808_ahmedabad",
+    "name": "Tulsi Restaurant",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1617132,
+      "lng": 72.8079774
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502522"
+  },
+  {
+    "id": "green_leaf_restaurant_23.157_72.7993_ahmedabad",
+    "name": "Green Leaf Restaurant",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1569882,
+      "lng": 72.7993084
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502526"
+  },
+  {
+    "id": "subway_23.0423_72.5492_ahmedabad",
+    "name": "Subway",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0422816,
+      "lng": 72.549183
+    },
+    "cuisine_types": [
+      "sandwich"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502529"
+  },
+  {
+    "id": "fullfills_ahmedabad_23.0424_72.5487_ahmedabad",
+    "name": "Fullfills Ahmedabad",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.042429,
+      "lng": 72.5486687
+    },
+    "cuisine_types": [
+      "pizza"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502533"
+  },
+  {
+    "id": "quinches_23.0416_72.5491_ahmedabad",
+    "name": "quinches",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0416337,
+      "lng": 72.5490709
+    },
+    "cuisine_types": [
+      "pizza"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502537"
+  },
+  {
+    "id": "uno_pizza_23.0424_72.5492_ahmedabad",
+    "name": "uno pizza",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.042389,
+      "lng": 72.5492178
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502540"
+  },
+  {
+    "id": "nishra_restaurant_23.1871_72.5729_ahmedabad",
+    "name": "Nishra Restaurant",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1871084,
+      "lng": 72.5728883
+    },
+    "cuisine_types": [
+      "regional"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502544"
+  },
+  {
+    "id": "sognet_23.297_72.3428_ahmedabad",
+    "name": "Sognet",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2970401,
+      "lng": 72.342756
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502547"
+  },
+  {
+    "id": "the_cafe_baraco_23.0445_72.5505_ahmedabad",
+    "name": "The Cafe Baraco",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0444534,
+      "lng": 72.5505062
+    },
+    "cuisine_types": [
+      "Multi_Cuisine"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502551"
+  },
+  {
+    "id": "iscon_ghantiya_23.0398_72.5277_ahmedabad",
+    "name": "Iscon Ghantiya",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0398379,
+      "lng": 72.5276503
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502555"
+  },
+  {
+    "id": "bansari_traditional_23.217_72.6497_ahmedabad",
+    "name": "Bansari Traditional",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2170442,
+      "lng": 72.6496663
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": true,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502559"
+  },
+  {
+    "id": "hotel_purohit_por_22.9945_72.6658_ahmedabad",
+    "name": "Hotel Purohit Por",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.9945198,
+      "lng": 72.665834
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502563"
+  },
+  {
+    "id": "havmor_restaurant_23.0288_72.4775_ahmedabad",
+    "name": "Havmor restaurant",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0287895,
+      "lng": 72.4775187
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502567"
+  },
+  {
+    "id": "sphere_louge_23.0108_72.5049_ahmedabad",
+    "name": "Sphere Louge",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0108416,
+      "lng": 72.5048519
+    },
+    "cuisine_types": [
+      "bar"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502570"
+  },
+  {
+    "id": "seva_cafe_23.0347_72.5604_ahmedabad",
+    "name": "Seva Cafe",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0346667,
+      "lng": 72.5603703
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502574"
+  },
+  {
+    "id": "unlocked_23.033_72.5577_ahmedabad",
+    "name": "Unlocked",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.033026,
+      "lng": 72.5577346
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502577"
+  },
+  {
+    "id": "cafe_udipi_richi_23.0321_72.56_ahmedabad",
+    "name": "Cafe udipi richi",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0320819,
+      "lng": 72.5600295
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502581"
+  },
+  {
+    "id": "hotel_emerland_23.0743_72.6506_ahmedabad",
+    "name": "Hotel Emerland",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0742871,
+      "lng": 72.6506214
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502585"
+  },
+  {
+    "id": "in-garden_cafe_23.0122_72.5062_ahmedabad",
+    "name": "In-Garden Cafe",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0122064,
+      "lng": 72.5062163
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502589"
+  },
+  {
+    "id": "sanmani_restaurant_23.0237_72.5995_ahmedabad",
+    "name": "Sanmani Restaurant",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0236978,
+      "lng": 72.5995018
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502593"
+  },
+  {
+    "id": "takshshila_food_court_23.0275_72.5592_ahmedabad",
+    "name": "Takshshila Food Court",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0275402,
+      "lng": 72.559229
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502597"
+  },
+  {
+    "id": "jai_jalaram_parontha_house_23.0246_72.5715_ahmedabad",
+    "name": "Jai Jalaram Parontha House",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0246356,
+      "lng": 72.5714777
+    },
+    "cuisine_types": [
+      "gujarati",
+      "kathiawari",
+      "punjabi"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502600"
+  },
+  {
+    "id": "udipi_cafe_23.0144_72.5654_ahmedabad",
+    "name": "Udipi Cafe",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0144058,
+      "lng": 72.565418
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502603"
+  },
+  {
+    "id": "samrasi_-_premium_bhojnalaya_23.1801_72.5736_ahmedabad",
+    "name": "Samrasi - Premium Bhojnalaya",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1800841,
+      "lng": 72.5735839
+    },
+    "cuisine_types": [
+      "indian",
+      "regional"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502607"
+  },
+  {
+    "id": "jalaram_parotha_house_23.0285_72.4767_ahmedabad",
+    "name": "Jalaram Parotha house",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0284866,
+      "lng": 72.4766561
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502611"
+  },
+  {
+    "id": "vrindavan_23.1334_72.6335_ahmedabad",
+    "name": "Vrindavan",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1333506,
+      "lng": 72.6334745
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": true,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502615"
+  },
+  {
+    "id": "khetlaapa_tea_shop_23.1932_72.6149_ahmedabad",
+    "name": "Khetlaapa Tea Shop",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1931868,
+      "lng": 72.6148754
+    },
+    "cuisine_types": [
+      "coffee_shop",
+      "sandwich",
+      "teahouse"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502619"
+  },
+  {
+    "id": "7_colours_pan_parlor_23.1951_72.6147_ahmedabad",
+    "name": "7 Colours Pan Parlor",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1950881,
+      "lng": 72.6146833
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502622"
+  },
+  {
+    "id": "chicken_biryani_23.017_72.5836_ahmedabad",
+    "name": "Chicken biryani",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0169709,
+      "lng": 72.5835893
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502626"
+  },
+  {
+    "id": "k.g.n._chinese_fry_centre_23.0198_72.5839_ahmedabad",
+    "name": "K.G.N. Chinese Fry Centre",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0197975,
+      "lng": 72.5838568
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502634"
+  },
+  {
+    "id": "cabana_lounge_23.0356_72.5061_ahmedabad",
+    "name": "cabana lounge",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0355672,
+      "lng": 72.5061396
+    },
+    "cuisine_types": [
+      "pizza",
+      "italian",
+      "coffee_shop",
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502638"
+  },
+  {
+    "id": "himalaya_bakery_22.9798_72.5737_ahmedabad",
+    "name": "Himalaya Bakery",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.9798046,
+      "lng": 72.5737246
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502641"
+  },
+  {
+    "id": "the_cafe_date_23.034_72.5018_ahmedabad",
+    "name": "The Cafe Date",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.034043,
+      "lng": 72.5018226
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502645"
+  },
+  {
+    "id": "coffee_stand-cg_road_23.0361_72.5612_ahmedabad",
+    "name": "Coffee Stand-CG Road",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0360509,
+      "lng": 72.5611735
+    },
+    "cuisine_types": [
+      "pizza",
+      "coffee_shop",
+      "sandwich",
+      "italian",
+      "ice_cream",
+      "regional",
+      "mexican"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502649"
+  },
+  {
+    "id": "fiftyeight_sixtyeight_-_5868_23.1875_72.574_ahmedabad",
+    "name": "fiftyeight sixtyeight - 5868",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1875373,
+      "lng": 72.5739984
+    },
+    "cuisine_types": [
+      "regional",
+      "indian",
+      "buffet"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": true,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502654"
+  },
+  {
+    "id": "mcdonald's_23.0221_72.5568_ahmedabad",
+    "name": "McDonald's",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0221413,
+      "lng": 72.5567513
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502657"
+  },
+  {
+    "id": "quickshef_23.2642_72.6661_ahmedabad",
+    "name": "quickshef",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.2642324,
+      "lng": 72.6661194
+    },
+    "cuisine_types": [
+      "pizza"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502661"
+  },
+  {
+    "id": "hocco_eatery_23.0176_72.4751_ahmedabad",
+    "name": "Hocco Eatery",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0175789,
+      "lng": 72.4750517
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": true,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502664"
+  },
+  {
+    "id": "swati_snacks_23.0244_72.559_ahmedabad",
+    "name": "Swati Snacks",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0244466,
+      "lng": 72.5589826
+    },
+    "cuisine_types": [
+      "Gujarati",
+      "regional"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": true,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502668"
+  },
+  {
+    "id": "deshi_chulha_non-veg_23.0158_72.5508_ahmedabad",
+    "name": "Deshi Chulha Non-veg",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0158336,
+      "lng": 72.5508007
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502671"
+  },
+  {
+    "id": "bean_box_cafe_23.0451_72.4855_ahmedabad",
+    "name": "Bean Box Cafe",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0451215,
+      "lng": 72.4854863
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502675"
+  },
+  {
+    "id": "babadeepsingh_restaurant_23.0875_72.6838_ahmedabad",
+    "name": "Babadeepsingh Restaurant",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0875162,
+      "lng": 72.683768
+    },
+    "cuisine_types": [
+      "indian",
+      "regional",
+      "asian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": true,
+    "vegan_options": true,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502679"
+  },
+  {
+    "id": "diwan_bhel_pakodi_center_23.0164_72.5248_ahmedabad",
+    "name": "Diwan Bhel Pakodi Center",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0163696,
+      "lng": 72.5248026
+    },
+    "cuisine_types": [
+      "regional",
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502683"
+  },
+  {
+    "id": "jagdish_chaat_pakodi_center_23.0164_72.5244_ahmedabad",
+    "name": "Jagdish Chaat Pakodi Center",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0163966,
+      "lng": 72.5243683
+    },
+    "cuisine_types": [
+      "regional",
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502687"
+  },
+  {
+    "id": "sambar_cafe_23.0334_72.4354_ahmedabad",
+    "name": "Sambar Cafe",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0333924,
+      "lng": 72.4354163
+    },
+    "cuisine_types": [
+      "indian",
+      "southindian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": true,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502691"
+  },
+  {
+    "id": "domino's_23.0173_72.5299_ahmedabad",
+    "name": "Domino's",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0172744,
+      "lng": 72.5299212
+    },
+    "cuisine_types": [
+      "pizza"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502694"
+  },
+  {
+    "id": "la_milano_pizzeria_prahladnagar_23.0116_72.5052_ahmedabad",
+    "name": "La Milano Pizzeria Prahladnagar",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0116205,
+      "lng": 72.5052184
+    },
+    "cuisine_types": [
+      "pizza"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502697"
+  },
+  {
+    "id": "mcdonald's_23.0259_72.4762_ahmedabad",
+    "name": "McDonald's",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0258612,
+      "lng": 72.4762382
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502701"
+  },
+  {
+    "id": "mcdonald's_23.0124_72.5111_ahmedabad",
+    "name": "McDonald's",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0123743,
+      "lng": 72.511119
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502705"
+  },
+  {
+    "id": "crush_culture_cafe_bar_23.0876_72.684_ahmedabad",
+    "name": "Crush Culture Cafe Bar",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0875987,
+      "lng": 72.6839578
+    },
+    "cuisine_types": [
+      "coffee_shop",
+      "pizza",
+      "burger",
+      "sandwich"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502709"
+  },
+  {
+    "id": "dadu_cafe_23.0496_72.6705_ahmedabad",
+    "name": "Dadu Cafe",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0496098,
+      "lng": 72.6705415
+    },
+    "cuisine_types": [
+      "pizza",
+      "regional",
+      "burger",
+      "coffee_shop",
+      "italian",
+      "chinese",
+      "sandwich",
+      "asian",
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502713"
+  },
+  {
+    "id": "gordhan_thal_23.036_72.5111_ahmedabad",
+    "name": "Gordhan Thal",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0359596,
+      "lng": 72.5111196
+    },
+    "cuisine_types": [
+      "gujarati",
+      "regional",
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": true,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502717"
+  },
+  {
+    "id": "deva's_coffee_bar_23.0362_72.511_ahmedabad",
+    "name": "Deva's Coffee Bar",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0361967,
+      "lng": 72.5110489
+    },
+    "cuisine_types": [
+      "pizza",
+      "burger",
+      "sandwich",
+      "fast_food",
+      "tea_shop",
+      "juice"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502721"
+  },
+  {
+    "id": "shreeji_krupa_bombay_vadapav_23.0371_72.529_ahmedabad",
+    "name": "Shreeji Krupa Bombay Vadapav",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0371443,
+      "lng": 72.5290405
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502725"
+  },
+  {
+    "id": "starbucks_23.032_72.5108_ahmedabad",
+    "name": "Starbucks",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0319557,
+      "lng": 72.5107614
+    },
+    "cuisine_types": [
+      "coffee_shop"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502728"
+  },
+  {
+    "id": "mocha_23.0318_72.5113_ahmedabad",
+    "name": "mocha",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0318311,
+      "lng": 72.511298
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502732"
+  },
+  {
+    "id": "gajanand_pauva_house_23.0372_72.5291_ahmedabad",
+    "name": "Gajanand Pauva House",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0371776,
+      "lng": 72.5291086
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502743"
+  },
+  {
+    "id": "jay_mataji_fast_food_23.0371_72.5291_ahmedabad",
+    "name": "Jay Mataji Fast Food",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0371316,
+      "lng": 72.5290981
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502746"
+  },
+  {
+    "id": "hotel_kismat_kathiyawadi_22.707_72.8257_ahmedabad",
+    "name": "Hotel Kismat Kathiyawadi",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.7069859,
+      "lng": 72.8256701
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502750"
+  },
+  {
+    "id": "tulsi_restaurant_22.708_72.8234_ahmedabad",
+    "name": "Tulsi Restaurant",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.7079703,
+      "lng": 72.8233537
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502754"
+  },
+  {
+    "id": "purohit_chavana_and_sweet_mart_23.0183_72.4716_ahmedabad",
+    "name": "Purohit Chavana and Sweet Mart",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0182853,
+      "lng": 72.4716006
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502758"
+  },
+  {
+    "id": "puffiza_23.0276_72.5589_ahmedabad",
+    "name": "Puffiza",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0276271,
+      "lng": 72.5588748
+    },
+    "cuisine_types": [
+      "pizza"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502762"
+  },
+  {
+    "id": "skyz_restaurant_and_banquet_23.0117_72.5082_ahmedabad",
+    "name": "Skyz Restaurant and Banquet",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0116726,
+      "lng": 72.5081733
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502766"
+  },
+  {
+    "id": "the_waffling_station_23.0323_72.5552_ahmedabad",
+    "name": "The Waffling Station",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0322805,
+      "lng": 72.5551823
+    },
+    "cuisine_types": [
+      "dessert",
+      "waffles",
+      "shakes",
+      "cold_coffee"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": true,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502769"
+  },
+  {
+    "id": "plumeria_cafe_22.9614_72.4239_ahmedabad",
+    "name": "Plumeria Cafe",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.961352,
+      "lng": 72.4239095
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502773"
+  },
+  {
+    "id": "mcdonald's_23.1925_72.6164_ahmedabad",
+    "name": "McDonald's",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1925108,
+      "lng": 72.6164238
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": true,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502777"
+  },
+  {
+    "id": "shiva's_cafe_23.1923_72.6165_ahmedabad",
+    "name": "Shiva's Cafe",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1923234,
+      "lng": 72.6165249
+    },
+    "cuisine_types": [
+      "coffee_shop",
+      "pizza",
+      "burger",
+      "italian",
+      "sandwich"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": true,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502781"
+  },
+  {
+    "id": "upper_deck_23.1919_72.6167_ahmedabad",
+    "name": "Upper Deck",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1918606,
+      "lng": 72.616653
+    },
+    "cuisine_types": [
+      "pizza",
+      "regional",
+      "italian",
+      "chinese",
+      "mexican",
+      "indian",
+      "asian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": true,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502785"
+  },
+  {
+    "id": "the_grill_street_23.0268_72.508_ahmedabad",
+    "name": "The Grill Street",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0267886,
+      "lng": 72.5079662
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": true,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502788"
+  },
+  {
+    "id": "the_house_of_khaman_23.0396_72.5644_ahmedabad",
+    "name": "The House of Khaman",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0396084,
+      "lng": 72.5644073
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502792"
+  },
+  {
+    "id": "bhookh_lagi_hai?_23.0218_72.5062_ahmedabad",
+    "name": "Bhookh Lagi Hai?",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0218092,
+      "lng": 72.5062361
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502796"
+  },
+  {
+    "id": "the_house_of_makeba_(bhat)_23.1171_72.6283_ahmedabad",
+    "name": "The House of Makeba (Bhat)",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1170709,
+      "lng": 72.6283409
+    },
+    "cuisine_types": [
+      "indian",
+      "pizza",
+      "chinese"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502800"
+  },
+  {
+    "id": "gwalia_sweets_23.0174_72.4756_ahmedabad",
+    "name": "Gwalia Sweets",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.017434,
+      "lng": 72.4756286
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502804"
+  },
+  {
+    "id": "honest_22.8596_72.8074_ahmedabad",
+    "name": "Honest",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.8596075,
+      "lng": 72.8074025
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502808"
+  },
+  {
+    "id": "authentic_cafe_23.0319_72.5883_ahmedabad",
+    "name": "Authentic cafe",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0319107,
+      "lng": 72.5883477
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502812"
+  },
+  {
+    "id": "jassi_de_parathe_23.0124_72.511_ahmedabad",
+    "name": "Jassi De Parathe",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0123617,
+      "lng": 72.5110318
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502815"
+  },
+  {
+    "id": "choco_drama_23.0411_72.5269_ahmedabad",
+    "name": "Choco drama",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0410761,
+      "lng": 72.5269272
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502819"
+  },
+  {
+    "id": "leela_sandwich_23.0408_72.5275_ahmedabad",
+    "name": "leela sandwich",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0407863,
+      "lng": 72.5275081
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502823"
+  },
+  {
+    "id": "ramdev_farsan_23.1084_72.5825_ahmedabad",
+    "name": "Ramdev Farsan",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1084228,
+      "lng": 72.5824778
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502826"
+  },
+  {
+    "id": "monginis_cake_shop_23.1089_72.5913_ahmedabad",
+    "name": "Monginis Cake shop",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1089422,
+      "lng": 72.5912774
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502830"
+  },
+  {
+    "id": "subway._23.1035_72.5961_ahmedabad",
+    "name": "Subway.",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1035224,
+      "lng": 72.5960745
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502833"
+  },
+  {
+    "id": "the_belgian_waffle_23.1096_72.5938_ahmedabad",
+    "name": "The Belgian Waffle",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1096267,
+      "lng": 72.5938416
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502856"
+  },
+  {
+    "id": "tandoor_&_tadka_23.1096_72.5942_ahmedabad",
+    "name": "Tandoor & Tadka",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1096095,
+      "lng": 72.5942231
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502861"
+  },
+  {
+    "id": "la_pino's_pizza._23.1035_72.5962_ahmedabad",
+    "name": "La Pino's Pizza.",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1034803,
+      "lng": 72.5961933
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502864"
+  },
+  {
+    "id": "dangee_dums_23.1057_72.5958_ahmedabad",
+    "name": "Dangee Dums",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1056688,
+      "lng": 72.5957957
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502868"
+  },
+  {
+    "id": "la_milano_pizzeria._23.1034_72.5958_ahmedabad",
+    "name": "La Milano Pizzeria.",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.103377,
+      "lng": 72.5958266
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502872"
+  },
+  {
+    "id": "gwalia_sweets_private_limited_23.1029_72.5953_ahmedabad",
+    "name": "Gwalia Sweets Private Limited",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.102916,
+      "lng": 72.5952916
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502875"
+  },
+  {
+    "id": "blueberry_restaurant_&_banquet_23.0417_72.6785_ahmedabad",
+    "name": "BLUEBERRY RESTAURANT & BANQUET",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0416984,
+      "lng": 72.6784893
+    },
+    "cuisine_types": [
+      "chinese",
+      "pizza",
+      "coffee_shop"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502879"
+  },
+  {
+    "id": "scoop_n_munch_23.1361_72.5502_ahmedabad",
+    "name": "Scoop N Munch",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1361303,
+      "lng": 72.5502307
+    },
+    "cuisine_types": [
+      "ice_cream",
+      "waffle",
+      "shakes"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502883"
+  },
+  {
+    "id": "sakha_surti_locho_&_rasawala_khaman_22.9783_72.6107_ahmedabad",
+    "name": "Sakha Surti Locho & Rasawala Khaman",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.9782788,
+      "lng": 72.6106967
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": true,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502887"
+  },
+  {
+    "id": "dosawala_23.0682_72.5762_ahmedabad",
+    "name": "Dosawala",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0681879,
+      "lng": 72.576195
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": true,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502890"
+  },
+  {
+    "id": "stallions_cafe_23.0843_72.4879_ahmedabad",
+    "name": "Stallions Cafe",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0843166,
+      "lng": 72.4878637
+    },
+    "cuisine_types": [
+      "coffee_shop",
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502894"
+  },
+  {
+    "id": "1944_the_hocco_kitchen_23.0381_72.6773_ahmedabad",
+    "name": "1944 The Hocco Kitchen",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0381383,
+      "lng": 72.6772579
+    },
+    "cuisine_types": [
+      "pizza",
+      "regional",
+      "italian",
+      "burger",
+      "chinese",
+      "sandwich",
+      "mexican",
+      "kebab",
+      "indian",
+      "ice_cream",
+      "international"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": true,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502899"
+  },
+  {
+    "id": "the_gyan_caf\u00e9_23.1048_72.538_ahmedabad",
+    "name": "The Gyan Caf\u00e9",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1048411,
+      "lng": 72.5379754
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502904"
+  },
+  {
+    "id": "dinchuiliu_vidhani_kitchen_23.0721_72.6422_ahmedabad",
+    "name": "Dinchuiliu Vidhani Kitchen",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0721192,
+      "lng": 72.6421901
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502908"
+  },
+  {
+    "id": "hl_frankie_23.0162_72.4647_ahmedabad",
+    "name": "HL Frankie",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0162491,
+      "lng": 72.4646557
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502912"
+  },
+  {
+    "id": "hotel_sarvottam_22.9854_72.4188_ahmedabad",
+    "name": "Hotel Sarvottam",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.9853909,
+      "lng": 72.4188332
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": true,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502916"
+  },
+  {
+    "id": "the_dark_roast_23.0125_72.5034_ahmedabad",
+    "name": "The dark roast",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0124903,
+      "lng": 72.5033515
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502919"
+  },
+  {
+    "id": "starbucks_23.185_72.6304_ahmedabad",
+    "name": "Starbucks",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1849638,
+      "lng": 72.6304054
+    },
+    "cuisine_types": [
+      "coffee_shop"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502923"
+  },
+  {
+    "id": "urban_dosa_house_23.1847_72.6293_ahmedabad",
+    "name": "Urban Dosa House",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1846554,
+      "lng": 72.6293004
+    },
+    "cuisine_types": [
+      "South Indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502927"
+  },
+  {
+    "id": "rasam_thal_23.185_72.6312_ahmedabad",
+    "name": "Rasam Thal",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1849769,
+      "lng": 72.6312398
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502931"
+  },
+  {
+    "id": "banna's_tea_stall_23.1886_72.6302_ahmedabad",
+    "name": "Banna's Tea Stall",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1885733,
+      "lng": 72.6302431
+    },
+    "cuisine_types": [
+      "tea",
+      "noodle"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502934"
+  },
+  {
+    "id": "honest_restaurant_23.0309_72.4651_ahmedabad",
+    "name": "Honest Restaurant",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0309116,
+      "lng": 72.4650527
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502938"
+  },
+  {
+    "id": "pizza_hut_23.0267_72.477_ahmedabad",
+    "name": "Pizza Hut",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0267125,
+      "lng": 72.4769539
+    },
+    "cuisine_types": [
+      "pizza"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502942"
+  },
+  {
+    "id": "timtim_23.0363_72.5035_ahmedabad",
+    "name": "Timtim",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0362706,
+      "lng": 72.5034854
+    },
+    "cuisine_types": [
+      "asian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502945"
+  },
+  {
+    "id": "sambhar_cafe_23.0334_72.4371_ahmedabad",
+    "name": "Sambhar Cafe",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0334428,
+      "lng": 72.4370691
+    },
+    "cuisine_types": [
+      "cafe"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502949"
+  },
+  {
+    "id": "prakash_bhojnalaya_23.078_72.5901_ahmedabad",
+    "name": "Prakash Bhojnalaya",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.078011,
+      "lng": 72.5901382
+    },
+    "cuisine_types": [
+      "fast_food"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502953"
+  },
+  {
+    "id": "sri_udupi_23.05_72.4993_ahmedabad",
+    "name": "Sri Udupi",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0499932,
+      "lng": 72.4992539
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502956"
+  },
+  {
+    "id": "shriji_bombay_vada_pav_23.0299_72.4746_ahmedabad",
+    "name": "Shriji Bombay Vada Pav",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0298827,
+      "lng": 72.4746282
+    },
+    "cuisine_types": [
+      "indian"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502960"
+  },
+  {
+    "id": "mcdonald's_23.0218_72.5569_ahmedabad",
+    "name": "McDonald's",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0218259,
+      "lng": 72.55691
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502964"
+  },
+  {
+    "id": "burger_king_23.0217_72.557_ahmedabad",
+    "name": "Burger King",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0217347,
+      "lng": 72.5569853
+    },
+    "cuisine_types": [
+      "burger"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502967"
+  },
+  {
+    "id": "taco_bell_23.0218_72.557_ahmedabad",
+    "name": "Taco Bell",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0217891,
+      "lng": 72.5569528
+    },
+    "cuisine_types": [
+      "tex-mex"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502971"
+  },
+  {
+    "id": "kfc_23.0216_72.557_ahmedabad",
+    "name": "KFC",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0216444,
+      "lng": 72.5570471
+    },
+    "cuisine_types": [
+      "chicken"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502974"
+  },
+  {
+    "id": "shri_maruti_nandan_23.0217_72.557_ahmedabad",
+    "name": "Shri Maruti Nandan",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0216852,
+      "lng": 72.5570151
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502978"
+  },
+  {
+    "id": "kettl_cafe_sarkhej-sanand_rd._22.9876_72.4477_ahmedabad",
+    "name": "Kettl Cafe Sarkhej-Sanand Rd.",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.9876163,
+      "lng": 72.4476696
+    },
+    "cuisine_types": [
+      "coffee_shop",
+      "burger",
+      "sandwich",
+      "waffle",
+      "tea"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502982"
+  },
+  {
+    "id": "open_air_food_market_23.0233_72.5889_ahmedabad",
+    "name": "Open air food market",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.0233074,
+      "lng": 72.588879
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502986"
+  },
+  {
+    "id": "domino's_22.9912_72.6324_ahmedabad",
+    "name": "Domino's",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 22.9912301,
+      "lng": 72.6323612
+    },
+    "cuisine_types": [
+      "pizza"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502990"
+  },
+  {
+    "id": "the_fountain_hotel_23.1307_72.5679_ahmedabad",
+    "name": "The fountain hotel",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "coordinates": {
+      "lat": 23.1306578,
+      "lng": 72.5678755
+    },
+    "cuisine_types": [
+      "restaurant"
+    ],
+    "specialty_dishes": [],
+    "price_range": "moderate",
+    "average_cost_per_person": 0,
+    "vegetarian_options": false,
+    "vegan_options": false,
+    "allergen_info": {},
+    "operating_hours": {
+      "opens": "11:00",
+      "closes": "23:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "google_rating": 0.0,
+    "zomato_rating": 0.0,
+    "ambiance": "",
+    "reservation_needed": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "created_at": "2026-06-22T16:34:37.502993"
+  }
+]

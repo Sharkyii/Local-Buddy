@@ -8,9 +8,12 @@ they call a typed method and get back ranked, ready-to-use rows.
 
 import json
 import logging
+import time
 from typing import Any, Dict, List, Optional
 
 from neo4j import GraphDatabase
+
+from data.models import category_group
 
 logger = logging.getLogger(__name__)
 
@@ -25,8 +28,11 @@ class Repository:
         self.driver.close()
 
     def _query(self, cypher: str, **params) -> List[Dict[str, Any]]:
+        start = time.perf_counter()
         with self.driver.session() as session:
-            return [dict(record) for record in session.run(cypher, params)]
+            rows = [dict(record) for record in session.run(cypher, params)]
+        logger.info(f"Cypher query ({len(rows)} rows): {time.perf_counter() - start:.3f}s")
+        return rows
 
     # ============ CITY & AREAS ============
 
@@ -109,25 +115,63 @@ class Repository:
              must_visit_only=must_visit_only, limit=limit, user_lat=user_lat, user_lng=user_lng)
         for row in rows:
             row["entry_fee"] = json.loads(row["entry_fee"]) if row["entry_fee"] else {}
+            row["category_group"] = category_group(row["category"])
         return rows
 
     # ============ HOTELS ============
 
     def get_hotels(self, city_id: str, area_id: Optional[str] = None,
-                   min_stars: Optional[int] = None, limit: int = 10) -> List[Dict[str, Any]]:
-        """Hotels ranked by google_rating, optionally filtered by area/star rating."""
+                   min_stars: Optional[int] = None, hotel_type: Optional[str] = None,
+                   limit: int = 10, user_lat: Optional[float] = None,
+                   user_lng: Optional[float] = None) -> List[Dict[str, Any]]:
+        """Hotels/resorts ranked by distance when user_lat/user_lng are given (nearest first,
+        rating as tiebreaker), else by google_rating. Optionally filtered by area/stars/type."""
         rows = self._query("""
             MATCH (c:City {id: $city_id})-[:HAS_AREA]->(a:Area)-[:HAS_HOTEL]->(h:Hotel)
             WHERE ($area_id IS NULL OR a.id = $area_id)
               AND ($min_stars IS NULL OR h.stars >= $min_stars)
-            RETURN h.name AS name, a.name AS area, h.stars AS stars,
+              AND ($hotel_type IS NULL OR h.hotel_type = $hotel_type)
+            WITH h, a,
+                 CASE WHEN $user_lat IS NOT NULL AND $user_lng IS NOT NULL
+                      THEN point.distance(h.coordinates, point({latitude: $user_lat, longitude: $user_lng})) / 1000.0
+                      ELSE NULL END AS distance_km
+            RETURN h.name AS name, a.name AS area, h.stars AS stars, h.hotel_type AS hotel_type,
                    h.price_per_night AS price_per_night, h.amenities AS amenities,
-                   h.specialties AS specialties, h.google_rating AS rating
-            ORDER BY h.google_rating DESC
+                   h.specialties AS specialties, h.google_rating AS rating, distance_km
+            ORDER BY distance_km ASC, h.google_rating DESC
             LIMIT $limit
-        """, city_id=city_id, area_id=area_id, min_stars=min_stars, limit=limit)
+        """, city_id=city_id, area_id=area_id, min_stars=min_stars, hotel_type=hotel_type,
+             limit=limit, user_lat=user_lat, user_lng=user_lng)
         for row in rows:
             row["price_per_night"] = json.loads(row["price_per_night"]) if row["price_per_night"] else {}
+        return rows
+
+    # ============ MAP ============
+
+    def get_map_markers(self, city_id: str) -> List[Dict[str, Any]]:
+        """Every Place/Restaurant/Hotel/Area in the city with its real coordinates, for
+        plotting on a map — one flat list, type-tagged, no agent/LLM involved."""
+        rows = self._query("""
+            MATCH (c:City {id: $city_id})-[:HAS_AREA]->(a:Area)-[:HAS_PLACE]->(p:Place)
+            RETURN p.name AS name, 'place' AS type, p.category AS category,
+                   p.coordinates.latitude AS lat, p.coordinates.longitude AS lng
+            UNION
+            MATCH (c:City {id: $city_id})-[:HAS_AREA]->(a:Area)-[:HAS_RESTAURANT]->(r:Restaurant)
+            RETURN r.name AS name, 'restaurant' AS type, null AS category,
+                   r.coordinates.latitude AS lat, r.coordinates.longitude AS lng
+            UNION
+            MATCH (c:City {id: $city_id})-[:HAS_AREA]->(a:Area)-[:HAS_HOTEL]->(h:Hotel)
+            RETURN h.name AS name, 'hotel' AS type, h.hotel_type AS category,
+                   h.coordinates.latitude AS lat, h.coordinates.longitude AS lng
+            UNION
+            MATCH (c:City {id: $city_id})-[:HAS_AREA]->(a:Area)
+            RETURN a.name AS name, 'area' AS type, null AS category,
+                   a.coordinates.latitude AS lat, a.coordinates.longitude AS lng
+        """, city_id=city_id)
+        # category_group only means something for 'place' rows — hotel_type/cuisine
+        # aren't part of the PlaceCategory taxonomy, so leave those ungrouped.
+        for row in rows:
+            row["category_group"] = category_group(row["category"]) if row["type"] == "place" else None
         return rows
 
     # ============ NORMS ============
@@ -144,3 +188,24 @@ class Repository:
             ORDER BY n.embarrassment_risk DESC
             LIMIT $limit
         """, city_id=city_id, category=category, limit=limit)
+
+    # ============ COST OF LIVING ============
+
+    def get_cost_of_living(self, city_id: str, category: Optional[str] = None) -> List[Dict[str, Any]]:
+        """Real curated rent/food/transport/groceries costs, optionally broken
+        down by neighborhood. Prefer this over a live web search for cost-of-
+        living questions — it's hand-curated, not noisy search snippets."""
+        rows = self._query("""
+            MATCH (c:City {id: $city_id})-[:HAS_COST_ITEM]->(item:CostOfLiving)
+            WHERE ($category IS NULL OR item.category = $category)
+            RETURN item.category AS category, item.item AS item,
+                   item.price_min AS price_min, item.price_max AS price_max,
+                   item.price_avg AS price_avg, item.neighborhood_breakdown AS neighborhood_breakdown,
+                   item.compared_to_city AS compared_to_city, item.parity_ratio AS parity_ratio
+            ORDER BY item.category
+        """, city_id=city_id, category=category)
+        for row in rows:
+            row["neighborhood_breakdown"] = (
+                json.loads(row["neighborhood_breakdown"]) if row["neighborhood_breakdown"] else {}
+            )
+        return rows

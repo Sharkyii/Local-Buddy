@@ -52,4 +52,4 @@ def build_culture_agent(repository: Repository, city_id: str, city_name: str) ->
         ),
     ]
 
-    return BaseAgent(SYSTEM_PROMPT.format(city_name=city_name), tools=tools)
+    return BaseAgent(SYSTEM_PROMPT.format(city_name=city_name), tools=tools, name="culture_agent")

@@ -15,5 +15,9 @@ neo4j>=5.13.0
 # Conversation memory (chat history / session window / user facts)
 redis>=5.0.0
 
+# Live price/listing lookup (hotels, resorts, rental flats) — free web search,
+# since prices change over time and can't be hardcoded in Neo4j (see agents/travel_agent.py)
+ddgs>=9.0.0
+
 # Config
 python-dotenv>=1.0.0

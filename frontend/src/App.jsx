@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { createSession, getOrCreateUserId } from "./api.js";
 import ChatWindow from "./ChatWindow.jsx";
+import MapView from "./MapView.jsx";
 
 // Hardcoded for now — there's no "list cities" repository method yet.
 const CITIES = [
@@ -16,6 +17,7 @@ export default function App() {
   const [cityId, setCityId] = useState(CITIES[0].id);
   const [sessionId, setSessionId] = useState(null);
   const [error, setError] = useState(null);
+  const [view, setView] = useState("chat");
 
   useEffect(() => {
     const storedKey = `localbuddy_session_${cityId}`;
@@ -36,16 +38,27 @@ export default function App() {
     <div className="app">
       <header>
         <h1>Local Buddy</h1>
-        <select value={cityId} onChange={(e) => setCityId(e.target.value)}>
-          {CITIES.map((c) => (
-            <option key={c.id} value={c.id}>
-              {c.label}
-            </option>
-          ))}
-        </select>
+        <div className="header-controls">
+          <div className="view-toggle">
+            <button className={view === "chat" ? "active" : ""} onClick={() => setView("chat")}>
+              Chat
+            </button>
+            <button className={view === "map" ? "active" : ""} onClick={() => setView("map")}>
+              Map
+            </button>
+          </div>
+          <select value={cityId} onChange={(e) => setCityId(e.target.value)}>
+            {CITIES.map((c) => (
+              <option key={c.id} value={c.id}>
+                {c.label}
+              </option>
+            ))}
+          </select>
+        </div>
       </header>
       {error && <div className="error">{error}</div>}
-      {sessionId && <ChatWindow sessionId={sessionId} />}
+      {view === "chat" && sessionId && <ChatWindow sessionId={sessionId} />}
+      {view === "map" && <MapView cityId={cityId} />}
     </div>
   );
 }

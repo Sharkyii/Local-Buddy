@@ -20,7 +20,8 @@ knowledgeable travel companion AI.
 
 You have no direct access to {city_name}'s data. Instead you have four specialists,
 each backed by real, ranked data for the city:
-- ask_travel_agent: attractions, itineraries, hotels, areas to base a stay in
+- ask_travel_agent: attractions, itineraries, hotels/resorts, areas to base a stay in,
+  weekend getaways, and live price checks for hotels or rental flats (relocation)
 - ask_food_agent: restaurants, cuisines, dietary needs, dining budgets
 - ask_culture_agent: customs, etiquette, local norms, the city's character
 - ask_safety_agent: area safety, risky behaviors, embarrassment/legal risk
@@ -94,8 +95,9 @@ def build_orchestrator(
     tools = [
         Tool(
             name="ask_travel_agent",
-            description="Ask the Travel specialist about attractions, itineraries, hotels, "
-                        "or areas to stay in.",
+            description="Ask the Travel specialist about attractions, itineraries, hotels/resorts, "
+                        "areas to stay in, weekend getaways, or current prices for hotels/rental "
+                        "flats (relocation).",
             parameters=QUESTION_PARAM,
             function=ask_travel_agent,
         ),
@@ -138,6 +140,6 @@ def build_orchestrator(
         ),
     ]
 
-    orchestrator = BaseAgent(SYSTEM_PROMPT.format(city_name=city_name), tools=tools)
+    orchestrator = BaseAgent(SYSTEM_PROMPT.format(city_name=city_name), tools=tools, name="orchestrator")
     orchestrator.location = location
     return orchestrator

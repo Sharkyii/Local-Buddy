@@ -88,7 +88,7 @@
     ]
   },
   {
-    "id": "area_colaba_ahmedabad",
+    "id": "area_old_city_ahmedabad",
     "name": "Old City (Pol Areas)",
     "city": "ahmedabad",
     "locality_type": "historic_dense",
@@ -114,6 +114,296 @@
       "Sabarmati Ashram",
       "Narrow lanes",
       "Street food"
+    ]
+  },
+  {
+    "id": "area_vastrapur_ahmedabad",
+    "name": "Vastrapur",
+    "city": "ahmedabad",
+    "locality_type": "upscale_residential",
+    "coordinates": {
+      "lat": 23.0395,
+      "lng": 72.5260
+    },
+    "population": 90000,
+    "average_rent_1bhk": 26000,
+    "lifestyle_tags": [
+      "upscale",
+      "lakeside",
+      "academic",
+      "joggers"
+    ],
+    "safety_level": "very_safe",
+    "public_transport_score": 8,
+    "walkability_score": 8,
+    "cultural_vibe": "affluent_academic",
+    "area_reputation": "premium_lakeside",
+    "notable_for": [
+      "Vastrapur Lake",
+      "IIM Ahmedabad nearby",
+      "Cafes around the lake",
+      "Evening walking/jogging track"
+    ]
+  },
+  {
+    "id": "area_navrangpura_ahmedabad",
+    "name": "Navrangpura",
+    "city": "ahmedabad",
+    "locality_type": "commercial_educational",
+    "coordinates": {
+      "lat": 23.0337,
+      "lng": 72.5616
+    },
+    "population": 110000,
+    "average_rent_1bhk": 22000,
+    "lifestyle_tags": [
+      "student_friendly",
+      "commercial",
+      "coaching_hub",
+      "central"
+    ],
+    "safety_level": "safe",
+    "public_transport_score": 9,
+    "walkability_score": 7,
+    "cultural_vibe": "busy_central",
+    "area_reputation": "education_commercial_hub",
+    "notable_for": [
+      "Gujarat University",
+      "C.G. Road shopping",
+      "Coaching institutes",
+      "Office buildings"
+    ]
+  },
+  {
+    "id": "area_maninagar_ahmedabad",
+    "name": "Maninagar",
+    "city": "ahmedabad",
+    "locality_type": "traditional_dense",
+    "coordinates": {
+      "lat": 22.9967,
+      "lng": 72.6033
+    },
+    "population": 250000,
+    "average_rent_1bhk": 14000,
+    "lifestyle_tags": [
+      "traditional",
+      "budget",
+      "railway_connectivity",
+      "family_friendly"
+    ],
+    "safety_level": "safe",
+    "public_transport_score": 8,
+    "walkability_score": 7,
+    "cultural_vibe": "traditional_middle_class",
+    "area_reputation": "established_residential",
+    "notable_for": [
+      "Maninagar railway station",
+      "Local markets",
+      "Established residential lanes",
+      "Budget eateries"
+    ]
+  },
+  {
+    "id": "area_paldi_ahmedabad",
+    "name": "Paldi",
+    "city": "ahmedabad",
+    "locality_type": "mixed_central",
+    "coordinates": {
+      "lat": 23.0156,
+      "lng": 72.5707
+    },
+    "population": 130000,
+    "average_rent_1bhk": 19000,
+    "lifestyle_tags": [
+      "central",
+      "mixed",
+      "old_money",
+      "convenient"
+    ],
+    "safety_level": "safe",
+    "public_transport_score": 8,
+    "walkability_score": 7,
+    "cultural_vibe": "old_established_mixed",
+    "area_reputation": "central_convenient",
+    "notable_for": [
+      "Close to riverfront",
+      "Older bungalows and societies",
+      "Easy access to Old City and Vastrapur",
+      "Local eateries"
+    ]
+  },
+  {
+    "id": "area_prahladnagar_ahmedabad",
+    "name": "Prahlad Nagar",
+    "city": "ahmedabad",
+    "locality_type": "upscale_modern",
+    "coordinates": {
+      "lat": 23.0118,
+      "lng": 72.5060
+    },
+    "population": 70000,
+    "average_rent_1bhk": 27000,
+    "lifestyle_tags": [
+      "upscale",
+      "corporate",
+      "nightlife",
+      "high_rise"
+    ],
+    "safety_level": "very_safe",
+    "public_transport_score": 7,
+    "walkability_score": 7,
+    "cultural_vibe": "cosmopolitan_corporate",
+    "area_reputation": "sg_highway_premium",
+    "notable_for": [
+      "SG Highway corporate offices",
+      "High-rise apartments",
+      "Garden/lake area",
+      "Restaurants and lounges"
+    ]
+  },
+  {
+    "id": "area_chandkheda_ahmedabad",
+    "name": "Chandkheda",
+    "city": "ahmedabad",
+    "locality_type": "growing_suburb",
+    "coordinates": {
+      "lat": 23.1086,
+      "lng": 72.5897
+    },
+    "population": 100000,
+    "average_rent_1bhk": 13000,
+    "lifestyle_tags": [
+      "developing",
+      "affordable",
+      "sports",
+      "families"
+    ],
+    "safety_level": "safe",
+    "public_transport_score": 6,
+    "walkability_score": 5,
+    "cultural_vibe": "developing_suburban",
+    "area_reputation": "emerging_northern_suburb",
+    "notable_for": [
+      "Narendra Modi Stadium (Motera) nearby",
+      "Newer apartment complexes",
+      "Affordable housing",
+      "Growing commercial strip"
+    ]
+  },
+  {
+    "id": "area_gota_ahmedabad",
+    "name": "Gota",
+    "city": "ahmedabad",
+    "locality_type": "new_development",
+    "coordinates": {
+      "lat": 23.1075,
+      "lng": 72.5371
+    },
+    "population": 80000,
+    "average_rent_1bhk": 12000,
+    "lifestyle_tags": [
+      "new_construction",
+      "affordable",
+      "quiet",
+      "families"
+    ],
+    "safety_level": "safe",
+    "public_transport_score": 5,
+    "walkability_score": 5,
+    "cultural_vibe": "quiet_developing",
+    "area_reputation": "western_outskirts_new",
+    "notable_for": [
+      "Newly built housing societies",
+      "Lower cost of living",
+      "Schools",
+      "Quieter than central areas"
+    ]
+  },
+  {
+    "id": "area_shahibaug_ahmedabad",
+    "name": "Shahibaug",
+    "city": "ahmedabad",
+    "locality_type": "old_institutional",
+    "coordinates": {
+      "lat": 23.0469,
+      "lng": 72.6022
+    },
+    "population": 95000,
+    "average_rent_1bhk": 17000,
+    "lifestyle_tags": [
+      "green",
+      "government_offices",
+      "old_bungalows",
+      "quiet"
+    ],
+    "safety_level": "safe",
+    "public_transport_score": 7,
+    "walkability_score": 6,
+    "cultural_vibe": "old_genteel",
+    "area_reputation": "government_residential_belt",
+    "notable_for": [
+      "Shahibaug government offices/circuit house",
+      "Tree-lined roads",
+      "Old colonial-era bungalows",
+      "Close to Old City"
+    ]
+  },
+  {
+    "id": "area_sarkhej_ahmedabad",
+    "name": "Sarkhej",
+    "city": "ahmedabad",
+    "locality_type": "industrial_residential",
+    "coordinates": {
+      "lat": 22.9667,
+      "lng": 72.5167
+    },
+    "population": 140000,
+    "average_rent_1bhk": 10000,
+    "lifestyle_tags": [
+      "budget",
+      "industrial",
+      "historic_monument",
+      "working_class"
+    ],
+    "safety_level": "moderate",
+    "public_transport_score": 5,
+    "walkability_score": 5,
+    "cultural_vibe": "working_class_historic",
+    "area_reputation": "industrial_southwest",
+    "notable_for": [
+      "Sarkhej Roza monument complex",
+      "Industrial estates nearby",
+      "Budget housing",
+      "Local markets"
+    ]
+  },
+  {
+    "id": "area_vastral_ahmedabad",
+    "name": "Vastral",
+    "city": "ahmedabad",
+    "locality_type": "industrial_residential",
+    "coordinates": {
+      "lat": 22.9967,
+      "lng": 72.6967
+    },
+    "population": 160000,
+    "average_rent_1bhk": 9000,
+    "lifestyle_tags": [
+      "budget",
+      "industrial",
+      "metro_connectivity",
+      "working_class"
+    ],
+    "safety_level": "moderate",
+    "public_transport_score": 6,
+    "walkability_score": 5,
+    "cultural_vibe": "working_class_eastern",
+    "area_reputation": "industrial_eastern_suburb",
+    "notable_for": [
+      "Eastern industrial belt",
+      "Metro connectivity",
+      "Very affordable housing",
+      "Local eateries"
     ]
   }
 ]

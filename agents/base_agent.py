@@ -9,12 +9,15 @@ agent code needed.
 """
 
 import json
+import logging
 import os
 import time
 from dataclasses import dataclass
 from typing import Any, Callable, Dict, List
 
 import litellm
+
+logger = logging.getLogger(__name__)
 
 ANTHROPIC_MODEL = "anthropic/claude-opus-4-8"
 GROQ_MODEL = "groq/llama-3.3-70b-versatile"
@@ -74,11 +77,12 @@ class Tool:
 
 
 class BaseAgent:
-    def __init__(self, system_prompt: str, tools: List[Tool]):
+    def __init__(self, system_prompt: str, tools: List[Tool], name: str = "agent"):
         self.model = _select_model()
         self.system_prompt = system_prompt + NO_THINK_DIRECTIVE
         self.tool_schemas = [tool.to_schema() for tool in tools]
         self.tool_functions = {tool.name: tool.function for tool in tools}
+        self.name = name  # identifies this agent in timing logs (e.g. "orchestrator", "travel_agent")
 
     def respond(self, query: str) -> str:
         """Stateless one-shot ask — used by sub-agents, which never carry memory."""
@@ -95,11 +99,18 @@ class BaseAgent:
 
     def _loop(self, messages: List[Dict[str, Any]]) -> str:
         """Run the tool-use loop to completion and return the model's final text reply."""
+        loop_start = time.perf_counter()
+        round_num = 0
         for _ in range(MAX_TOOL_ROUNDS):
+            round_num += 1
+            llm_start = time.perf_counter()
             response = self._complete(messages)
+            logger.info(f"[{self.name}] round {round_num} LLM call ({self.model}): "
+                        f"{time.perf_counter() - llm_start:.2f}s")
             message = response.choices[0].message
             tool_calls = message.tool_calls
             if not tool_calls:
+                logger.info(f"[{self.name}] total respond time: {time.perf_counter() - loop_start:.2f}s")
                 return message.content or ""
 
             messages.append(message)
@@ -109,12 +120,17 @@ class BaseAgent:
                 # tool's arguments instead of "{}" — json.loads turns that into
                 # None, and **None blows up, so coerce back to {} either way.
                 arguments = json.loads(call.function.arguments or "{}") or {}
+                tool_start = time.perf_counter()
+                content = function(**arguments)
+                logger.info(f"[{self.name}] tool '{call.function.name}': "
+                            f"{time.perf_counter() - tool_start:.2f}s")
                 messages.append({
                     "tool_call_id": call.id,
                     "role": "tool",
                     "name": call.function.name,
-                    "content": function(**arguments),
+                    "content": content,
                 })
+        logger.info(f"[{self.name}] total respond time (max rounds hit): {time.perf_counter() - loop_start:.2f}s")
 
         return "I wasn't able to finish researching that — try a narrower question."
 

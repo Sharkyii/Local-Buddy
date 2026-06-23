@@ -8,7 +8,7 @@ import logging
 from typing import List, Dict, Any
 from neo4j import GraphDatabase
 from data.models import (
-    City, Area, Place, Hotel, Restaurant, Norm, PlaceCategory
+    City, Area, Place, Hotel, Restaurant, Norm, PlaceCategory, CostOfLiving
 )
 
 logger = logging.getLogger(__name__)
@@ -152,6 +152,7 @@ class Neo4jLoader:
                         p.google_reviews = $google_reviews,
                         p.must_visit = $must_visit,
                         p.distance_from_center_km = $distance_from_center_km,
+                        p.data_source = $data_source,
                         p.created_at = datetime()
                 """, place_data)
 
@@ -191,6 +192,7 @@ class Neo4jLoader:
                         r.vegan_options = $vegan_options,
                         r.google_rating = $google_rating,
                         r.ambiance = $ambiance,
+                        r.data_source = $data_source,
                         r.created_at = datetime()
                 """, rest_data)
 
@@ -216,10 +218,12 @@ class Neo4jLoader:
                         h.area = $area,
                         h.coordinates = point({latitude: $lat, longitude: $lng}),
                         h.stars = $stars,
+                        h.hotel_type = $hotel_type,
                         h.price_per_night = $price_per_night,
                         h.amenities = $amenities,
                         h.specialties = $specialties,
                         h.google_rating = $google_rating,
+                        h.data_source = $data_source,
                         h.created_at = datetime()
                 """, hotel_data)
 
@@ -228,6 +232,60 @@ class Neo4jLoader:
 
         except Exception as e:
             self.logger.error(f"Error creating hotel: {e}")
+            return False
+
+    def update_verified_price(self, city_id: str, hotel_name: str, price, currency: str, confidence: str) -> bool:
+        """Stamp a Hotel node with a web-search-verified price. Separate property
+        names from price_per_night (which is Google-Places-shaped and always empty
+        in this dataset) so it's clear this came from a live lookup, not a
+        structured source — includes a timestamp since it can go stale."""
+        try:
+            with self.driver.session() as session:
+                result = session.run("""
+                    MATCH (c:City {id: $city_id})-[:HAS_AREA]->(:Area)-[:HAS_HOTEL]->(h:Hotel {name: $hotel_name})
+                    SET h.verified_price = $price,
+                        h.verified_price_currency = $currency,
+                        h.verified_price_confidence = $confidence,
+                        h.verified_price_checked_at = datetime()
+                    RETURN h.id AS id
+                """, city_id=city_id, hotel_name=hotel_name, price=price,
+                     currency=currency, confidence=confidence)
+                return result.single() is not None
+        except Exception as e:
+            self.logger.error(f"Error updating verified price for {hotel_name}: {e}")
+            return False
+
+    # ============ COST OF LIVING ============
+
+    def create_cost_of_living_item(self, item: CostOfLiving) -> bool:
+        """Create or update a CostOfLiving node and link it to its City.
+        neighborhood_breakdown is a nested dict (Neo4j rejects nested maps as
+        property values, same constraint as Hotel.price_per_night) — stored as
+        a JSON string, parsed back out in Repository."""
+        try:
+            with self.driver.session() as session:
+                session.run("""
+                    MATCH (c:City {id: $city_id})
+                    MERGE (item:CostOfLiving {id: $id})
+                    SET item.category = $category,
+                        item.item = $item_name,
+                        item.price_min = $price_min,
+                        item.price_max = $price_max,
+                        item.price_avg = $price_avg,
+                        item.neighborhood_breakdown = $neighborhood_breakdown,
+                        item.compared_to_city = $compared_to_city,
+                        item.parity_ratio = $parity_ratio,
+                        item.created_at = datetime()
+                    MERGE (c)-[:HAS_COST_ITEM]->(item)
+                """, city_id=item.city, id=item.id, category=item.category, item_name=item.item,
+                     price_min=item.price_range.get("min"), price_max=item.price_range.get("max"),
+                     price_avg=item.price_range.get("avg"),
+                     neighborhood_breakdown=json.dumps(item.neighborhood_breakdown),
+                     compared_to_city=item.compared_to_city, parity_ratio=item.parity_ratio)
+                self.logger.info(f"✓ Cost-of-living item created: {item.item}")
+                return True
+        except Exception as e:
+            self.logger.error(f"Error creating cost-of-living item {item.item}: {e}")
             return False
 
     # ============ NORM OPERATIONS ============
@@ -275,6 +333,11 @@ class Neo4jLoader:
         to its geographically nearest Area, using Neo4j's native point distance,
         and stamp the node's `area` property with that area's id.
 
+        First clears this label's existing Area links in the city — otherwise
+        re-running after the Area set changes (e.g. adding more areas) leaves
+        nodes linked to their old "nearest at the time" area *and* their new
+        one, since a plain MERGE only ever adds, never removes, a relationship.
+
         Args:
             city_id: City to scope the search to
             label: Node label to link, e.g. "Place", "Hotel", "Restaurant"
@@ -283,6 +346,11 @@ class Neo4jLoader:
         """
         try:
             with self.driver.session() as session:
+                session.run(f"""
+                    MATCH (c:City {{id: $city_id}})-[:HAS_AREA]->(:Area)-[r:{relationship}]->(:{label})
+                    DELETE r
+                """, {"city_id": city_id})
+
                 result = session.run(f"""
                     MATCH (c:City {{id: $city_id}})-[:HAS_AREA]->(a:Area)
                     MATCH (n:{label} {{city: c.name}})
