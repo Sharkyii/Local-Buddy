@@ -1,0 +1,7082 @@
+[
+  {
+    "id": "hetampur_26.611_77.9438_gwalior",
+    "name": "Hetampur",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.6109617,
+      "lng": 77.9438065
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.275890"
+  },
+  {
+    "id": "sithouli_26.1465_78.1872_gwalior",
+    "name": "Sithouli",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1465401,
+      "lng": 78.1872023
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.275916"
+  },
+  {
+    "id": "rayaru_26.306_78.1302_gwalior",
+    "name": "Rayaru",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.306033,
+      "lng": 78.1301513
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.275931"
+  },
+  {
+    "id": "sanichara_26.3637_78.1985_gwalior",
+    "name": "Sanichara",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.3636637,
+      "lng": 78.1984721
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.275937"
+  },
+  {
+    "id": "ghosipura_26.2129_78.1522_gwalior",
+    "name": "Ghosipura",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2128776,
+      "lng": 78.1522371
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.275944"
+  },
+  {
+    "id": "jora_alapur_26.3446_77.8023_gwalior",
+    "name": "Jora Alapur",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.3445812,
+      "lng": 77.8022992
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.275950"
+  },
+  {
+    "id": "morena_26.5013_78.0029_gwalior",
+    "name": "Morena",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.5013204,
+      "lng": 78.0028617
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.275954"
+  },
+  {
+    "id": "banmor_26.3555_78.0986_gwalior",
+    "name": "Banmor",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.3554714,
+      "lng": 78.0986027
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.275959"
+  },
+  {
+    "id": "anant_paith_25.9554_78.2764_gwalior",
+    "name": "Anant Paith",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.9553504,
+      "lng": 78.276429
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.275963"
+  },
+  {
+    "id": "antri_26.0356_78.227_gwalior",
+    "name": "Antri",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.0356437,
+      "lng": 78.2269532
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.275967"
+  },
+  {
+    "id": "birlanagar_26.2381_78.1954_gwalior",
+    "name": "Birlanagar",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2380733,
+      "lng": 78.1954124
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.275971"
+  },
+  {
+    "id": "dabra_25.8819_78.3305_gwalior",
+    "name": "Dabra",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.8818881,
+      "lng": 78.3305079
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.275975"
+  },
+  {
+    "id": "kotra_25.8112_78.3811_gwalior",
+    "name": "Kotra",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.8112268,
+      "lng": 78.3810723
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.275980"
+  },
+  {
+    "id": "nurabad_26.4051_78.0776_gwalior",
+    "name": "Nurabad",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.4050848,
+      "lng": 78.0776348
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.275988"
+  },
+  {
+    "id": "sank_26.4305_78.0598_gwalior",
+    "name": "Sank",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.4304728,
+      "lng": 78.0597694
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.275992"
+  },
+  {
+    "id": "sikroda_kwanri_26.5696_77.9631_gwalior",
+    "name": "Sikroda Kwanri",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.5695519,
+      "lng": 77.9631409
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.275996"
+  },
+  {
+    "id": "gohad_road_26.4681_78.4086_gwalior",
+    "name": "Gohad Road",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.4680914,
+      "lng": 78.4085547
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276001"
+  },
+  {
+    "id": "nonera_26.4264_78.306_gwalior",
+    "name": "Nonera",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.4264194,
+      "lng": 78.3059887
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276092"
+  },
+  {
+    "id": "malanpur_26.392_78.2607_gwalior",
+    "name": "Malanpur",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.3920138,
+      "lng": 78.2607273
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276096"
+  },
+  {
+    "id": "sondha_road_26.4984_78.4841_gwalior",
+    "name": "Sondha Road",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.4983516,
+      "lng": 78.4841356
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276103"
+  },
+  {
+    "id": "bamourgaon_26.3403_78.1034_gwalior",
+    "name": "Bamourgaon",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.3403261,
+      "lng": 78.1034476
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276107"
+  },
+  {
+    "id": "moti_jheel_26.2508_78.142_gwalior",
+    "name": "Moti Jheel",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.250778,
+      "lng": 78.142023
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276112"
+  },
+  {
+    "id": "sikroda_26.3397_77.733_gwalior",
+    "name": "Sikroda",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.339735,
+      "lng": 77.7330244
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276116"
+  },
+  {
+    "id": "sumaoli_26.3734_77.9156_gwalior",
+    "name": "Sumaoli",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.3734391,
+      "lng": 77.9156399
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276120"
+  },
+  {
+    "id": "ghatigaon_26.0664_77.9383_gwalior",
+    "name": "Ghatigaon",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.0663746,
+      "lng": 77.938312
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276124"
+  },
+  {
+    "id": "panihar_26.105_78.0231_gwalior",
+    "name": "Panihar",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1049627,
+      "lng": 78.0230752
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276128"
+  },
+  {
+    "id": "renhat_25.9804_77.8351_gwalior",
+    "name": "Renhat",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.9803749,
+      "lng": 77.8350778
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276132"
+  },
+  {
+    "id": "axis_bank_26.2095_78.1874_gwalior",
+    "name": "Axis Bank",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "finance",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2094828,
+      "lng": 78.1874497
+    },
+    "description": "Madhav Rao Scindia Marg",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276137"
+  },
+  {
+    "id": "gwalior_junction_26.2162_78.1826_gwalior",
+    "name": "Gwalior Junction",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2162438,
+      "lng": 78.1826037
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276141"
+  },
+  {
+    "id": "boi_bank_26.2027_78.1622_gwalior",
+    "name": "BOI Bank",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "finance",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2027288,
+      "lng": 78.1621866
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276146"
+  },
+  {
+    "id": "simariatal_25.9217_78.3039_gwalior",
+    "name": "Simariatal",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.9216715,
+      "lng": 78.3038826
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276150"
+  },
+  {
+    "id": "sandalpur_26.0829_78.2034_gwalior",
+    "name": "Sandalpur",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.0829395,
+      "lng": 78.2034271
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276158"
+  },
+  {
+    "id": "naogaon_26.1397_78.1391_gwalior",
+    "name": "Naogaon",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1397049,
+      "lng": 78.1390648
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276162"
+  },
+  {
+    "id": "milaoli_26.3003_78.12_gwalior",
+    "name": "Milaoli",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.3002868,
+      "lng": 78.1199773
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276166"
+  },
+  {
+    "id": "ambkeshwar_26.366_77.9726_gwalior",
+    "name": "Ambkeshwar",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.3660126,
+      "lng": 77.9725868
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276170"
+  },
+  {
+    "id": "thara_26.3563_77.8509_gwalior",
+    "name": "Thara",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.3563139,
+      "lng": 77.8509084
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276176"
+  },
+  {
+    "id": "bhatpura_26.3274_77.6763_gwalior",
+    "name": "Bhatpura",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.3274272,
+      "lng": 77.6762749
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276179"
+  },
+  {
+    "id": "bhadroli_26.3012_78.1809_gwalior",
+    "name": "Bhadroli",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.3011551,
+      "lng": 78.1809189
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276183"
+  },
+  {
+    "id": "rithaura_kalan_26.3846_78.2336_gwalior",
+    "name": "Rithaura Kalan",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.3845616,
+      "lng": 78.2336426
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276187"
+  },
+  {
+    "id": "rayatpura_26.4392_78.3375_gwalior",
+    "name": "Rayatpura",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.4391509,
+      "lng": 78.3374634
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276191"
+  },
+  {
+    "id": "allahabad_bank_26.2316_78.2169_gwalior",
+    "name": "Allahabad Bank",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "finance",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2315929,
+      "lng": 78.2169066
+    },
+    "description": "Morar Road",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276195"
+  },
+  {
+    "id": "district_hospital_blood_bank,_morena_26.4961_77.9987_gwalior",
+    "name": "District Hospital Blood Bank, Morena",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "landmark",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.4961372,
+      "lng": 77.9986659
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276202"
+  },
+  {
+    "id": "birla_institute_of_medical_research_blood_bank_26.2354_78.2186_gwalior",
+    "name": "Birla Institute of Medical Research Blood Bank",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "landmark",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2354424,
+      "lng": 78.2185551
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276207"
+  },
+  {
+    "id": "shri_radheswami_blood_bank_26.1954_78.1585_gwalior",
+    "name": "Shri Radheswami Blood Bank",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "landmark",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1954001,
+      "lng": 78.1585447
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276213"
+  },
+  {
+    "id": "indian_red_cross_society_(ircs)_blood_bank_26.1918_78.1597_gwalior",
+    "name": "Indian Red Cross Society (IRCS) Blood Bank",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "landmark",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1917575,
+      "lng": 78.1597397
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276218"
+  },
+  {
+    "id": "blood_bank_(component_&_apheresis_unit)_g.r.medical_college_26.1917_78.1649_gwalior",
+    "name": "Blood Bank (Component & Apheresis Unit) G.R.Medical College",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "landmark",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1916973,
+      "lng": 78.1649137
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276223"
+  },
+  {
+    "id": "district_hospital_blood_bank_-_gwaliar_26.2261_78.2224_gwalior",
+    "name": "District Hospital Blood Bank - Gwaliar",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "landmark",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.22613,
+      "lng": 78.2224028
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276227"
+  },
+  {
+    "id": "cancer_hospital_and_research_centre_blood_bank_26.1835_78.1658_gwalior",
+    "name": "Cancer Hospital and Research Centre Blood Bank",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "landmark",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.183479,
+      "lng": 78.165835
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276233"
+  },
+  {
+    "id": "jindal_blood_bank_26.4968_77.9975_gwalior",
+    "name": "Jindal Blood Bank",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "landmark",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.4967543,
+      "lng": 77.9974593
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276238"
+  },
+  {
+    "id": "radhaswami_blood_bank_services_26.1935_78.155_gwalior",
+    "name": "Radhaswami Blood Bank Services",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "landmark",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1934735,
+      "lng": 78.1549814
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276242"
+  },
+  {
+    "id": "garg_nursing_home_26.1994_78.1677_gwalior",
+    "name": "Garg Nursing Home",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1993724,
+      "lng": 78.1677259
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276249"
+  },
+  {
+    "id": "ratan_jyoti_netrayalaya_26.2196_78.1714_gwalior",
+    "name": "Ratan Jyoti Netrayalaya",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2195612,
+      "lng": 78.1713617
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276254"
+  },
+  {
+    "id": "vatsalya_hospital_dr_rashmi_gupta_26.2016_78.1572_gwalior",
+    "name": "Vatsalya Hospital Dr Rashmi Gupta",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2016166,
+      "lng": 78.1572479
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276258"
+  },
+  {
+    "id": "janak_hospital,_gwalior_26.1966_78.1522_gwalior",
+    "name": "Janak Hospital, Gwalior",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1965969,
+      "lng": 78.1521718
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276262"
+  },
+  {
+    "id": "gupta_hospital_and_maternity_home_26.2247_78.2258_gwalior",
+    "name": "Gupta Hospital and Maternity Home",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2246833,
+      "lng": 78.2258119
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276268"
+  },
+  {
+    "id": "global_speciality_hospital_26.2131_78.1924_gwalior",
+    "name": "Global Speciality Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2131147,
+      "lng": 78.1923741
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276272"
+  },
+  {
+    "id": "bansal_eye_hospital_and_laser_surgery_centre_26.1932_78.1558_gwalior",
+    "name": "Bansal Eye Hospital and Laser Surgery Centre",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1931956,
+      "lng": 78.1557767
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276276"
+  },
+  {
+    "id": "cancer_hospital_and_research_institute_26.1836_78.1659_gwalior",
+    "name": "Cancer Hospital And Research Institute",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1835644,
+      "lng": 78.1659463
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276280"
+  },
+  {
+    "id": "jaya_arogya_hospital_group_26.1916_78.1607_gwalior",
+    "name": "Jaya Arogya Hospital Group",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1916275,
+      "lng": 78.1606516
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276284"
+  },
+  {
+    "id": "joshi_hospital,_gwalior_26.2058_78.1478_gwalior",
+    "name": "Joshi Hospital, Gwalior",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2057655,
+      "lng": 78.147824
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276288"
+  },
+  {
+    "id": "jeevan_jyoti_netralaya_super_speciality_eye_hospital_26.2105_78.1879_gwalior",
+    "name": "Jeevan Jyoti Netralaya Super Speciality Eye Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2104785,
+      "lng": 78.1878801
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276292"
+  },
+  {
+    "id": "new_life_hospital_26.2064_78.1636_gwalior",
+    "name": "New Life Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2063502,
+      "lng": 78.1635565
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276296"
+  },
+  {
+    "id": "gauri_hospital_26.2339_78.2107_gwalior",
+    "name": "Gauri Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2339436,
+      "lng": 78.2107151
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276300"
+  },
+  {
+    "id": "alok_nursing_home_26.2024_78.1833_gwalior",
+    "name": "Alok Nursing Home",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2024095,
+      "lng": 78.183268
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276304"
+  },
+  {
+    "id": "ankur_bal_chikitsalaya_26.2071_78.1463_gwalior",
+    "name": "Ankur Bal Chikitsalaya",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2071468,
+      "lng": 78.1463058
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276310"
+  },
+  {
+    "id": "khushal_smriti_hospital_26.2184_78.1765_gwalior",
+    "name": "Khushal Smriti Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2183623,
+      "lng": 78.176543
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276316"
+  },
+  {
+    "id": "prasad_nursing_home,_gwalior_26.2312_78.1806_gwalior",
+    "name": "Prasad Nursing Home, Gwalior",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2312326,
+      "lng": 78.1805945
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276320"
+  },
+  {
+    "id": "nidaan_heart_and_maternity_hospital_26.2156_78.1706_gwalior",
+    "name": "Nidaan Heart and Maternity Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2156318,
+      "lng": 78.1706214
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276324"
+  },
+  {
+    "id": "mehra_children_nursing_home,_gwalior_26.206_78.1993_gwalior",
+    "name": "Mehra Children Nursing Home, Gwalior",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2060133,
+      "lng": 78.1992714
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276328"
+  },
+  {
+    "id": "maheshwari_nursing_home,_gwalior_26.2136_78.1739_gwalior",
+    "name": "Maheshwari Nursing Home, Gwalior",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2135704,
+      "lng": 78.1739208
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276333"
+  },
+  {
+    "id": "j_s_memorial_hospital_26.2168_78.2053_gwalior",
+    "name": "J S Memorial Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2168349,
+      "lng": 78.2053399
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276337"
+  },
+  {
+    "id": "govil_hospital_26.2088_78.2013_gwalior",
+    "name": "Govil Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2088229,
+      "lng": 78.2013005
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276341"
+  },
+  {
+    "id": "p.n.j._memorial_hospital_26.2254_78.2233_gwalior",
+    "name": "P.N.J. Memorial Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2254082,
+      "lng": 78.2233027
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276345"
+  },
+  {
+    "id": "chandra_hospital_26.2174_78.2073_gwalior",
+    "name": "Chandra Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2174088,
+      "lng": 78.2073167
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276348"
+  },
+  {
+    "id": "kalyan_hospital_-_gwalior_26.219_78.2222_gwalior",
+    "name": "Kalyan Hospital - Gwalior",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2189801,
+      "lng": 78.222203
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276352"
+  },
+  {
+    "id": "koteshwar_hospital_26.2274_78.1613_gwalior",
+    "name": "Koteshwar Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2274101,
+      "lng": 78.1612907
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276359"
+  },
+  {
+    "id": "royal_hospital,_gwalior_26.196_78.1499_gwalior",
+    "name": "Royal Hospital, Gwalior",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.19605,
+      "lng": 78.1498517
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276363"
+  },
+  {
+    "id": "chaudhary_nursing_home_26.234_78.2232_gwalior",
+    "name": "Chaudhary Nursing Home",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2340049,
+      "lng": 78.223241
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276367"
+  },
+  {
+    "id": "garg_nursing_home,_morena_26.4974_77.9946_gwalior",
+    "name": "Garg Nursing Home, Morena",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.4973712,
+      "lng": 77.9946306
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276371"
+  },
+  {
+    "id": "olyai_hospital_26.1986_78.1617_gwalior",
+    "name": "Olyai Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1986293,
+      "lng": 78.1617446
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276375"
+  },
+  {
+    "id": "sanjeevani_hospital_and_research_centre,_gwalior_26.2128_78.1923_gwalior",
+    "name": "Sanjeevani Hospital and Research Centre, Gwalior",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2128088,
+      "lng": 78.1923419
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276379"
+  },
+  {
+    "id": "mundhra_nursing_home_26.197_78.1551_gwalior",
+    "name": "Mundhra Nursing Home",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1970211,
+      "lng": 78.155145
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276386"
+  },
+  {
+    "id": "garima_hospital_26.1908_78.1505_gwalior",
+    "name": "Garima Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1908249,
+      "lng": 78.1504914
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276390"
+  },
+  {
+    "id": "kilkari_hospital_and_research_centre_(_p._)_ltd_26.2049_78.1523_gwalior",
+    "name": "Kilkari Hospital And Research Centre ( P. ) Ltd",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2049178,
+      "lng": 78.1522798
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276394"
+  },
+  {
+    "id": "thakur_hospital,_gwalior_26.1927_78.1448_gwalior",
+    "name": "Thakur Hospital, Gwalior",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1926528,
+      "lng": 78.1447917
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276399"
+  },
+  {
+    "id": "rathi_maternity_home_26.4976_77.9983_gwalior",
+    "name": "Rathi Maternity Home",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.4976221,
+      "lng": 77.9982519
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276403"
+  },
+  {
+    "id": "apex_hospital,_gwalior_26.2076_78.2004_gwalior",
+    "name": "Apex Hospital, Gwalior",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2075667,
+      "lng": 78.2003805
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276407"
+  },
+  {
+    "id": "chirayu_hospital_26.208_78.1448_gwalior",
+    "name": "Chirayu Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2079914,
+      "lng": 78.1448
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276411"
+  },
+  {
+    "id": "dr._kaul_hospital_and_research_centre_26.1935_78.1563_gwalior",
+    "name": "Dr. Kaul Hospital and Research Centre",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1934591,
+      "lng": 78.1563306
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276415"
+  },
+  {
+    "id": "sahara_hospital,_gwalior_26.2083_78.1776_gwalior",
+    "name": "Sahara Hospital, Gwalior",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2082574,
+      "lng": 78.1776085
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276419"
+  },
+  {
+    "id": "navjeevan_hospital,_gwalior_26.2104_78.1764_gwalior",
+    "name": "Navjeevan Hospital, Gwalior",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2104003,
+      "lng": 78.1763868
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276424"
+  },
+  {
+    "id": "ayushman_neuro_cardio_centre_and_shubham_hospital_26.2059_78.1799_gwalior",
+    "name": "Ayushman Neuro Cardio Centre and Shubham Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2059411,
+      "lng": 78.1799025
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276429"
+  },
+  {
+    "id": "city_hospital_and_research_centre_-_gwalior_26.2232_78.1525_gwalior",
+    "name": "City Hospital And Research Centre - Gwalior",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2232301,
+      "lng": 78.1525375
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276433"
+  },
+  {
+    "id": "verma_hospital_and_fertility_centre_26.1961_78.1583_gwalior",
+    "name": "Verma Hospital and Fertility Centre",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1961312,
+      "lng": 78.1582504
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276437"
+  },
+  {
+    "id": "parwati_nursing_home_26.4959_77.9978_gwalior",
+    "name": "Parwati Nursing Home",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.4958571,
+      "lng": 77.9977859
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276440"
+  },
+  {
+    "id": "rathi_hospital_26.2045_78.1524_gwalior",
+    "name": "Rathi Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2045135,
+      "lng": 78.152379
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276444"
+  },
+  {
+    "id": "ashirwad_hospital_and_research_centre_26.193_78.1658_gwalior",
+    "name": "Ashirwad Hospital and Research Centre",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1930485,
+      "lng": 78.1658305
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276450"
+  },
+  {
+    "id": "sarvodaya_hospital_and_trauma_unit,_gwalior_26.1928_78.1664_gwalior",
+    "name": "Sarvodaya Hospital and Trauma Unit, Gwalior",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1927546,
+      "lng": 78.1664248
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276454"
+  },
+  {
+    "id": "soham_hospital_and_research_centre_gwalior_26.2152_78.206_gwalior",
+    "name": "Soham Hospital and Research Centre Gwalior",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2152046,
+      "lng": 78.205989
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276458"
+  },
+  {
+    "id": "pariwar_hospital_multi_speciality_and_research_centre_26.1974_78.1612_gwalior",
+    "name": "Pariwar Hospital Multi Speciality and Research Centre",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1973965,
+      "lng": 78.1611646
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276464"
+  },
+  {
+    "id": "i.p._and_captain_dr._s._dewan_memorial_hospital_and_research_institute_26.1982_78.1539_gwalior",
+    "name": "I.P. And Captain Dr. S. Dewan Memorial Hospital and Research Institute",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1982039,
+      "lng": 78.1538925
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276468"
+  },
+  {
+    "id": "bansal_hospital_26.2055_78.1458_gwalior",
+    "name": "Bansal Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2055332,
+      "lng": 78.1457975
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276473"
+  },
+  {
+    "id": "dubey_orthopaedic_and_maternity_nursing_home_26.2079_78.1633_gwalior",
+    "name": "Dubey Orthopaedic and Maternity Nursing Home",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2079367,
+      "lng": 78.1632648
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276477"
+  },
+  {
+    "id": "konark_hospital,_gwalior_26.2097_78.1611_gwalior",
+    "name": "Konark Hospital, Gwalior",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2097025,
+      "lng": 78.1610633
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276481"
+  },
+  {
+    "id": "chandak_hospital,_gwalior_26.1982_78.1618_gwalior",
+    "name": "Chandak Hospital, Gwalior",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1981913,
+      "lng": 78.1617815
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276485"
+  },
+  {
+    "id": "shivji_bal_chikitsalaya_26.1998_78.1565_gwalior",
+    "name": "Shivji Bal Chikitsalaya",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1997743,
+      "lng": 78.1564714
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276489"
+  },
+  {
+    "id": "upadhyay_hospital_and_research_centre_pvt_ltd,_gwalior_26.1901_78.1501_gwalior",
+    "name": "Upadhyay Hospital And Research Centre Pvt Ltd, Gwalior",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1900619,
+      "lng": 78.1501461
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276493"
+  },
+  {
+    "id": "mangal_nursing_home_and_research_centre_26.2147_78.1725_gwalior",
+    "name": "Mangal Nursing Home and Research Centre",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2147402,
+      "lng": 78.1724761
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276497"
+  },
+  {
+    "id": "suyash_hospital_26.1987_78.1667_gwalior",
+    "name": "Suyash Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1986588,
+      "lng": 78.1666718
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276501"
+  },
+  {
+    "id": "rajput_ortho_hospital_&_trauma_centre_26.4899_77.9839_gwalior",
+    "name": "Rajput Ortho Hospital & Trauma Centre",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.4899092,
+      "lng": 77.9839155
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276505"
+  },
+  {
+    "id": "saraf_hospital_26.2036_78.1613_gwalior",
+    "name": "Saraf Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2036116,
+      "lng": 78.1613463
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276508"
+  },
+  {
+    "id": "govt_phc_hospital_barai_26.1144_78.0139_gwalior",
+    "name": "Govt PHC Hospital Barai",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1143892,
+      "lng": 78.0138597
+    },
+    "description": "Primary Health Centre",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276536"
+  },
+  {
+    "id": "civil_hospital_25.888_78.3339_gwalior",
+    "name": "Civil Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.887958,
+      "lng": 78.3338968
+    },
+    "description": "Sub-District Hospital",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276540"
+  },
+  {
+    "id": "civil_dispensary_26.2028_78.1472_gwalior",
+    "name": "Civil Dispensary",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2027865,
+      "lng": 78.1471772
+    },
+    "description": "Dispensaries",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276544"
+  },
+  {
+    "id": "govt._hospital_26.4039_78.0665_gwalior",
+    "name": "Govt. Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.4038931,
+      "lng": 78.0664793
+    },
+    "description": "Community Health Center",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276548"
+  },
+  {
+    "id": "civil_hospital_hem_singh_ki_pared_26.1923_78.1285_gwalior",
+    "name": "Civil Hospital Hem Singh Ki Pared",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1923472,
+      "lng": 78.1285147
+    },
+    "description": "Sub-District Hospital",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276554"
+  },
+  {
+    "id": "dh_morena_26.4962_77.9986_gwalior",
+    "name": "DH Morena",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.4961854,
+      "lng": 77.9986221
+    },
+    "description": "District Hospital",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276558"
+  },
+  {
+    "id": "goverment_hospital,shuklahari_26.0184_78.4921_gwalior",
+    "name": "Goverment hospital,Shuklahari",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.0184208,
+      "lng": 78.4921418
+    },
+    "description": "Village Shuklhari",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276562"
+  },
+  {
+    "id": "government_civil_hospital,gwalior_26.2329_78.1776_gwalior",
+    "name": "Government Civil Hospital,Gwalior",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2329487,
+      "lng": 78.1776488
+    },
+    "description": "Sub-District Hospital",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276566"
+  },
+  {
+    "id": "government_hospital,joura_26.3406_77.8136_gwalior",
+    "name": "Government Hospital,Joura",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.3406421,
+      "lng": 77.8135791
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276570"
+  },
+  {
+    "id": "astha_hospital_26.2319_78.2167_gwalior",
+    "name": "Astha Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2318803,
+      "lng": 78.2167018
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276573"
+  },
+  {
+    "id": "anand_hospital_26.207_78.163_gwalior",
+    "name": "Anand Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.206995,
+      "lng": 78.162961
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276577"
+  },
+  {
+    "id": "deep_hospital_26.2049_78.2013_gwalior",
+    "name": "Deep Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2049116,
+      "lng": 78.2012524
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276583"
+  },
+  {
+    "id": "archana_healthcare_26.2011_78.1896_gwalior",
+    "name": "Archana Healthcare",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2010566,
+      "lng": 78.1896047
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276587"
+  },
+  {
+    "id": "gajra_raja_medical_college_26.1934_78.1616_gwalior",
+    "name": "Gajra raja medical college",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1934493,
+      "lng": 78.1615727
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276591"
+  },
+  {
+    "id": "sonam_hospital_25.7972_78.1169_gwalior",
+    "name": "Sonam Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.7972087,
+      "lng": 78.1168631
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276595"
+  },
+  {
+    "id": "vinayak_hospital_26.1898_78.1608_gwalior",
+    "name": "Vinayak Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1897977,
+      "lng": 78.1607709
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276599"
+  },
+  {
+    "id": "sanskar_hospital_25.8858_78.3323_gwalior",
+    "name": "Sanskar Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.8857626,
+      "lng": 78.3322947
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276605"
+  },
+  {
+    "id": "prayas_children_hospital_26.2139_78.1977_gwalior",
+    "name": "Prayas Children Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2139386,
+      "lng": 78.197669
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276609"
+  },
+  {
+    "id": "pulse_hospital_26.21_78.2003_gwalior",
+    "name": "Pulse Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2100404,
+      "lng": 78.2002842
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276615"
+  },
+  {
+    "id": "gokhale_hospital_26.2059_78.1613_gwalior",
+    "name": "Gokhale Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2059372,
+      "lng": 78.1612858
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276619"
+  },
+  {
+    "id": "govt._hospital_26.1717_78.5333_gwalior",
+    "name": "Govt. Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1717475,
+      "lng": 78.5332733
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276623"
+  },
+  {
+    "id": "care_hospital_26.2304_78.2238_gwalior",
+    "name": "Care Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.230448,
+      "lng": 78.22381
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276628"
+  },
+  {
+    "id": "pathak_hospital_25.9056_78.3296_gwalior",
+    "name": "Pathak Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.905622,
+      "lng": 78.329576
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276632"
+  },
+  {
+    "id": "jeevan_hospital_26.2187_78.2099_gwalior",
+    "name": "Jeevan Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2187416,
+      "lng": 78.209861
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276636"
+  },
+  {
+    "id": "ishan_hospital_26.2048_78.1629_gwalior",
+    "name": "Ishan Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2047529,
+      "lng": 78.1629366
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276640"
+  },
+  {
+    "id": "boston_hospital_26.197_78.199_gwalior",
+    "name": "Boston Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.197041,
+      "lng": 78.1990329
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276644"
+  },
+  {
+    "id": "multi_speciality_hospital_26.1918_78.1569_gwalior",
+    "name": "Multi Speciality Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1917527,
+      "lng": 78.1568529
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276648"
+  },
+  {
+    "id": "jain_hospital_25.7971_78.1144_gwalior",
+    "name": "Jain Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.7971112,
+      "lng": 78.1144327
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276652"
+  },
+  {
+    "id": "suvidha_hospital_26.1818_78.1727_gwalior",
+    "name": "Suvidha Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1818226,
+      "lng": 78.1726926
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276656"
+  },
+  {
+    "id": "sai_shraddha_hospital_26.2138_78.2026_gwalior",
+    "name": "Sai Shraddha Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2137795,
+      "lng": 78.2025536
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276659"
+  },
+  {
+    "id": "sanskar_hospital_26.2072_78.1781_gwalior",
+    "name": "Sanskar hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.207218,
+      "lng": 78.1781471
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276663"
+  },
+  {
+    "id": "mamta_hospital_26.2053_78.1491_gwalior",
+    "name": "Mamta Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.205283,
+      "lng": 78.1490643
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276667"
+  },
+  {
+    "id": "atishay_hospital_26.2042_78.1627_gwalior",
+    "name": "Atishay Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2041891,
+      "lng": 78.1626989
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276675"
+  },
+  {
+    "id": "eye_hospital_26.1941_78.1538_gwalior",
+    "name": "Eye Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.194115,
+      "lng": 78.153839
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276678"
+  },
+  {
+    "id": "modi_hospital_25.7991_78.1155_gwalior",
+    "name": "Modi Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.7990582,
+      "lng": 78.1154537
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276684"
+  },
+  {
+    "id": "ayurvedic_hospital_25.9718_78.3228_gwalior",
+    "name": "Ayurvedic Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.9718258,
+      "lng": 78.3227798
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276688"
+  },
+  {
+    "id": "madhavrao_district_hospital_26.2238_78.2237_gwalior",
+    "name": "Madhavrao District Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2238,
+      "lng": 78.223669
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276692"
+  },
+  {
+    "id": "kalyan_hospital_26.2174_78.2224_gwalior",
+    "name": "Kalyan Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2174372,
+      "lng": 78.222367
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276696"
+  },
+  {
+    "id": "om_hospital_26.2124_78.1565_gwalior",
+    "name": "om hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2123645,
+      "lng": 78.1565348
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276701"
+  },
+  {
+    "id": "emergency_care_hospital_26.1947_78.1509_gwalior",
+    "name": "Emergency Care Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1947054,
+      "lng": 78.1508997
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276705"
+  },
+  {
+    "id": "kailash_superspeciality_hospital_26.1905_78.1506_gwalior",
+    "name": "Kailash Superspeciality Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1905375,
+      "lng": 78.1505723
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276709"
+  },
+  {
+    "id": "max_care_hospital_26.1816_78.1727_gwalior",
+    "name": "Max Care Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1816246,
+      "lng": 78.1727461
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276713"
+  },
+  {
+    "id": "uco_bank_25.8858_78.3311_gwalior",
+    "name": "UCO Bank",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "finance",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.8858097,
+      "lng": 78.331068
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276717"
+  },
+  {
+    "id": "kurele_hospital_25.886_78.3353_gwalior",
+    "name": "Kurele Hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.8859786,
+      "lng": 78.3352917
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276721"
+  },
+  {
+    "id": "punjab_national_bank_25.8868_78.3345_gwalior",
+    "name": "Punjab National Bank",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "finance",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.8867855,
+      "lng": 78.3345321
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276725"
+  },
+  {
+    "id": "bank_of_india_25.887_78.3338_gwalior",
+    "name": "Bank of India",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "finance",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.886967,
+      "lng": 78.3337725
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276729"
+  },
+  {
+    "id": "indore_citizen_sakh_sahkarita_sanstha_25.8866_78.3348_gwalior",
+    "name": "Indore Citizen Sakh Sahkarita Sanstha",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "finance",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.8865715,
+      "lng": 78.3348169
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276733"
+  },
+  {
+    "id": "canara_bank_atm_25.8831_78.3333_gwalior",
+    "name": "CANARA BANK ATM",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "finance",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.8830793,
+      "lng": 78.333347
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276737"
+  },
+  {
+    "id": "bank_of_india_25.8861_78.3321_gwalior",
+    "name": "Bank of India",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "finance",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.8861024,
+      "lng": 78.3321454
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276743"
+  },
+  {
+    "id": "post_office_sarafa_bazaar_25.8861_78.332_gwalior",
+    "name": "Post Office Sarafa Bazaar",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "finance",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.8860908,
+      "lng": 78.3320424
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276747"
+  },
+  {
+    "id": "dr._anant_ketkar_25.8831_78.3311_gwalior",
+    "name": "DR. Anant Ketkar",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.883143,
+      "lng": 78.3311197
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276753"
+  },
+  {
+    "id": "l_m_n_s_bank_25.8832_78.3323_gwalior",
+    "name": "L M N S Bank",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "finance",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.8832279,
+      "lng": 78.3322934
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276759"
+  },
+  {
+    "id": "state_bank_atm_25.8827_78.331_gwalior",
+    "name": "State Bank ATM",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "finance",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.8827453,
+      "lng": 78.3309781
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276763"
+  },
+  {
+    "id": "sbi_bank_atm_25.8877_78.3376_gwalior",
+    "name": "SBI BANK ATM",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "finance",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.8876531,
+      "lng": 78.3376057
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276768"
+  },
+  {
+    "id": "state_bank_of_india_25.8876_78.334_gwalior",
+    "name": "State Bank of India",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "finance",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.8875836,
+      "lng": 78.3339739
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276773"
+  },
+  {
+    "id": "arihant_hospital_26.2112_78.1996_gwalior",
+    "name": "arihant hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2112121,
+      "lng": 78.19956
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276779"
+  },
+  {
+    "id": "city_hospital_26.2104_78.2038_gwalior",
+    "name": "city hospital",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2104448,
+      "lng": 78.203788
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276784"
+  },
+  {
+    "id": "apollo_hospitals_26.2108_78.2057_gwalior",
+    "name": "Apollo Hospitals",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.210793,
+      "lng": 78.2057116
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276789"
+  },
+  {
+    "id": "aakashvaani_bus_stop_26.214_78.1933_gwalior",
+    "name": "aakashvaani bus stop",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2139729,
+      "lng": 78.1932911
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276793"
+  },
+  {
+    "id": "sanjeevani_haspitaskl_26.2131_78.1924_gwalior",
+    "name": "sanjeevani haspitaskl",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "healthcare",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2131418,
+      "lng": 78.1923724
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276797"
+  },
+  {
+    "id": "new_bamour_gaon_26.3438_78.0916_gwalior",
+    "name": "New Bamour Gaon",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "transport",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.3438354,
+      "lng": 78.091625
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276801"
+  },
+  {
+    "id": "hdfc_bank_26.1941_78.1512_gwalior",
+    "name": "HDFC Bank",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "finance",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1940824,
+      "lng": 78.1512313
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276805"
+  },
+  {
+    "id": "the_silver_fitness_club_26.1941_78.1512_gwalior",
+    "name": "The Silver Fitness Club",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "fitness",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1940824,
+      "lng": 78.1512313
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276810"
+  },
+  {
+    "id": "hdfc_bank_26.1992_78.1643_gwalior",
+    "name": "HDFC Bank",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "finance",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.1991932,
+      "lng": 78.1643087
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276816"
+  },
+  {
+    "id": "bank_of_india_26.2026_78.1472_gwalior",
+    "name": "Bank of India",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "finance",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2025507,
+      "lng": 78.1472171
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276821"
+  },
+  {
+    "id": "uco_bank_26.2055_78.1442_gwalior",
+    "name": "UCO Bank",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "finance",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2054702,
+      "lng": 78.144221
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T18:41:05.276825"
+  }
+]

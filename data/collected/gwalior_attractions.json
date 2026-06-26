@@ -1,6 +1,6 @@
 [
   {
-    "id": "sasbahu_gwalior",
+    "id": "sasbahu_26.2236_78.1704_gwalior",
     "name": "Sasbahu",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -37,10 +37,10 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778682"
+    "created_at": "2026-06-24T19:36:24.786909"
   },
   {
-    "id": "thirtankars_gwalior",
+    "id": "thirtankars_26.2237_78.1659_gwalior",
     "name": "Thirtankars",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -77,10 +77,10 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778709"
+    "created_at": "2026-06-24T19:36:24.786941"
   },
   {
-    "id": "man-singh-palace_gwalior",
+    "id": "man-singh-palace_26.2303_78.1693_gwalior",
     "name": "Man-Singh-Palace",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -117,10 +117,10 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778720"
+    "created_at": "2026-06-24T19:36:24.786948"
   },
   {
-    "id": "teli-ka-mandir_gwalior",
+    "id": "teli-ka-mandir_26.2203_78.1657_gwalior",
     "name": "Teli-ka-Mandir",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -157,10 +157,10 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778728"
+    "created_at": "2026-06-24T19:36:24.786954"
   },
   {
-    "id": "thirtankars_gwalior",
+    "id": "thirtankars_26.224_78.1651_gwalior",
     "name": "Thirtankars",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -197,15 +197,15 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778735"
+    "created_at": "2026-06-24T19:36:24.786959"
   },
   {
-    "id": "statue_of_mahatma_gandhi_gwalior",
+    "id": "statue_of_mahatma_gandhi_26.2109_78.1699_gwalior",
     "name": "Statue of Mahatma Gandhi",
     "city": "Gwalior, India",
     "area": "city_center",
     "place_type": "artwork",
-    "category": "entertainment",
+    "category": "landmark",
     "significance": "local",
     "coordinates": {
       "lat": 26.2109459,
@@ -237,10 +237,50 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778744"
+    "created_at": "2026-06-24T19:36:24.786967"
   },
   {
-    "id": "gujari_mahal_(archaeological_museum)_gwalior",
+    "id": "phoolbagh_26.2112_78.1697_gwalior",
+    "name": "Phoolbagh",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "park",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2112178,
+      "lng": 78.1697042
+    },
+    "description": "Maharani LaxhmiBai Marg, Lashkar",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787418"
+  },
+  {
+    "id": "gujari_mahal_(archaeological_museum)_26.2341_78.1706_gwalior",
     "name": "Gujari Mahal (Archaeological Museum)",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -277,10 +317,170 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778752"
+    "created_at": "2026-06-24T19:36:24.787427"
   },
   {
-    "id": "gurudwara_data_bandi_chhor_sahib_gwalior",
+    "id": "govt_pg_college_26.5039_78.0022_gwalior",
+    "name": "Govt PG College",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.5039334,
+      "lng": 78.0021922
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787433"
+  },
+  {
+    "id": "rishi_galav_college_26.4923_77.978_gwalior",
+    "name": "Rishi Galav College",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.4923022,
+      "lng": 77.9780366
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787438"
+  },
+  {
+    "id": "vasudev_garden_26.4914_77.9861_gwalior",
+    "name": "Vasudev garden",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "garden",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.4914255,
+      "lng": 77.9860578
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787444"
+  },
+  {
+    "id": "bada_park_26.2384_78.1511_gwalior",
+    "name": "Bada Park",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "park",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.238368,
+      "lng": 78.1511078
+    },
+    "description": "Anand Nagar",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787449"
+  },
+  {
+    "id": "gurudwara_data_bandi_chhor_sahib_26.2204_78.1671_gwalior",
     "name": "Gurudwara Data Bandi Chhor Sahib",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -317,10 +517,10 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778760"
+    "created_at": "2026-06-24T19:36:24.787454"
   },
   {
-    "id": "cha_gwalior",
+    "id": "cha_26.2309_78.17_gwalior",
     "name": "Cha",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -357,10 +557,130 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778768"
+    "created_at": "2026-06-24T19:36:24.787458"
   },
   {
-    "id": "tomb_of_mohammed_ghaus_gwalior",
+    "id": "bimr_nursing_college_26.2338_78.2171_gwalior",
+    "name": "BIMR Nursing College",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.233811,
+      "lng": 78.2171493
+    },
+    "description": "Morar",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787463"
+  },
+  {
+    "id": "bimr_college_of_professional_studies_26.2331_78.2171_gwalior",
+    "name": "BIMR College of Professional Studies",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2331031,
+      "lng": 78.2171072
+    },
+    "description": "Morar",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787570"
+  },
+  {
+    "id": "mits_gwalior_26.2303_78.2072_gwalior",
+    "name": "MITS Gwalior",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2302669,
+      "lng": 78.2071718
+    },
+    "description": "Race course Road",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787575"
+  },
+  {
+    "id": "tomb_of_mohammed_ghaus_26.2318_78.1797_gwalior",
     "name": "Tomb of Mohammed Ghaus",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -397,10 +717,90 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778777"
+    "created_at": "2026-06-24T19:36:24.787580"
   },
   {
-    "id": "shree_katam_hanumanji_temple_gwalior",
+    "id": "national_children_higher_secondary_school_26.2288_78.2544_gwalior",
+    "name": "National Children Higher Secondary School",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2287683,
+      "lng": 78.2544136
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787585"
+  },
+  {
+    "id": "gandhi_park_25.8887_78.3347_gwalior",
+    "name": "Gandhi Park",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "park",
+    "significance": "local",
+    "coordinates": {
+      "lat": 25.8887454,
+      "lng": 78.3347129
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787590"
+  },
+  {
+    "id": "shree_katam_hanumanji_temple_25.8848_78.3278_gwalior",
     "name": "Shree Katam Hanumanji Temple",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -437,10 +837,10 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778785"
+    "created_at": "2026-06-24T19:36:24.787594"
   },
   {
-    "id": "shri_kamleshwar_temple_gwalior",
+    "id": "shri_kamleshwar_temple_25.886_78.3342_gwalior",
     "name": "Shri kamleshwar temple",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -477,10 +877,10 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778793"
+    "created_at": "2026-06-24T19:36:24.787599"
   },
   {
-    "id": "hh_maharaja_sir_jiwajirao_scindia_museum_gwalior",
+    "id": "hh_maharaja_sir_jiwajirao_scindia_museum_26.2052_78.1689_gwalior",
     "name": "HH Maharaja Sir Jiwajirao Scindia Museum",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -517,10 +917,10 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778801"
+    "created_at": "2026-06-24T19:36:24.787604"
   },
   {
-    "id": "maharaja_panjav_singh_palace_gwalior",
+    "id": "maharaja_panjav_singh_palace_26.0291_77.8993_gwalior",
     "name": "Maharaja Panjav Singh palace",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -557,10 +957,170 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778809"
+    "created_at": "2026-06-24T19:36:24.787609"
   },
   {
-    "id": "shri_ram_temple_gwalior",
+    "id": "rkvm_cbse_school_26.2111_78.2029_gwalior",
+    "name": "rkvm cbse school",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2111283,
+      "lng": 78.2028617
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787613"
+  },
+  {
+    "id": "children_play_park_26.2115_78.2017_gwalior",
+    "name": "children play park",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "park",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2115022,
+      "lng": 78.2016558
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787618"
+  },
+  {
+    "id": "ground_1_26.2115_78.2001_gwalior",
+    "name": "ground 1",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2115411,
+      "lng": 78.2001131
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787624"
+  },
+  {
+    "id": "super_mall_26.2115_78.2036_gwalior",
+    "name": "super mall",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "shopping",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2115027,
+      "lng": 78.2035926
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787630"
+  },
+  {
+    "id": "shri_ram_temple_26.2103_78.2001_gwalior",
     "name": "shri ram temple",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -597,10 +1157,50 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778816"
+    "created_at": "2026-06-24T19:36:24.787635"
   },
   {
-    "id": "buddha_vihar_gwalior",
+    "id": "kids_parks_26.2095_78.2037_gwalior",
+    "name": "kids parks",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "park",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2094932,
+      "lng": 78.2036975
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787639"
+  },
+  {
+    "id": "buddha_vihar_26.2092_78.2008_gwalior",
     "name": "buddha vihar",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -637,10 +1237,170 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778826"
+    "created_at": "2026-06-24T19:36:24.787644"
   },
   {
-    "id": "buddha_vihar_gwalior",
+    "id": "rkvm_basketball_ground_26.2124_78.2024_gwalior",
+    "name": "rkvm basketball ground",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2123886,
+      "lng": 78.202411
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787649"
+  },
+  {
+    "id": "hockey_ground_26.2115_78.2007_gwalior",
+    "name": "hockey ground",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2115042,
+      "lng": 78.2007241
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787654"
+  },
+  {
+    "id": "marriage_garden_26.2129_78.2003_gwalior",
+    "name": "marriage garden",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "garden",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.212922,
+      "lng": 78.2003278
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787659"
+  },
+  {
+    "id": "public_ground_26.2143_78.2038_gwalior",
+    "name": "public ground",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "park",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2143165,
+      "lng": 78.2037574
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787664"
+  },
+  {
+    "id": "buddha_vihar_26.212_78.2035_gwalior",
     "name": "buddha vihar",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -677,10 +1437,290 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778834"
+    "created_at": "2026-06-24T19:36:24.787670"
   },
   {
-    "id": "heritage_gwalior",
+    "id": "senior_citizen_cafe_26.2094_78.2063_gwalior",
+    "name": "senior citizen cafe",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "park",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2093516,
+      "lng": 78.2062756
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787675"
+  },
+  {
+    "id": "veerangna_jhalkaribai_koli_park_26.2139_78.191_gwalior",
+    "name": "veerangna jhalkaribai koli park",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "park",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2139059,
+      "lng": 78.1909919
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787680"
+  },
+  {
+    "id": "football_ground_26.2163_78.1914_gwalior",
+    "name": "football ground",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2162629,
+      "lng": 78.1913623
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787684"
+  },
+  {
+    "id": "prayer_ground_26.2154_78.1912_gwalior",
+    "name": "prayer ground",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2154175,
+      "lng": 78.1912249
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787689"
+  },
+  {
+    "id": "kendriya_vidyalaya_no_1_26.2152_78.1908_gwalior",
+    "name": "Kendriya Vidyalaya no 1",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2151546,
+      "lng": 78.1908104
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787694"
+  },
+  {
+    "id": "jai_anand_plaza_26.2136_78.1919_gwalior",
+    "name": "jai anand plaza",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "shopping",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2136179,
+      "lng": 78.1919025
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787699"
+  },
+  {
+    "id": "samarth_bal_mandir_higher_secondary_school_(c-_block)_26.2392_78.147_gwalior",
+    "name": "Samarth Bal Mandir Higher Secondary School (C- Block)",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2391928,
+      "lng": 78.1469858
+    },
+    "description": "Anand Nagar",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787704"
+  },
+  {
+    "id": "heritage_26.1953_78.1808_gwalior",
     "name": "Heritage",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -717,10 +1757,50 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778841"
+    "created_at": "2026-06-24T19:36:24.787709"
   },
   {
-    "id": "achleshwar_mandir_gwalior",
+    "id": "venus_public_school_26.2368_78.1504_gwalior",
+    "name": "Venus Public School",
+    "city": "Gwalior, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 26.2368289,
+      "lng": 78.1503807
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:36:24.787715"
+  },
+  {
+    "id": "achleshwar_mandir_26.1986_78.1648_gwalior",
     "name": "Achleshwar Mandir",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -757,10 +1837,10 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778851"
+    "created_at": "2026-06-24T19:36:24.787720"
   },
   {
-    "id": "karas_dev_very_old_mandir_gwalior",
+    "id": "karas_dev_very_old_mandir_26.0979_78.3202_gwalior",
     "name": "Karas Dev Very Old Mandir",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -797,10 +1877,10 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778860"
+    "created_at": "2026-06-24T19:36:24.787724"
   },
   {
-    "id": "shitla_mata_mandir_gwalior",
+    "id": "shitla_mata_mandir_26.1956_78.1438_gwalior",
     "name": "Shitla Mata Mandir",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -837,10 +1917,10 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778867"
+    "created_at": "2026-06-24T19:36:24.787729"
   },
   {
-    "id": "mote_ganesh_ji_gwalior",
+    "id": "mote_ganesh_ji_26.2001_78.1455_gwalior",
     "name": "Mote Ganesh Ji",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -877,10 +1957,10 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778875"
+    "created_at": "2026-06-24T19:36:24.787733"
   },
   {
-    "id": "indian_coffee_house_gwalior",
+    "id": "indian_coffee_house_26.2091_78.1715_gwalior",
     "name": "Indian Coffee House",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -917,10 +1997,10 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778883"
+    "created_at": "2026-06-24T19:36:24.787738"
   },
   {
-    "id": "shri_laxmi_narayan_mandir_gwalior",
+    "id": "shri_laxmi_narayan_mandir_26.2051_78.1465_gwalior",
     "name": "Shri Laxmi Narayan Mandir",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -957,6 +2037,6 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-07T21:44:41.778890"
+    "created_at": "2026-06-24T19:36:24.787743"
   }
 ]

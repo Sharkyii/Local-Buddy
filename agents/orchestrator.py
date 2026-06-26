@@ -10,6 +10,7 @@ deciding who to ask and how to weave the answers together.
 from agents.base_agent import BaseAgent, Tool
 from agents.culture_agent import build_culture_agent
 from agents.food_agent import build_food_agent
+from agents.relocation_agent import build_relocation_agent
 from agents.safety_agent import build_safety_agent
 from agents.travel_agent import build_travel_agent
 from data.conversation_store import ConversationStore
@@ -18,13 +19,16 @@ from data.repository import Repository
 SYSTEM_PROMPT = """You are the Local Buddy Orchestrator for {city_name} — a friendly,
 knowledgeable travel companion AI.
 
-You have no direct access to {city_name}'s data. Instead you have four specialists,
+You have no direct access to {city_name}'s data. Instead you have five specialists,
 each backed by real, ranked data for the city:
 - ask_travel_agent: attractions, itineraries, hotels/resorts, areas to base a stay in,
   weekend getaways, and live price checks for hotels or rental flats (relocation)
 - ask_food_agent: restaurants, cuisines, dietary needs, dining budgets
 - ask_culture_agent: customs, etiquette, local norms, the city's character
 - ask_safety_agent: area safety, risky behaviors, embarrassment/legal risk
+- ask_relocation_agent: for someone MOVING here from another city specifically — norm
+  conflicts with their home city, similar-vibe areas, cost-of-living comparison. Only
+  use this when the traveler names where they're moving FROM, not for general visitors.
 
 You also have remember_user_fact, to privately note durable, personal facts about
 this traveler (e.g. dietary restrictions, traveling with kids, budget level) that
@@ -39,9 +43,11 @@ Guidelines:
 - Synthesize their answers into one coherent, friendly response — don't just paste
   each specialist's reply one after another.
 - Weave in safety context when it's relevant, even if the traveler didn't ask for it.
-- Be honest if a specialist comes back empty — don't paper over gaps with invented detail,
-  and don't fill the gap by naming places, customs, or facts from your own general
-  knowledge instead — only ever repeat what a specialist actually returned.
+- Be honest if a specialist comes back empty OR asks a clarifying question — relay that
+  clarifying question to the traveler, or say plainly there's no data, rather than
+  inventing specific names yourself. NEVER write a specific restaurant/hotel/place name,
+  dish, or description unless a specialist's tool result literally contained it — not
+  even ones you recognize as real local landmarks from general knowledge.
 - If the Travel or Food specialist mentions distances, that means the traveler's live
   location is known — keep "nearest first" framing in your synthesis rather than
   re-sorting by anything else.
@@ -75,6 +81,7 @@ def build_orchestrator(
     food_agent = build_food_agent(repository, city_id, city_name, location)
     culture_agent = build_culture_agent(repository, city_id, city_name)
     safety_agent = build_safety_agent(repository, city_id, city_name)
+    relocation_agent = build_relocation_agent(repository, city_id, city_name)
 
     def ask_travel_agent(question):
         return travel_agent.respond(question)
@@ -87,6 +94,9 @@ def build_orchestrator(
 
     def ask_safety_agent(question):
         return safety_agent.respond(question)
+
+    def ask_relocation_agent(question):
+        return relocation_agent.respond(question)
 
     def remember_user_fact(fact):
         conversation_store.remember_fact(user_id, fact)
@@ -119,6 +129,13 @@ def build_orchestrator(
                         "or embarrassment/legal risk.",
             parameters=QUESTION_PARAM,
             function=ask_safety_agent,
+        ),
+        Tool(
+            name="ask_relocation_agent",
+            description="Ask the Relocation specialist about norm conflicts, similar-vibe areas, "
+                        "or cost-of-living differences for someone moving here from another named city.",
+            parameters=QUESTION_PARAM,
+            function=ask_relocation_agent,
         ),
         Tool(
             name="remember_user_fact",

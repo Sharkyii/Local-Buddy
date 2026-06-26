@@ -92,7 +92,9 @@ class OpenStreetMapCollector:
             '  node["leisure"~"park|garden|nature_reserve|swimming_pool|water_park|amusement_arcade"]'
             "(around:{radius},{lat},{lng});\n"
             '  node["shop"="mall"](around:{radius},{lat},{lng});\n'
-            '  node["amenity"~"cinema|theatre|nightclub"](around:{radius},{lat},{lng});'
+            '  node["amenity"~"cinema|theatre|nightclub"](around:{radius},{lat},{lng});\n'
+            '  node["amenity"~"school|college|university|kindergarten"]'
+            "(around:{radius},{lat},{lng});"
         )
         elements = self._overpass_query(center["lat"], center["lng"], filters, search_radius)
 
@@ -310,6 +312,8 @@ class OpenStreetMapCollector:
             return PlaceCategory.FINANCE
         if amenity == "bus_station" or highway == "bus_stop" or railway in ("station", "halt"):
             return PlaceCategory.TRANSPORT
+        if amenity in ("school", "college", "university", "kindergarten"):
+            return PlaceCategory.EDUCATIONAL
         if leisure == "fitness_centre":
             return PlaceCategory.FITNESS
         if "museum" in tourism:

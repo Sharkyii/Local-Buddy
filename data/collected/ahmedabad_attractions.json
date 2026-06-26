@@ -37,7 +37,87 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222196"
+    "created_at": "2026-06-24T19:32:30.824003"
+  },
+  {
+    "id": "st._xavier's_high_school,_loyola_hall_23.0479_72.5491_ahmedabad",
+    "name": "St. Xavier's High School, Loyola Hall",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.047875,
+      "lng": 72.5490839
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824034"
+  },
+  {
+    "id": "mt._carmel_school_23.0351_72.5681_ahmedabad",
+    "name": "Mt. Carmel School",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0351192,
+      "lng": 72.568061
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824042"
   },
   {
     "id": "thol_bird_sanctuary_23.1317_72.3807_ahmedabad",
@@ -77,7 +157,127 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222218"
+    "created_at": "2026-06-24T19:32:30.824052"
+  },
+  {
+    "id": "navrang_school_23.0484_72.5564_ahmedabad",
+    "name": "Navrang School",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0483604,
+      "lng": 72.556364
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824058"
+  },
+  {
+    "id": "dps_-_delhi_public_school,_bopal_23.042_72.4575_ahmedabad",
+    "name": "DPS - Delhi Public School, Bopal",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0419569,
+      "lng": 72.4575053
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824064"
+  },
+  {
+    "id": "a._g._teachers_high_school_23.0404_72.5485_ahmedabad",
+    "name": "A. G. Teachers High School",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0403655,
+      "lng": 72.5484846
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824069"
   },
   {
     "id": "manav_mandir_23.0462_72.5397_ahmedabad",
@@ -117,7 +317,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222227"
+    "created_at": "2026-06-24T19:32:30.824075"
   },
   {
     "id": "karnvanath_mahadev,_shiv_temple_23.0471_72.5498_ahmedabad",
@@ -157,7 +357,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222233"
+    "created_at": "2026-06-24T19:32:30.824080"
   },
   {
     "id": "paramdham_temple_23.028_72.5206_ahmedabad",
@@ -197,7 +397,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222239"
+    "created_at": "2026-06-24T19:32:30.824085"
   },
   {
     "id": "gayatri_mandir_23.0617_72.5915_ahmedabad",
@@ -237,7 +437,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222247"
+    "created_at": "2026-06-24T19:32:30.824089"
   },
   {
     "id": "wide_angle_23.0246_72.5073_ahmedabad",
@@ -277,7 +477,127 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222252"
+    "created_at": "2026-06-24T19:32:30.824097"
+  },
+  {
+    "id": "st._xavier's_college_23.0329_72.5517_ahmedabad",
+    "name": "St. Xavier's College",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0329052,
+      "lng": 72.5517045
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824102"
+  },
+  {
+    "id": "slims_-_som_lalit_institute_of_management_studies_23.0337_72.5538_ahmedabad",
+    "name": "SLIMS - Som Lalit Institute of Management Studies",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0337029,
+      "lng": 72.5537987
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824107"
+  },
+  {
+    "id": "mount_carmel_school,_khanpur_23.0329_72.5766_ahmedabad",
+    "name": "Mount Carmel School, Khanpur",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0329288,
+      "lng": 72.5766297
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824111"
   },
   {
     "id": "jalaram_mandir_23.018_72.5618_ahmedabad",
@@ -317,7 +637,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222257"
+    "created_at": "2026-06-24T19:32:30.824116"
   },
   {
     "id": "sakar_2_23.023_72.5725_ahmedabad",
@@ -357,7 +677,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222262"
+    "created_at": "2026-06-24T19:32:30.824124"
   },
   {
     "id": "sakar_4_23.0235_72.5718_ahmedabad",
@@ -397,7 +717,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222267"
+    "created_at": "2026-06-24T19:32:30.824130"
   },
   {
     "id": "sanskar_kendra_23.0131_72.5694_ahmedabad",
@@ -437,7 +757,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222274"
+    "created_at": "2026-06-24T19:32:30.824240"
   },
   {
     "id": "bhimnath_mahadev,_shiv_temple_23.012_72.55_ahmedabad",
@@ -477,7 +797,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222279"
+    "created_at": "2026-06-24T19:32:30.824245"
   },
   {
     "id": "adlabs,_big_cinema_23.0466_72.531_ahmedabad",
@@ -517,7 +837,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222286"
+    "created_at": "2026-06-24T19:32:30.824250"
   },
   {
     "id": "raipur_gate_23.0174_72.5948_ahmedabad",
@@ -557,7 +877,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222291"
+    "created_at": "2026-06-24T19:32:30.824258"
   },
   {
     "id": "jagannath_mandir,_temple_23.0114_72.5811_ahmedabad",
@@ -597,7 +917,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222298"
+    "created_at": "2026-06-24T19:32:30.824263"
   },
   {
     "id": "narol_circle_22.9728_72.5884_ahmedabad",
@@ -637,7 +957,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222304"
+    "created_at": "2026-06-24T19:32:30.824268"
   },
   {
     "id": "laxmi_bakery_23.2314_72.6648_ahmedabad",
@@ -677,7 +997,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222308"
+    "created_at": "2026-06-24T19:32:30.824273"
   },
   {
     "id": "circuit_house_23.2207_72.6743_ahmedabad",
@@ -717,7 +1037,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222313"
+    "created_at": "2026-06-24T19:32:30.824279"
   },
   {
     "id": "sant_asharamji_ashram_23.0932_72.6024_ahmedabad",
@@ -757,7 +1077,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222407"
+    "created_at": "2026-06-24T19:32:30.824286"
   },
   {
     "id": "amphitheatre_23.0112_72.5708_ahmedabad",
@@ -797,7 +1117,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222412"
+    "created_at": "2026-06-24T19:32:30.824291"
   },
   {
     "id": "vechaar:_utensils_museum_22.9944_72.5357_ahmedabad",
@@ -837,7 +1157,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222448"
+    "created_at": "2026-06-24T19:32:30.824296"
   },
   {
     "id": "temple_23.0152_72.5667_ahmedabad",
@@ -877,7 +1197,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222453"
+    "created_at": "2026-06-24T19:32:30.824301"
   },
   {
     "id": "bird_feeder_23.0236_72.5908_ahmedabad",
@@ -917,7 +1237,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222458"
+    "created_at": "2026-06-24T19:32:30.824306"
   },
   {
     "id": "bird_feeder_23.0234_72.5916_ahmedabad",
@@ -957,7 +1277,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222463"
+    "created_at": "2026-06-24T19:32:30.824311"
   },
   {
     "id": "ashram-managers_guesthouse_23.0617_72.5794_ahmedabad",
@@ -997,7 +1317,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222467"
+    "created_at": "2026-06-24T19:32:30.824315"
   },
   {
     "id": "prathana_bhoomi_-_prayers_ground_23.06_72.5811_ahmedabad",
@@ -1037,7 +1357,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222474"
+    "created_at": "2026-06-24T19:32:30.824322"
   },
   {
     "id": "mahatma_gandhi_statue_23.0603_72.581_ahmedabad",
@@ -1077,7 +1397,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222479"
+    "created_at": "2026-06-24T19:32:30.824329"
   },
   {
     "id": "imam_manzil_-_khadi_weaving_and_gramodhyog_23.0616_72.5803_ahmedabad",
@@ -1117,7 +1437,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222484"
+    "created_at": "2026-06-24T19:32:30.824333"
   },
   {
     "id": "handmade_paper_shop_23.0636_72.5799_ahmedabad",
@@ -1157,7 +1477,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222488"
+    "created_at": "2026-06-24T19:32:30.824338"
   },
   {
     "id": "kochrab_satyagraha_ashram_23.0159_72.5668_ahmedabad",
@@ -1197,7 +1517,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222492"
+    "created_at": "2026-06-24T19:32:30.824345"
   },
   {
     "id": "city_gold_shyamal_23.0157_72.5301_ahmedabad",
@@ -1237,7 +1557,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222497"
+    "created_at": "2026-06-24T19:32:30.824350"
   },
   {
     "id": "manikarnikeshwar_mahadev_temple_22.9978_72.6074_ahmedabad",
@@ -1277,7 +1597,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222504"
+    "created_at": "2026-06-24T19:32:30.824355"
   },
   {
     "id": "panch_kua_dawaza_23.027_72.6002_ahmedabad",
@@ -1317,7 +1637,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222509"
+    "created_at": "2026-06-24T19:32:30.824359"
   },
   {
     "id": "kalupur_darwaza_23.0308_72.5979_ahmedabad",
@@ -1357,7 +1677,87 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222515"
+    "created_at": "2026-06-24T19:32:30.824367"
+  },
+  {
+    "id": "choudri_college_23.2123_72.6433_ahmedabad",
+    "name": "Choudri College",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.2122934,
+      "lng": 72.643273
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824371"
+  },
+  {
+    "id": "exhibition_&_spatial_design_23.0114_72.57_ahmedabad",
+    "name": "Exhibition & Spatial Design",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0113752,
+      "lng": 72.5699733
+    },
+    "description": "Paldi",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824376"
   },
   {
     "id": "kankaria_municipal_swimming_pool_23.0029_72.6004_ahmedabad",
@@ -1397,7 +1797,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222520"
+    "created_at": "2026-06-24T19:32:30.824382"
   },
   {
     "id": "logo_wall_23.0109_72.5692_ahmedabad",
@@ -1437,7 +1837,127 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222526"
+    "created_at": "2026-06-24T19:32:30.824386"
+  },
+  {
+    "id": "kendriya_vidyalaya_sac_23.0371_72.5337_ahmedabad",
+    "name": "Kendriya Vidyalaya SAC",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0370691,
+      "lng": 72.5337334
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824391"
+  },
+  {
+    "id": "basudiwala_public_high_school_22.6892_72.8667_ahmedabad",
+    "name": "Basudiwala Public High School",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 22.6891597,
+      "lng": 72.8667288
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824395"
+  },
+  {
+    "id": "st_mary's_high_school_22.6881_72.8608_ahmedabad",
+    "name": "St Mary's High School",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 22.6880565,
+      "lng": 72.8608335
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824399"
   },
   {
     "id": "changeswar_mahadev_22.6895_72.8645_ahmedabad",
@@ -1477,7 +1997,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222531"
+    "created_at": "2026-06-24T19:32:30.824404"
   },
   {
     "id": "santram_deri_22.6761_72.8674_ahmedabad",
@@ -1517,7 +2037,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222535"
+    "created_at": "2026-06-24T19:32:30.824410"
   },
   {
     "id": "mai_mandir_22.6894_72.858_ahmedabad",
@@ -1557,7 +2077,87 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222539"
+    "created_at": "2026-06-24T19:32:30.824416"
+  },
+  {
+    "id": "sahajanand_college_23.0258_72.5431_ahmedabad",
+    "name": "Sahajanand College",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0258294,
+      "lng": 72.5430971
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824420"
+  },
+  {
+    "id": "prabhudas_thakkar_college_23.0033_72.5669_ahmedabad",
+    "name": "Prabhudas Thakkar College",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0033486,
+      "lng": 72.5669236
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824427"
   },
   {
     "id": "ambe_mata_mandir_23.2452_72.6477_ahmedabad",
@@ -1597,7 +2197,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222543"
+    "created_at": "2026-06-24T19:32:30.824432"
   },
   {
     "id": "gopnath_mahadev_mandir_23.0688_72.5649_ahmedabad",
@@ -1637,7 +2237,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222549"
+    "created_at": "2026-06-24T19:32:30.824436"
   },
   {
     "id": "vrundavan_restaurant;akhbar_nagar_circle_23.0674_72.5646_ahmedabad",
@@ -1677,7 +2277,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222554"
+    "created_at": "2026-06-24T19:32:30.824441"
   },
   {
     "id": "shri_malguru_maharaj_vav_sankul_23.3141_72.334_ahmedabad",
@@ -1717,7 +2317,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222558"
+    "created_at": "2026-06-24T19:32:30.824446"
   },
   {
     "id": "verai_mataji_temple_23.3441_72.3553_ahmedabad",
@@ -1757,7 +2357,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222562"
+    "created_at": "2026-06-24T19:32:30.824450"
   },
   {
     "id": "pipaleshwar_mahadev_temple_23.3439_72.3538_ahmedabad",
@@ -1797,7 +2397,87 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222566"
+    "created_at": "2026-06-24T19:32:30.824455"
+  },
+  {
+    "id": "dr._nakadar_senior_secondary_school_23.3746_72.3942_ahmedabad",
+    "name": "Dr. Nakadar Senior Secondary School",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.3746194,
+      "lng": 72.3942045
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824459"
+  },
+  {
+    "id": "dr_nakadar_boys_hostel_23.3742_72.3929_ahmedabad",
+    "name": "Dr Nakadar Boys Hostel",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.3742074,
+      "lng": 72.3928578
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824463"
   },
   {
     "id": "patel_bhavan_23.2955_72.3297_ahmedabad",
@@ -1837,7 +2517,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222571"
+    "created_at": "2026-06-24T19:32:30.824471"
   },
   {
     "id": "satram_sopping_center_23.2977_72.3312_ahmedabad",
@@ -1877,7 +2557,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222575"
+    "created_at": "2026-06-24T19:32:30.824478"
   },
   {
     "id": "shree_ram_sopping_center_23.2936_72.3291_ahmedabad",
@@ -1917,7 +2597,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222581"
+    "created_at": "2026-06-24T19:32:30.824482"
   },
   {
     "id": "tejeshwar_mahadev_mandir_23.2946_72.335_ahmedabad",
@@ -1957,7 +2637,87 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222585"
+    "created_at": "2026-06-24T19:32:30.824487"
+  },
+  {
+    "id": "vrundavan_b.sc_college_23.4062_72.4001_ahmedabad",
+    "name": "Vrundavan B.sc College",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.4061728,
+      "lng": 72.4001428
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824493"
+  },
+  {
+    "id": "dr._nakadar_institute_of_knowledge_23.3758_72.3952_ahmedabad",
+    "name": "Dr. Nakadar Institute of Knowledge",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.3758449,
+      "lng": 72.3951881
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824500"
   },
   {
     "id": "dudhai_khodiyar_ma_23.2433_72.3218_ahmedabad",
@@ -1997,7 +2757,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222591"
+    "created_at": "2026-06-24T19:32:30.824506"
   },
   {
     "id": "punit_ashram_23.0024_72.6057_ahmedabad",
@@ -2037,7 +2797,47 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222595"
+    "created_at": "2026-06-24T19:32:30.824515"
+  },
+  {
+    "id": "amc_met_medical_college_22.9986_72.6047_ahmedabad",
+    "name": "AMC MET Medical College",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 22.9986434,
+      "lng": 72.6046567
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824521"
   },
   {
     "id": "deveshwar_mahadev_mandir_23.2622_72.2747_ahmedabad",
@@ -2077,7 +2877,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222599"
+    "created_at": "2026-06-24T19:32:30.824528"
   },
   {
     "id": "khodiyar_temple_23.2622_72.2744_ahmedabad",
@@ -2117,7 +2917,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222603"
+    "created_at": "2026-06-24T19:32:30.824534"
   },
   {
     "id": "ram_ji_mandir_23.262_72.274_ahmedabad",
@@ -2157,7 +2957,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222607"
+    "created_at": "2026-06-24T19:32:30.824541"
   },
   {
     "id": "rehoboth_christian_assembly_23.001_72.5369_ahmedabad",
@@ -2197,7 +2997,87 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222611"
+    "created_at": "2026-06-24T19:32:30.824546"
+  },
+  {
+    "id": "jivkorbhai_lallubhai_high_school_22.9988_72.6026_ahmedabad",
+    "name": "Jivkorbhai Lallubhai High School",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 22.9987803,
+      "lng": 72.6026493
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824551"
+  },
+  {
+    "id": "kk_shah_jarodwala_science_college_22.9987_72.603_ahmedabad",
+    "name": "KK Shah Jarodwala Science College",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 22.998722,
+      "lng": 72.6030289
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824557"
   },
   {
     "id": "guruma_samadhi_mandir_23.1252_72.6123_ahmedabad",
@@ -2237,7 +3117,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222616"
+    "created_at": "2026-06-24T19:32:30.824562"
   },
   {
     "id": "shree_swaminarayan_temple_gadi_sansthan_22.9955_72.6107_ahmedabad",
@@ -2277,7 +3157,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222621"
+    "created_at": "2026-06-24T19:32:30.824569"
   },
   {
     "id": "ambaji_mata_temple_22.9912_72.6084_ahmedabad",
@@ -2317,7 +3197,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222627"
+    "created_at": "2026-06-24T19:32:30.824573"
   },
   {
     "id": "uttamnagar_garden_(public_park)_22.9922_72.6068_ahmedabad",
@@ -2357,7 +3237,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222632"
+    "created_at": "2026-06-24T19:32:30.824579"
   },
   {
     "id": "baba_ramdev_pir_temple_22.992_72.6059_ahmedabad",
@@ -2397,7 +3277,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222636"
+    "created_at": "2026-06-24T19:32:30.824583"
   },
   {
     "id": "ram_krishna_temple_22.9917_72.6062_ahmedabad",
@@ -2437,7 +3317,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222640"
+    "created_at": "2026-06-24T19:32:30.824590"
   },
   {
     "id": "shiv_mandir_(temple_of_lord_shiva)_22.9915_72.6064_ahmedabad",
@@ -2477,7 +3357,47 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222649"
+    "created_at": "2026-06-24T19:32:30.824596"
+  },
+  {
+    "id": "navchetan_school_23.0152_72.5631_ahmedabad",
+    "name": "Navchetan School",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0152445,
+      "lng": 72.5630784
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824602"
   },
   {
     "id": "rajhans_cinemas_23.0664_72.5317_ahmedabad",
@@ -2517,7 +3437,47 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222655"
+    "created_at": "2026-06-24T19:32:30.824609"
+  },
+  {
+    "id": "karmachari_shiksan_tirth_23.0649_72.5416_ahmedabad",
+    "name": "Karmachari Shiksan Tirth",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.064931,
+      "lng": 72.5415796
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824614"
   },
   {
     "id": "panchdev_mahadev_mandir_23.0654_72.5424_ahmedabad",
@@ -2557,7 +3517,127 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222659"
+    "created_at": "2026-06-24T19:32:30.824618"
+  },
+  {
+    "id": "m_b_patel_gyanjyot_high_school_23.0703_72.5461_ahmedabad",
+    "name": "M B Patel Gyanjyot High School",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0702999,
+      "lng": 72.5460531
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824622"
+  },
+  {
+    "id": "gyanda_girls_high_school_23.0723_72.548_ahmedabad",
+    "name": "Gyanda Girls High School",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.072279,
+      "lng": 72.5479789
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824626"
+  },
+  {
+    "id": "nutan_vidya_vihar_23.0682_72.5429_ahmedabad",
+    "name": "Nutan Vidya Vihar",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0681554,
+      "lng": 72.5428774
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824631"
   },
   {
     "id": "khodiyar_temple,_new_ranip_23.0926_72.5665_ahmedabad",
@@ -2597,7 +3677,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222663"
+    "created_at": "2026-06-24T19:32:30.824635"
   },
   {
     "id": "r_world_23.1801_72.5655_ahmedabad",
@@ -2637,7 +3717,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222669"
+    "created_at": "2026-06-24T19:32:30.824639"
   },
   {
     "id": "dadabhagwan_trimandir_-_adalaj_23.1785_72.5721_ahmedabad",
@@ -2677,7 +3757,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222674"
+    "created_at": "2026-06-24T19:32:30.824644"
   },
   {
     "id": "dada_harir_vav_23.0407_72.6055_ahmedabad",
@@ -2717,7 +3797,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222678"
+    "created_at": "2026-06-24T19:32:30.824649"
   },
   {
     "id": "dai_halima_tomb_23.041_72.605_ahmedabad",
@@ -2757,7 +3837,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222683"
+    "created_at": "2026-06-24T19:32:30.824653"
   },
   {
     "id": "khamasa_parsi_agiyari_23.0213_72.5847_ahmedabad",
@@ -2797,7 +3877,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222688"
+    "created_at": "2026-06-24T19:32:30.824658"
   },
   {
     "id": "jain_temple_23.0333_72.56_ahmedabad",
@@ -2837,7 +3917,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222692"
+    "created_at": "2026-06-24T19:32:30.824664"
   },
   {
     "id": "sai_baba_temple_23.0804_72.6204_ahmedabad",
@@ -2877,7 +3957,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222696"
+    "created_at": "2026-06-24T19:32:30.824668"
   },
   {
     "id": "pvr,_acropolis_mall_23.0491_72.5161_ahmedabad",
@@ -2917,7 +3997,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222702"
+    "created_at": "2026-06-24T19:32:30.824674"
   },
   {
     "id": "dariyakhan_ghummaj_23.0527_72.5868_ahmedabad",
@@ -2957,7 +4037,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222706"
+    "created_at": "2026-06-24T19:32:30.824678"
   },
   {
     "id": "jain_temple_23.0397_72.5502_ahmedabad",
@@ -2997,7 +4077,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222710"
+    "created_at": "2026-06-24T19:32:30.824686"
   },
   {
     "id": "calico_textile_museum_23.0542_72.5925_ahmedabad",
@@ -3037,7 +4117,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222717"
+    "created_at": "2026-06-24T19:32:30.824713"
   },
   {
     "id": "prem_darwaza_23.035_72.5969_ahmedabad",
@@ -3077,7 +4157,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222722"
+    "created_at": "2026-06-24T19:32:30.824718"
   },
   {
     "id": "gayatri_mandir_23.2003_72.6432_ahmedabad",
@@ -3117,7 +4197,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222726"
+    "created_at": "2026-06-24T19:32:30.824725"
   },
   {
     "id": "auditorium_23.1864_72.6318_ahmedabad",
@@ -3157,7 +4237,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222733"
+    "created_at": "2026-06-24T19:32:30.824730"
   },
   {
     "id": "dharmeshawar_mahadev_temple_23.0785_72.5917_ahmedabad",
@@ -3197,7 +4277,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222742"
+    "created_at": "2026-06-24T19:32:30.824734"
   },
   {
     "id": "jain_derasar_23.0803_72.5923_ahmedabad",
@@ -3237,7 +4317,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222746"
+    "created_at": "2026-06-24T19:32:30.824739"
   },
   {
     "id": "ramji_mandir_23.0837_72.5895_ahmedabad",
@@ -3277,7 +4357,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222750"
+    "created_at": "2026-06-24T19:32:30.824745"
   },
   {
     "id": "vaishno_devi_mataji_mandir_23.079_72.5895_ahmedabad",
@@ -3317,7 +4397,87 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222756"
+    "created_at": "2026-06-24T19:32:30.824750"
+  },
+  {
+    "id": "amba_school_for_excellence_23.1889_72.5778_ahmedabad",
+    "name": "Amba School for Excellence",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.1889236,
+      "lng": 72.577756
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824754"
+  },
+  {
+    "id": "rc_technical_institute_23.083_72.5307_ahmedabad",
+    "name": "RC TECHNICAL INSTITUTE",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0830479,
+      "lng": 72.5307242
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824758"
   },
   {
     "id": "manegbaug_23.0115_72.5505_ahmedabad",
@@ -3357,7 +4517,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222760"
+    "created_at": "2026-06-24T19:32:30.824763"
   },
   {
     "id": "shree_bhagwati_angashi_foi_temple_23.3408_72.4458_ahmedabad",
@@ -3397,7 +4557,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222764"
+    "created_at": "2026-06-24T19:32:30.824771"
   },
   {
     "id": "the_khodiyar_temple_23.3477_72.4447_ahmedabad",
@@ -3437,7 +4597,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222768"
+    "created_at": "2026-06-24T19:32:30.824777"
   },
   {
     "id": "shri_hanumanji_temple_23.2327_72.4941_ahmedabad",
@@ -3477,7 +4637,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222772"
+    "created_at": "2026-06-24T19:32:30.824783"
   },
   {
     "id": "chamak_23.2993_72.4386_ahmedabad",
@@ -3517,7 +4677,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222776"
+    "created_at": "2026-06-24T19:32:30.824792"
   },
   {
     "id": "ongc_kalol_23.2159_72.5199_ahmedabad",
@@ -3557,7 +4717,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222782"
+    "created_at": "2026-06-24T19:32:30.824806"
   },
   {
     "id": "kasturi_nagar_iffco_23.1885_72.5563_ahmedabad",
@@ -3597,7 +4757,47 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222787"
+    "created_at": "2026-06-24T19:32:30.824813"
+  },
+  {
+    "id": "vrundavan_school_&collage_23.4062_72.3931_ahmedabad",
+    "name": "vrundavan school &collage",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.4061998,
+      "lng": 72.3931037
+    },
+    "description": "Ahmedabad Palanpur State Highway SH41",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824820"
   },
   {
     "id": "gururaj_navkar_jain_mandir_white_23.3048_72.4361_ahmedabad",
@@ -3637,7 +4837,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222791"
+    "created_at": "2026-06-24T19:32:30.824825"
   },
   {
     "id": "umiya_mataji_23.3732_72.4085_ahmedabad",
@@ -3677,7 +4877,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222795"
+    "created_at": "2026-06-24T19:32:30.824830"
   },
   {
     "id": "jain_derasar_23.3744_72.4082_ahmedabad",
@@ -3717,7 +4917,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222799"
+    "created_at": "2026-06-24T19:32:30.824834"
   },
   {
     "id": "suzuki_23.3178_72.4316_ahmedabad",
@@ -3757,7 +4957,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222803"
+    "created_at": "2026-06-24T19:32:30.824839"
   },
   {
     "id": "darul_ulm_saiyad_ali_sarkar_23.434_72.3949_ahmedabad",
@@ -3797,7 +4997,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222809"
+    "created_at": "2026-06-24T19:32:30.824843"
   },
   {
     "id": "parsuram_ashram_23.354_72.4162_ahmedabad",
@@ -3837,7 +5037,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222813"
+    "created_at": "2026-06-24T19:32:30.824847"
   },
   {
     "id": "tower__kalol_23.2453_72.4978_ahmedabad",
@@ -3877,7 +5077,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222817"
+    "created_at": "2026-06-24T19:32:30.824854"
   },
   {
     "id": "shree_satay_narayan_mandir_23.2445_72.4981_ahmedabad",
@@ -3917,7 +5117,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222822"
+    "created_at": "2026-06-24T19:32:30.824859"
   },
   {
     "id": "jogni_mataji_mandir_23.2504_72.4858_ahmedabad",
@@ -3957,7 +5157,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222826"
+    "created_at": "2026-06-24T19:32:30.824863"
   },
   {
     "id": "gaytri_sakti_pith_-kalol_23.2473_72.4856_ahmedabad",
@@ -3997,7 +5197,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222833"
+    "created_at": "2026-06-24T19:32:30.824870"
   },
   {
     "id": "swaminarayan__23.0055_72.5523_ahmedabad",
@@ -4037,7 +5237,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222837"
+    "created_at": "2026-06-24T19:32:30.824875"
   },
   {
     "id": "swaminarayan_temple_bavla_22.8343_72.3661_ahmedabad",
@@ -4077,7 +5277,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222841"
+    "created_at": "2026-06-24T19:32:30.824879"
   },
   {
     "id": "mihir_engineering_23.2806_72.4085_ahmedabad",
@@ -4117,7 +5317,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222845"
+    "created_at": "2026-06-24T19:32:30.824884"
   },
   {
     "id": "ambe_mataa_mandir_23.0594_72.5365_ahmedabad",
@@ -4157,7 +5357,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222849"
+    "created_at": "2026-06-24T19:32:30.824892"
   },
   {
     "id": "khodiyar_temple_22.6979_72.8551_ahmedabad",
@@ -4197,7 +5397,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222855"
+    "created_at": "2026-06-24T19:32:30.824901"
   },
   {
     "id": "ramdev_pir_temple_22.6899_72.8456_ahmedabad",
@@ -4237,7 +5437,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222859"
+    "created_at": "2026-06-24T19:32:30.824909"
   },
   {
     "id": "gurudwara_22.7026_72.8428_ahmedabad",
@@ -4277,7 +5477,87 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222863"
+    "created_at": "2026-06-24T19:32:30.824913"
+  },
+  {
+    "id": "saint_anne's_highschool_22.7042_72.8593_ahmedabad",
+    "name": "Saint Anne's HighSchool",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 22.7041638,
+      "lng": 72.8592698
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824917"
+  },
+  {
+    "id": "sharda_mandir_22.6858_72.8548_ahmedabad",
+    "name": "Sharda Mandir",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 22.6858361,
+      "lng": 72.8547666
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824922"
   },
   {
     "id": "divine_child_circle_23.1221_72.5826_ahmedabad",
@@ -4317,7 +5597,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222867"
+    "created_at": "2026-06-24T19:32:30.824927"
   },
   {
     "id": "jamalpur_darwaja_23.0124_72.5815_ahmedabad",
@@ -4357,7 +5637,47 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222871"
+    "created_at": "2026-06-24T19:32:30.824935"
+  },
+  {
+    "id": "f_d_high_school_for_girls,_jamalpur_23.012_72.5832_ahmedabad",
+    "name": "F D High School for Girls, Jamalpur",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0119864,
+      "lng": 72.5831726
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824941"
   },
   {
     "id": "sola_23.0575_72.5435_ahmedabad",
@@ -4397,7 +5717,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222876"
+    "created_at": "2026-06-24T19:32:30.824945"
   },
   {
     "id": "samarpan_paltry_plots_23.028_72.5139_ahmedabad",
@@ -4437,7 +5757,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222882"
+    "created_at": "2026-06-24T19:32:30.824950"
   },
   {
     "id": "koteshwar_mahadev_temple_/_mandir_23.0946_72.612_ahmedabad",
@@ -4477,7 +5797,87 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222888"
+    "created_at": "2026-06-24T19:32:30.824954"
+  },
+  {
+    "id": "sn_collage_23.0284_72.5149_ahmedabad",
+    "name": "SN Collage",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0283544,
+      "lng": 72.5148851
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824960"
+  },
+  {
+    "id": "sn_school_23.0282_72.5149_ahmedabad",
+    "name": "SN School",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0281673,
+      "lng": 72.514922
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824966"
   },
   {
     "id": "gurukul_23.0457_72.5268_ahmedabad",
@@ -4517,7 +5917,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222892"
+    "created_at": "2026-06-24T19:32:30.824973"
   },
   {
     "id": "zoolta_minara_23.028_72.601_ahmedabad",
@@ -4557,7 +5957,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222896"
+    "created_at": "2026-06-24T19:32:30.824977"
   },
   {
     "id": "muni_bapu_ashram_23.0148_72.383_ahmedabad",
@@ -4597,7 +5997,47 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222900"
+    "created_at": "2026-06-24T19:32:30.824983"
+  },
+  {
+    "id": "gujrat_vidhyapeeth_23.0442_72.5693_ahmedabad",
+    "name": "Gujrat Vidhyapeeth",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0441852,
+      "lng": 72.5692947
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.824988"
   },
   {
     "id": "shah_e_alam_roza_22.9941_72.5896_ahmedabad",
@@ -4637,7 +6077,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222904"
+    "created_at": "2026-06-24T19:32:30.824993"
   },
   {
     "id": "bhadaj_23.0962_72.4657_ahmedabad",
@@ -4677,7 +6117,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222909"
+    "created_at": "2026-06-24T19:32:30.824999"
   },
   {
     "id": "jama_masjid_22.9934_72.5055_ahmedabad",
@@ -4717,7 +6157,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222914"
+    "created_at": "2026-06-24T19:32:30.825004"
   },
   {
     "id": "science_city_road_23.081_72.4983_ahmedabad",
@@ -4757,7 +6197,87 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222919"
+    "created_at": "2026-06-24T19:32:30.825009"
+  },
+  {
+    "id": "government_dental_college_,ahemedabad_23.0497_72.6043_ahmedabad",
+    "name": "Government Dental College ,Ahemedabad",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0497247,
+      "lng": 72.6043173
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825013"
+  },
+  {
+    "id": "bj_medical_college_,haripura_-asarwa_23.0524_72.6028_ahmedabad",
+    "name": "BJ Medical College ,Haripura -Asarwa",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0524472,
+      "lng": 72.6027712
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825017"
   },
   {
     "id": "sai_baba_23.0888_72.65_ahmedabad",
@@ -4797,7 +6317,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222923"
+    "created_at": "2026-06-24T19:32:30.825022"
   },
   {
     "id": "sant_nirankari_ashram_23.0869_72.648_ahmedabad",
@@ -4837,7 +6357,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222946"
+    "created_at": "2026-06-24T19:32:30.825026"
   },
   {
     "id": "picnic_party_plot_23.0855_72.649_ahmedabad",
@@ -4877,7 +6397,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222950"
+    "created_at": "2026-06-24T19:32:30.825031"
   },
   {
     "id": "maya_cinema_-closed_23.0811_72.6415_ahmedabad",
@@ -4917,7 +6437,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222954"
+    "created_at": "2026-06-24T19:32:30.825035"
   },
   {
     "id": "changodar_22.9402_72.4567_ahmedabad",
@@ -4957,7 +6477,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222959"
+    "created_at": "2026-06-24T19:32:30.825042"
   },
   {
     "id": "lambha_mandir_22.9413_72.5798_ahmedabad",
@@ -4997,7 +6517,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222962"
+    "created_at": "2026-06-24T19:32:30.825046"
   },
   {
     "id": "bhadra_kali_temple_23.024_72.5815_ahmedabad",
@@ -5037,7 +6557,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222966"
+    "created_at": "2026-06-24T19:32:30.825051"
   },
   {
     "id": "gravity_mall_22.677_72.8816_ahmedabad",
@@ -5077,7 +6597,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222972"
+    "created_at": "2026-06-24T19:32:30.825055"
   },
   {
     "id": "kokran_temple_22.6746_72.883_ahmedabad",
@@ -5117,7 +6637,47 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222976"
+    "created_at": "2026-06-24T19:32:30.825062"
+  },
+  {
+    "id": "ddu_22.6794_72.8814_ahmedabad",
+    "name": "DDU",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 22.6793716,
+      "lng": 72.8813802
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825066"
   },
   {
     "id": "goverdhandas_tripathi_museum_22.6885_72.8681_ahmedabad",
@@ -5157,7 +6717,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222980"
+    "created_at": "2026-06-24T19:32:30.825071"
   },
   {
     "id": "vaishali_cinema_22.688_72.8599_ahmedabad",
@@ -5197,7 +6757,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222984"
+    "created_at": "2026-06-24T19:32:30.825077"
   },
   {
     "id": "saibaba_temple_22.6962_72.8787_ahmedabad",
@@ -5237,7 +6797,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222988"
+    "created_at": "2026-06-24T19:32:30.825083"
   },
   {
     "id": "viraat_multiplex_22.6916_72.8636_ahmedabad",
@@ -5277,7 +6837,47 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222992"
+    "created_at": "2026-06-24T19:32:30.825088"
+  },
+  {
+    "id": "kalambandhi_vidyalaya_22.7939_72.577_ahmedabad",
+    "name": "Kalambandhi vidyalaya",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 22.793908,
+      "lng": 72.576997
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825092"
   },
   {
     "id": "eben_ezer_church._navagam_22.7923_72.5765_ahmedabad",
@@ -5317,7 +6917,47 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.222996"
+    "created_at": "2026-06-24T19:32:30.825096"
+  },
+  {
+    "id": "gcs_medical_college_23.0384_72.6111_ahmedabad",
+    "name": "GCS Medical college",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.038409,
+      "lng": 72.611136
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825100"
   },
   {
     "id": "chandlodiya_temple_23.0839_72.5531_ahmedabad",
@@ -5357,7 +6997,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223003"
+    "created_at": "2026-06-24T19:32:30.825105"
   },
   {
     "id": "temple_23.097_72.4703_ahmedabad",
@@ -5397,7 +7037,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223007"
+    "created_at": "2026-06-24T19:32:30.825110"
   },
   {
     "id": "radha_madhav_temple_bhadaj_23.0984_72.4699_ahmedabad",
@@ -5437,7 +7077,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223011"
+    "created_at": "2026-06-24T19:32:30.825114"
   },
   {
     "id": "chandlodiya_water_tank_23.0847_72.5513_ahmedabad",
@@ -5477,7 +7117,47 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223016"
+    "created_at": "2026-06-24T19:32:30.825120"
+  },
+  {
+    "id": "satva_vikas_school_23.0416_72.4959_ahmedabad",
+    "name": "Satva Vikas School",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0415757,
+      "lng": 72.4959141
+    },
+    "description": "Sindhu Bhawan Road",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825124"
   },
   {
     "id": "mahadev_temple_22.9854_72.6321_ahmedabad",
@@ -5517,7 +7197,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223021"
+    "created_at": "2026-06-24T19:32:30.825129"
   },
   {
     "id": "chamunda_mata_temple_22.9862_72.631_ahmedabad",
@@ -5557,7 +7237,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223026"
+    "created_at": "2026-06-24T19:32:30.825133"
   },
   {
     "id": "saibaba_temple_22.9866_72.6301_ahmedabad",
@@ -5597,7 +7277,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223030"
+    "created_at": "2026-06-24T19:32:30.825139"
   },
   {
     "id": "butterfly_park_23.0042_72.5985_ahmedabad",
@@ -5637,7 +7317,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223034"
+    "created_at": "2026-06-24T19:32:30.825144"
   },
   {
     "id": "mahadev_temple_22.9831_72.6248_ahmedabad",
@@ -5677,7 +7357,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223038"
+    "created_at": "2026-06-24T19:32:30.825148"
   },
   {
     "id": "temple_22.9849_72.6296_ahmedabad",
@@ -5717,7 +7397,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223046"
+    "created_at": "2026-06-24T19:32:30.825152"
   },
   {
     "id": "ashapura_industrial_estate_22.9687_72.6514_ahmedabad",
@@ -5757,7 +7437,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223050"
+    "created_at": "2026-06-24T19:32:30.825162"
   },
   {
     "id": "shree_hari_fiber_product_p_ltd_23.0289_72.6821_ahmedabad",
@@ -5797,7 +7477,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223055"
+    "created_at": "2026-06-24T19:32:30.825167"
   },
   {
     "id": "mottotech_industries_22.9687_72.6513_ahmedabad",
@@ -5837,7 +7517,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223059"
+    "created_at": "2026-06-24T19:32:30.825173"
   },
   {
     "id": "swastic_center_22.9719_72.5886_ahmedabad",
@@ -5877,7 +7557,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223063"
+    "created_at": "2026-06-24T19:32:30.825178"
   },
   {
     "id": "anupam_estate_23.0156_72.6352_ahmedabad",
@@ -5917,7 +7597,47 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223067"
+    "created_at": "2026-06-24T19:32:30.825205"
+  },
+  {
+    "id": "vivekanand_vidyalaya_23.0095_72.6363_ahmedabad",
+    "name": "VIVEKANAND VIDYALAYA",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0094986,
+      "lng": 72.6362813
+    },
+    "description": "Rabari colony road",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825209"
   },
   {
     "id": "shree_swaminarayan_vishranti_bhuvan_(under_bhuj)_23.1097_72.63_ahmedabad",
@@ -5957,7 +7677,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223073"
+    "created_at": "2026-06-24T19:32:30.825214"
   },
   {
     "id": "shreenath_23.1579_72.8006_ahmedabad",
@@ -5997,7 +7717,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223079"
+    "created_at": "2026-06-24T19:32:30.825220"
   },
   {
     "id": "umiya_temple_23.1564_72.7999_ahmedabad",
@@ -6037,7 +7757,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223084"
+    "created_at": "2026-06-24T19:32:30.825225"
   },
   {
     "id": "khodiyar_temple_23.1662_72.8166_ahmedabad",
@@ -6077,7 +7797,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223090"
+    "created_at": "2026-06-24T19:32:30.825229"
   },
   {
     "id": "lalbhai_dalpatbhai_museum_23.0332_72.5499_ahmedabad",
@@ -6117,7 +7837,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223095"
+    "created_at": "2026-06-24T19:32:30.825236"
   },
   {
     "id": "nc_mehta_gallery_23.0333_72.5499_ahmedabad",
@@ -6157,7 +7877,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223099"
+    "created_at": "2026-06-24T19:32:30.825243"
   },
   {
     "id": "sarveshwar_mahadev_temple_23.0749_72.5785_ahmedabad",
@@ -6197,7 +7917,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223103"
+    "created_at": "2026-06-24T19:32:30.825250"
   },
   {
     "id": "maneklal_smriti_hall_23.0747_72.5785_ahmedabad",
@@ -6237,7 +7957,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223107"
+    "created_at": "2026-06-24T19:32:30.825254"
   },
   {
     "id": "khodiyar_temple_23.0766_72.5777_ahmedabad",
@@ -6277,7 +7997,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223111"
+    "created_at": "2026-06-24T19:32:30.825259"
   },
   {
     "id": "pvr_cinemas_23.0685_72.576_ahmedabad",
@@ -6317,7 +8037,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223115"
+    "created_at": "2026-06-24T19:32:30.825263"
   },
   {
     "id": "mini_kankriya_23.0759_72.6578_ahmedabad",
@@ -6357,7 +8077,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223121"
+    "created_at": "2026-06-24T19:32:30.825268"
   },
   {
     "id": "bhamaria_well_22.8118_72.7491_ahmedabad",
@@ -6397,7 +8117,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223125"
+    "created_at": "2026-06-24T19:32:30.825290"
   },
   {
     "id": "vithalbhai_haveli_22.6607_72.7554_ahmedabad",
@@ -6437,7 +8157,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223129"
+    "created_at": "2026-06-24T19:32:30.825297"
   },
   {
     "id": "tomb_of_saif-ud-din_&_nizam-ud-din_22.8417_72.7721_ahmedabad",
@@ -6477,7 +8197,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223133"
+    "created_at": "2026-06-24T19:32:30.825305"
   },
   {
     "id": "roja_rozi_dargah_sharif_22.8426_72.7734_ahmedabad",
@@ -6517,7 +8237,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223137"
+    "created_at": "2026-06-24T19:32:30.825310"
   },
   {
     "id": "amritavarshini_vav_23.0247_72.5971_ahmedabad",
@@ -6557,7 +8277,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223142"
+    "created_at": "2026-06-24T19:32:30.825317"
   },
   {
     "id": "jethabhai's_stepwell_22.9745_72.6034_ahmedabad",
@@ -6597,7 +8317,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223146"
+    "created_at": "2026-06-24T19:32:30.825322"
   },
   {
     "id": "talavadi_circle_23.0816_72.6164_ahmedabad",
@@ -6637,7 +8357,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223150"
+    "created_at": "2026-06-24T19:32:30.825328"
   },
   {
     "id": "om_shanti_23.0873_72.6192_ahmedabad",
@@ -6677,7 +8397,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223155"
+    "created_at": "2026-06-24T19:32:30.825334"
   },
   {
     "id": "event_ground_23.0161_72.5733_ahmedabad",
@@ -6717,7 +8437,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223164"
+    "created_at": "2026-06-24T19:32:30.825338"
   },
   {
     "id": "kalpyan_pushti_haveli_23.0384_72.5307_ahmedabad",
@@ -6757,7 +8477,287 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223168"
+    "created_at": "2026-06-24T19:32:30.825346"
+  },
+  {
+    "id": "nim_auditorium_23.1288_72.5464_ahmedabad",
+    "name": "NIM Auditorium",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "landmark",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.1287897,
+      "lng": 72.5463512
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825351"
+  },
+  {
+    "id": "manipur_government_school_23.0333_72.4294_ahmedabad",
+    "name": "Manipur Government School",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0332883,
+      "lng": 72.429408
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825358"
+  },
+  {
+    "id": "anant_national_university_23.0308_72.4272_ahmedabad",
+    "name": "Anant National University",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0308404,
+      "lng": 72.4271753
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825362"
+  },
+  {
+    "id": "amrita_vidyalayam_23.0676_72.5371_ahmedabad",
+    "name": "Amrita Vidyalayam",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0675829,
+      "lng": 72.5371239
+    },
+    "description": "Janta Nagar Road",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825366"
+  },
+  {
+    "id": "anant_national_university_gate_23.0308_72.4272_ahmedabad",
+    "name": "Anant National University Gate",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0308439,
+      "lng": 72.4271652
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825371"
+  },
+  {
+    "id": "sanskardham_primary_school_23.0307_72.4274_ahmedabad",
+    "name": "Sanskardham Primary School",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0306687,
+      "lng": 72.4274117
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825376"
+  },
+  {
+    "id": "anant_national_university_college_building_23.0276_72.426_ahmedabad",
+    "name": "Anant National University College Building",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.027625,
+      "lng": 72.4259889
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825381"
   },
   {
     "id": "charbhuja_mandir_23.006_72.7511_ahmedabad",
@@ -6797,7 +8797,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223172"
+    "created_at": "2026-06-24T19:32:30.825385"
   },
   {
     "id": "sobo_centre_23.0174_72.4752_ahmedabad",
@@ -6837,7 +8837,47 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223176"
+    "created_at": "2026-06-24T19:32:30.825392"
+  },
+  {
+    "id": "iit_gandhinagar_23.2128_72.6848_ahmedabad",
+    "name": "IIT Gandhinagar",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.2127589,
+      "lng": 72.6847766
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825397"
   },
   {
     "id": "villa_shodhan_23.0249_72.5674_ahmedabad",
@@ -6877,7 +8917,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223181"
+    "created_at": "2026-06-24T19:32:30.825401"
   },
   {
     "id": "arvind_aircon_ltd_22.9643_72.6507_ahmedabad",
@@ -6917,7 +8957,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223185"
+    "created_at": "2026-06-24T19:32:30.825406"
   },
   {
     "id": "giant_fish_statues_23.0312_72.5056_ahmedabad",
@@ -6957,7 +8997,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223189"
+    "created_at": "2026-06-24T19:32:30.825413"
   },
   {
     "id": "giant_mushrooms_installation_23.0314_72.5057_ahmedabad",
@@ -6997,7 +9037,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223195"
+    "created_at": "2026-06-24T19:32:30.825421"
   },
   {
     "id": "mini_treehouse_23.0317_72.5068_ahmedabad",
@@ -7037,7 +9077,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223199"
+    "created_at": "2026-06-24T19:32:30.825425"
   },
   {
     "id": "flower_power_23.0329_72.5057_ahmedabad",
@@ -7077,7 +9117,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223204"
+    "created_at": "2026-06-24T19:32:30.825430"
   },
   {
     "id": "bird_feeder_23.013_72.5065_ahmedabad",
@@ -7117,7 +9157,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223208"
+    "created_at": "2026-06-24T19:32:30.825437"
   },
   {
     "id": "funny_art_23.0128_72.5065_ahmedabad",
@@ -7157,7 +9197,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223212"
+    "created_at": "2026-06-24T19:32:30.825442"
   },
   {
     "id": "citizens_exchange_23.0127_72.5065_ahmedabad",
@@ -7197,7 +9237,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223216"
+    "created_at": "2026-06-24T19:32:30.825447"
   },
   {
     "id": "prerna_tirth_derasar_23.0214_72.5199_ahmedabad",
@@ -7237,7 +9277,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223220"
+    "created_at": "2026-06-24T19:32:30.825451"
   },
   {
     "id": "iti_astodia_kalol_23.253_72.5186_ahmedabad",
@@ -7277,7 +9317,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223224"
+    "created_at": "2026-06-24T19:32:30.825458"
   },
   {
     "id": "the_mill_owner's_building_of_le_corbusier_23.0326_72.571_ahmedabad",
@@ -7317,7 +9357,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223228"
+    "created_at": "2026-06-24T19:32:30.825464"
   },
   {
     "id": "josh_chemical_23.1007_72.6827_ahmedabad",
@@ -7357,7 +9397,47 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223234"
+    "created_at": "2026-06-24T19:32:30.825468"
+  },
+  {
+    "id": "ssit_(shree_swaminarayan_institute_of_technology)_23.115_72.6301_ahmedabad",
+    "name": "SSIT (shree Swaminarayan institute of technology)",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.1149923,
+      "lng": 72.6301367
+    },
+    "description": "Sardar Patel Ring Road Circle",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825472"
   },
   {
     "id": "nsic_23.0411_72.568_ahmedabad",
@@ -7397,7 +9477,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223240"
+    "created_at": "2026-06-24T19:32:30.825477"
   },
   {
     "id": "shrinath_estate_22.9668_72.5841_ahmedabad",
@@ -7437,7 +9517,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223247"
+    "created_at": "2026-06-24T19:32:30.825484"
   },
   {
     "id": "shree_verai_mataji_temple_23.1856_72.6166_ahmedabad",
@@ -7477,7 +9557,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223253"
+    "created_at": "2026-06-24T19:32:30.825489"
   },
   {
     "id": "shree_sargesvar_mahadev_temple_23.1856_72.6158_ahmedabad",
@@ -7517,7 +9597,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223257"
+    "created_at": "2026-06-24T19:32:30.825495"
   },
   {
     "id": "shree_mahakali_mataji_temple_23.1872_72.6158_ahmedabad",
@@ -7557,7 +9637,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223261"
+    "created_at": "2026-06-24T19:32:30.825500"
   },
   {
     "id": "sardar_vallabhbhai_patel_statue_23.2241_72.6476_ahmedabad",
@@ -7597,7 +9677,47 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223265"
+    "created_at": "2026-06-24T19:32:30.825505"
+  },
+  {
+    "id": "kameshwar_school_23.0282_72.5271_ahmedabad",
+    "name": "Kameshwar School",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0282166,
+      "lng": 72.5271318
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825509"
   },
   {
     "id": "vaishali_bopp_tape_22.8939_72.454_ahmedabad",
@@ -7637,7 +9757,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223271"
+    "created_at": "2026-06-24T19:32:30.825514"
   },
   {
     "id": "super_packers_bopp_tape_trades_23.0123_72.622_ahmedabad",
@@ -7677,7 +9797,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223275"
+    "created_at": "2026-06-24T19:32:30.825521"
   },
   {
     "id": "sardar_vallabhbhai_patel_statue_22.6942_72.8595_ahmedabad",
@@ -7717,7 +9837,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223280"
+    "created_at": "2026-06-24T19:32:30.825526"
   },
   {
     "id": "visa_hanuman_23.0229_72.5938_ahmedabad",
@@ -7757,7 +9877,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223284"
+    "created_at": "2026-06-24T19:32:30.825531"
   },
   {
     "id": "moinuddin_chisti_mosque_23.0602_72.5883_ahmedabad",
@@ -7797,7 +9917,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223288"
+    "created_at": "2026-06-24T19:32:30.825536"
   },
   {
     "id": "hatkeshwar_mandir_23.0233_72.5938_ahmedabad",
@@ -7837,7 +9957,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223292"
+    "created_at": "2026-06-24T19:32:30.825541"
   },
   {
     "id": "akha_bhagat_chowk_23.0225_72.5937_ahmedabad",
@@ -7877,7 +9997,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223296"
+    "created_at": "2026-06-24T19:32:30.825546"
   },
   {
     "id": "dwarkadhish_mandir_23.0208_72.5948_ahmedabad",
@@ -7917,7 +10037,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223300"
+    "created_at": "2026-06-24T19:32:30.825550"
   },
   {
     "id": "rameshwar_mandir_23.0209_72.5919_ahmedabad",
@@ -7957,7 +10077,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223304"
+    "created_at": "2026-06-24T19:32:30.825555"
   },
   {
     "id": "hansol_garden_23.0837_72.6227_ahmedabad",
@@ -7997,7 +10117,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223310"
+    "created_at": "2026-06-24T19:32:30.825559"
   },
   {
     "id": "riverfront_children's_park_23.0653_72.5961_ahmedabad",
@@ -8037,7 +10157,47 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223314"
+    "created_at": "2026-06-24T19:32:30.825567"
+  },
+  {
+    "id": "government_polytechnic_23.0266_72.5475_ahmedabad",
+    "name": "Government Polytechnic",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0265769,
+      "lng": 72.5475056
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825571"
   },
   {
     "id": "masjid_e_khatimul_ambiya_22.9796_72.5759_ahmedabad",
@@ -8077,7 +10237,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223320"
+    "created_at": "2026-06-24T19:32:30.825581"
   },
   {
     "id": "shahi_masjid_22.9977_72.5887_ahmedabad",
@@ -8117,7 +10277,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223324"
+    "created_at": "2026-06-24T19:32:30.825585"
   },
   {
     "id": "shahi_masjid_-_shah_e_alam_dargah_22.9944_72.5889_ahmedabad",
@@ -8157,7 +10317,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223328"
+    "created_at": "2026-06-24T19:32:30.825590"
   },
   {
     "id": "shahi_masjid_-_dargah_hazrat_ali_sher_bangali_23.0104_72.5652_ahmedabad",
@@ -8197,7 +10357,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223332"
+    "created_at": "2026-06-24T19:32:30.825595"
   },
   {
     "id": "hazrat_makhdum_shah_masjid_23.0139_72.5843_ahmedabad",
@@ -8237,7 +10397,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223338"
+    "created_at": "2026-06-24T19:32:30.825599"
   },
   {
     "id": "jambudi_masjid_23.0127_72.5844_ahmedabad",
@@ -8277,7 +10437,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223344"
+    "created_at": "2026-06-24T19:32:30.825606"
   },
   {
     "id": "masjid_e_bahare_shariat_22.9923_72.5766_ahmedabad",
@@ -8317,7 +10477,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223348"
+    "created_at": "2026-06-24T19:32:30.825610"
   },
   {
     "id": "karanj_bhag_23.0242_72.5823_ahmedabad",
@@ -8357,7 +10517,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223352"
+    "created_at": "2026-06-24T19:32:30.825615"
   },
   {
     "id": "iscon_emporio_23.0266_72.5245_ahmedabad",
@@ -8397,7 +10557,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223356"
+    "created_at": "2026-06-24T19:32:30.825620"
   },
   {
     "id": "4d_square_mall._23.103_72.5958_ahmedabad",
@@ -8437,7 +10597,127 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223360"
+    "created_at": "2026-06-24T19:32:30.825625"
+  },
+  {
+    "id": "alpha_college_of_engineering_23.1438_72.4407_ahmedabad",
+    "name": "Alpha College of Engineering",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.1437636,
+      "lng": 72.4406666
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825629"
+  },
+  {
+    "id": "central_university_of_gujarat_23.2452_72.662_ahmedabad",
+    "name": "Central University of Gujarat",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.2451809,
+      "lng": 72.6619837
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825636"
+  },
+  {
+    "id": "nalanda_school_23.0718_72.5393_ahmedabad",
+    "name": "Nalanda School",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0718114,
+      "lng": 72.539258
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825640"
   },
   {
     "id": "shree_muktajivan_swami_bapa_smruti_mandir_22.9732_72.6115_ahmedabad",
@@ -8477,7 +10757,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223365"
+    "created_at": "2026-06-24T19:32:30.825645"
   },
   {
     "id": "jyoti_fibre_glass_22.9962_72.6377_ahmedabad",
@@ -8517,7 +10797,87 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223369"
+    "created_at": "2026-06-24T19:32:30.825649"
+  },
+  {
+    "id": "amrut_mody_institute_of_management_23.0347_72.5372_ahmedabad",
+    "name": "Amrut Mody institute of Management",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0346573,
+      "lng": 72.5371832
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825654"
+  },
+  {
+    "id": "ld_college_of_arts_23.0347_72.538_ahmedabad",
+    "name": "LD College of Arts",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0346697,
+      "lng": 72.5380428
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825663"
   },
   {
     "id": "umiya_mata_nu_mandir_23.0543_72.4771_ahmedabad",
@@ -8557,7 +10917,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223373"
+    "created_at": "2026-06-24T19:32:30.825668"
   },
   {
     "id": "janki_poly_plast_22.9738_72.5986_ahmedabad",
@@ -8597,7 +10957,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223377"
+    "created_at": "2026-06-24T19:32:30.825675"
   },
   {
     "id": "y_junction_jn_23.2632_72.383_ahmedabad",
@@ -8637,7 +10997,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223383"
+    "created_at": "2026-06-24T19:32:30.825682"
   },
   {
     "id": "kadi_dam_23.2444_72.3383_ahmedabad",
@@ -8677,7 +11037,47 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223387"
+    "created_at": "2026-06-24T19:32:30.825687"
+  },
+  {
+    "id": "lion's_nagar_primary_school_23.2506_72.5106_ahmedabad",
+    "name": "Lion's Nagar Primary School",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "landmark",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.2506307,
+      "lng": 72.510623
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825694"
   },
   {
     "id": "mukta_a2_cinemas_23.0264_72.5098_ahmedabad",
@@ -8717,7 +11117,47 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223392"
+    "created_at": "2026-06-24T19:32:30.825699"
+  },
+  {
+    "id": "dharmsinh_desai_university_(ddu),_nadiad_22.6797_72.8802_ahmedabad",
+    "name": "Dharmsinh Desai University (DDU), Nadiad",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 22.6797254,
+      "lng": 72.880186
+    },
+    "description": "College Road, Nadiad",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825704"
   },
   {
     "id": "narsinh_mehta_statue_23.039_72.5289_ahmedabad",
@@ -8757,7 +11197,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223398"
+    "created_at": "2026-06-24T19:32:30.825709"
   },
   {
     "id": "vaghvat_waterfall_23.0288_72.9587_ahmedabad",
@@ -8797,7 +11237,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223402"
+    "created_at": "2026-06-24T19:32:30.825714"
   },
   {
     "id": "one_tree_hill_garden_23.0049_72.598_ahmedabad",
@@ -8837,7 +11277,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223421"
+    "created_at": "2026-06-24T19:32:30.825719"
   },
   {
     "id": "sindhwai_temple_22.9901_72.6356_ahmedabad",
@@ -8877,7 +11317,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223426"
+    "created_at": "2026-06-24T19:32:30.825724"
   },
   {
     "id": "suresh_rathod_house_22.9818_72.6123_ahmedabad",
@@ -8917,7 +11357,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223433"
+    "created_at": "2026-06-24T19:32:30.825731"
   },
   {
     "id": "partheswar_temple_22.9676_72.6075_ahmedabad",
@@ -8957,7 +11397,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223437"
+    "created_at": "2026-06-24T19:32:30.825737"
   },
   {
     "id": "reliance_mart_23.0447_72.588_ahmedabad",
@@ -8997,7 +11437,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223441"
+    "created_at": "2026-06-24T19:32:30.825743"
   },
   {
     "id": "park_23.0407_72.528_ahmedabad",
@@ -9037,7 +11477,87 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223445"
+    "created_at": "2026-06-24T19:32:30.825750"
+  },
+  {
+    "id": "divan_ballubhai_school_23.0123_72.5687_ahmedabad",
+    "name": "Divan Ballubhai School",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0122755,
+      "lng": 72.5686984
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825759"
+  },
+  {
+    "id": "the_old_little_flower_school_23.1027_72.5776_ahmedabad",
+    "name": "The OLD LITTLE FLOWER SCHOOL",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.1026901,
+      "lng": 72.5775928
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825772"
   },
   {
     "id": "shiv_mandir_23.1063_72.578_ahmedabad",
@@ -9077,7 +11597,87 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223450"
+    "created_at": "2026-06-24T19:32:30.825779"
+  },
+  {
+    "id": "kendriya_vidyala_sabarmati_23.1007_72.5815_ahmedabad",
+    "name": "Kendriya Vidyala Sabarmati",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.1006535,
+      "lng": 72.5815065
+    },
+    "description": "Railway Colony, Sabarmati",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825785"
+  },
+  {
+    "id": "the_new_little_flower_school_23.1043_72.5782_ahmedabad",
+    "name": "The NEW LITTLE FLOWER SCHOOL",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.1043189,
+      "lng": 72.5781828
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825791"
   },
   {
     "id": "devi_public_park_23.1082_72.5847_ahmedabad",
@@ -9117,7 +11717,87 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223456"
+    "created_at": "2026-06-24T19:32:30.825804"
+  },
+  {
+    "id": "sakar_english_school_23.1089_72.5918_ahmedabad",
+    "name": "Sakar English School",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.1088888,
+      "lng": 72.5918371
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825811"
+  },
+  {
+    "id": "podar_international_school_23.1098_72.5907_ahmedabad",
+    "name": "Podar International School",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.1097883,
+      "lng": 72.590667
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825817"
   },
   {
     "id": "pvr_motera_23.1031_72.5959_ahmedabad",
@@ -9157,7 +11837,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223462"
+    "created_at": "2026-06-24T19:32:30.825823"
   },
   {
     "id": "sidi_bashid_mosque,_the_shaking_minarets_23.0238_72.5997_ahmedabad",
@@ -9197,7 +11877,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223466"
+    "created_at": "2026-06-24T19:32:30.825830"
   },
   {
     "id": "merudham_23.1219_72.6163_ahmedabad",
@@ -9237,7 +11917,47 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223471"
+    "created_at": "2026-06-24T19:32:30.825835"
+  },
+  {
+    "id": "adarsh_prathamik_shala_(elementary_school)_23.1829_72.6619_ahmedabad",
+    "name": "Adarsh Prathamik Shala (Elementary school)",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.1828788,
+      "lng": 72.6619214
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825839"
   },
   {
     "id": "momai_maa_temple_23.1837_72.6622_ahmedabad",
@@ -9277,7 +11997,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223475"
+    "created_at": "2026-06-24T19:32:30.825844"
   },
   {
     "id": "limbaj_temple_23.1842_72.6627_ahmedabad",
@@ -9317,7 +12037,47 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223479"
+    "created_at": "2026-06-24T19:32:30.825848"
+  },
+  {
+    "id": "department_of_animation,_it,_ims_and_mobile_application_23.0386_72.5454_ahmedabad",
+    "name": "Department of Animation, IT, IMS and Mobile Application",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0386219,
+      "lng": 72.5453568
+    },
+    "description": "Gujarat University, Navrangpura, Ahmedabad, Gujarat 380009",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825853"
   },
   {
     "id": "palladium_mall_23.0581_72.5209_ahmedabad",
@@ -9357,7 +12117,47 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223484"
+    "created_at": "2026-06-24T19:32:30.825877"
+  },
+  {
+    "id": "h3_world_school_23.1274_72.5628_ahmedabad",
+    "name": "H3 World School",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.1273816,
+      "lng": 72.562771
+    },
+    "description": "H3 schools, opp. Dutt Parisar, Tragad Rd, near PAVITRA ENCLAVE, Tragad, Gujarat",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825881"
   },
   {
     "id": "kalrav_villa_23.0837_72.4449_ahmedabad",
@@ -9397,7 +12197,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223488"
+    "created_at": "2026-06-24T19:32:30.825886"
   },
   {
     "id": "zold_swimming_pool_23.1944_72.6136_ahmedabad",
@@ -9437,7 +12237,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223494"
+    "created_at": "2026-06-24T19:32:30.825893"
   },
   {
     "id": "goga_dham_bilamana_23.2897_72.8259_ahmedabad",
@@ -9477,7 +12277,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223498"
+    "created_at": "2026-06-24T19:32:30.825897"
   },
   {
     "id": "olivewoods_club_house_23.061_72.4461_ahmedabad",
@@ -9517,7 +12317,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223502"
+    "created_at": "2026-06-24T19:32:30.825902"
   },
   {
     "id": "lokmanya_tilak_statue_23.0216_72.5794_ahmedabad",
@@ -9557,7 +12357,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223508"
+    "created_at": "2026-06-24T19:32:30.825909"
   },
   {
     "id": "queen_victoria_statue_canopy_23.0216_72.5789_ahmedabad",
@@ -9597,7 +12397,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223513"
+    "created_at": "2026-06-24T19:32:30.825917"
   },
   {
     "id": "dargah_23.0212_72.5799_ahmedabad",
@@ -9637,7 +12437,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223517"
+    "created_at": "2026-06-24T19:32:30.825923"
   },
   {
     "id": "mahagujarat_shahid_smarak_23.0218_72.5797_ahmedabad",
@@ -9677,7 +12477,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223521"
+    "created_at": "2026-06-24T19:32:30.825928"
   },
   {
     "id": "iskcon_garden_23.0288_72.5063_ahmedabad",
@@ -9717,7 +12517,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223525"
+    "created_at": "2026-06-24T19:32:30.825936"
   },
   {
     "id": "dr._parth_amin_(ent_specialist)_mediheal_hospital_23.0798_72.5018_ahmedabad",
@@ -9757,7 +12557,47 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223530"
+    "created_at": "2026-06-24T19:32:30.825941"
+  },
+  {
+    "id": "anand_niketan_school_sarkhej_22.9892_72.4824_ahmedabad",
+    "name": "Anand Niketan School Sarkhej",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 22.9892365,
+      "lng": 72.4823886
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825946"
   },
   {
     "id": "navi_masjid_(masjid-e-nawab)_22.9958_72.5868_ahmedabad",
@@ -9797,7 +12637,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223534"
+    "created_at": "2026-06-24T19:32:30.825951"
   },
   {
     "id": "white_screen_cinemas_23.2021_72.6573_ahmedabad",
@@ -9837,7 +12677,47 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223539"
+    "created_at": "2026-06-24T19:32:30.825956"
+  },
+  {
+    "id": "\u0aa8\u0abe\u0ab0\u0aa3\u0aad\u0abe\u0a88_\u0aae\u0acb\u0aa4\u0ac0\u0aad\u0abe\u0a87_\u0aaa\u0a9f\u0ac7\u0ab2_\u0ab9\u0abe\u0a87_\u0ab8\u0acd\u0a95\u0ac2\u0ab2_23.0038_73.015_ahmedabad",
+    "name": "\u0aa8\u0abe\u0ab0\u0aa3\u0aad\u0abe\u0a88 \u0aae\u0acb\u0aa4\u0ac0\u0aad\u0abe\u0a87 \u0aaa\u0a9f\u0ac7\u0ab2 \u0ab9\u0abe\u0a87 \u0ab8\u0acd\u0a95\u0ac2\u0ab2",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.003835,
+      "lng": 73.0150341
+    },
+    "description": "Naranbhai Motibhai Patel Road",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.825967"
   },
   {
     "id": "\u0ab8\u0ab0\u0aa6\u0abe\u0ab0_\u0ab5\u0ab2\u0aad\u0aad\u0abe\u0a88_\u0aaa\u0a9f\u0ac7\u0ab2\u0aa8\u0ac0_\u0aaa\u0acd\u0ab0\u0aa4\u0abf\u0aae\u0abe_23.0037_73.0138_ahmedabad",
@@ -9877,7 +12757,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223547"
+    "created_at": "2026-06-24T19:32:30.825975"
   },
   {
     "id": "home_theatre_23.1359_72.5525_ahmedabad",
@@ -9917,7 +12797,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223551"
+    "created_at": "2026-06-24T19:32:30.825981"
   },
   {
     "id": "harsidhi_maa_temple_bavlu_23.1592_72.3146_ahmedabad",
@@ -9957,7 +12837,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223557"
+    "created_at": "2026-06-24T19:32:30.825986"
   },
   {
     "id": "mahakali_mataji_temple_23.2658_72.6422_ahmedabad",
@@ -9997,7 +12877,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223562"
+    "created_at": "2026-06-24T19:32:30.825991"
   },
   {
     "id": "madina_masjid_23.0246_73.0664_ahmedabad",
@@ -10037,7 +12917,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223565"
+    "created_at": "2026-06-24T19:32:30.825996"
   },
   {
     "id": "masjid_fatima_23.0217_73.0618_ahmedabad",
@@ -10077,7 +12957,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223569"
+    "created_at": "2026-06-24T19:32:30.826004"
   },
   {
     "id": "aamli_masjid_23.0293_73.0673_ahmedabad",
@@ -10117,7 +12997,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223573"
+    "created_at": "2026-06-24T19:32:30.826011"
   },
   {
     "id": "masjid_kuba_23.0273_73.0622_ahmedabad",
@@ -10157,7 +13037,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223579"
+    "created_at": "2026-06-24T19:32:30.826015"
   },
   {
     "id": "nagina_masjid_23.0257_73.0681_ahmedabad",
@@ -10197,7 +13077,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223585"
+    "created_at": "2026-06-24T19:32:30.826020"
   },
   {
     "id": "masjid_yusuf_23.0306_73.0671_ahmedabad",
@@ -10237,7 +13117,7 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223588"
+    "created_at": "2026-06-24T19:32:30.826024"
   },
   {
     "id": "punitdham_jain_tirth_23.3734_72.6945_ahmedabad",
@@ -10277,6 +13157,86 @@
     "google_places_id": "",
     "google_rating": 0.0,
     "google_reviews": 0,
-    "created_at": "2026-06-22T16:34:18.223592"
+    "created_at": "2026-06-24T19:32:30.826028"
+  },
+  {
+    "id": "sal_university_23.0836_72.4946_ahmedabad",
+    "name": "SAL University",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0835562,
+      "lng": 72.4946486
+    },
+    "description": "science city road",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.826033"
+  },
+  {
+    "id": "ahmedabad_international_school_23.0342_72.5129_ahmedabad",
+    "name": "Ahmedabad International School",
+    "city": "Ahmedabad, India",
+    "area": "city_center",
+    "place_type": "point_of_interest",
+    "category": "educational",
+    "significance": "local",
+    "coordinates": {
+      "lat": 23.0341502,
+      "lng": 72.5128675
+    },
+    "description": "",
+    "history": "",
+    "visiting_hours": {
+      "opens": "09:00",
+      "closes": "18:00",
+      "closed_days": [],
+      "break_time": null
+    },
+    "entry_fee": {
+      "local": 0,
+      "foreign": 0
+    },
+    "duration_hours": 1.0,
+    "best_visiting_time": {},
+    "crowd_levels": {},
+    "accessibility": {
+      "wheelchair": false,
+      "parking": false
+    },
+    "photography_allowed": true,
+    "distance_from_center_km": 0.0,
+    "must_visit": false,
+    "data_source": "openstreetmap",
+    "google_places_id": "",
+    "google_rating": 0.0,
+    "google_reviews": 0,
+    "created_at": "2026-06-24T19:32:30.826038"
   }
 ]

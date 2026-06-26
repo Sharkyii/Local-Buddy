@@ -209,3 +209,57 @@ class Repository:
                 json.loads(row["neighborhood_breakdown"]) if row["neighborhood_breakdown"] else {}
             )
         return rows
+
+    # ============ RELOCATION / CROSS-CITY COMPARISON ============
+    # CONFLICTS_WITH (Norm->Norm) and SIMILAR_VIBE_TO (Area->Area) are curated,
+    # hand-authored edges between specific city pairs (currently only Bangalore
+    # <-> Ahmedabad has any) — NOT auto-generated for every possible pair. An
+    # empty result here means "no curated comparison exists yet for these two
+    # cities", not "nothing in common" — callers must be honest about that
+    # distinction rather than inventing a comparison.
+
+    def get_city_comparison(self, city_a_id: str, city_b_id: str) -> Optional[Dict[str, Any]]:
+        """High-level numbers that exist for every city (no curated cross-city
+        edge needed) — cost-of-living and safety index, side by side."""
+        rows = self._query("""
+            MATCH (a:City {id: $city_a_id})
+            MATCH (b:City {id: $city_b_id})
+            RETURN a.name AS city_a, a.cost_of_living_index AS city_a_cost_index,
+                   a.safety_index AS city_a_safety_index,
+                   b.name AS city_b, b.cost_of_living_index AS city_b_cost_index,
+                   b.safety_index AS city_b_safety_index
+        """, city_a_id=city_a_id, city_b_id=city_b_id)
+        return rows[0] if rows else None
+
+    def get_norm_conflicts(self, city_a_id: str, city_b_id: str) -> List[Dict[str, Any]]:
+        """Curated norm pairs that conflict between two specific cities — e.g.
+        "alcohol is normal in city A, prohibited in city B". Edge direction in
+        the data doesn't necessarily match which city the caller calls "origin",
+        so this matches either way and labels each side by its actual city."""
+        return self._query("""
+            MATCH (n1:Norm)-[c:CONFLICTS_WITH]->(n2:Norm)
+            MATCH (n1)-[:NORMAL_IN]->(city1:City)
+            MATCH (n2)-[:NORMAL_IN]->(city2:City)
+            WHERE (city1.id = $city_a_id AND city2.id = $city_b_id)
+               OR (city1.id = $city_b_id AND city2.id = $city_a_id)
+            RETURN city1.id AS norm1_city, n1.title AS norm1_title, n1.description AS norm1_description,
+                   city2.id AS norm2_city, n2.title AS norm2_title, n2.description AS norm2_description,
+                   c.conflict_type AS conflict_type, c.confidence AS confidence,
+                   c.embarrassment_risk AS embarrassment_risk
+            ORDER BY c.embarrassment_risk DESC
+        """, city_a_id=city_a_id, city_b_id=city_b_id)
+
+    def get_similar_areas(self, city_a_id: str, city_b_id: str) -> List[Dict[str, Any]]:
+        """Curated area pairs with a similar vibe between two specific cities —
+        e.g. "if you liked Indiranagar in Bangalore, try Naranpura here"."""
+        return self._query("""
+            MATCH (a1:Area)-[s:SIMILAR_VIBE_TO]->(a2:Area)
+            MATCH (c1:City)-[:HAS_AREA]->(a1)
+            MATCH (c2:City)-[:HAS_AREA]->(a2)
+            WHERE (c1.id = $city_a_id AND c2.id = $city_b_id)
+               OR (c1.id = $city_b_id AND c2.id = $city_a_id)
+            RETURN c1.id AS area1_city, a1.name AS area1_name,
+                   c2.id AS area2_city, a2.name AS area2_name,
+                   s.similarity_score AS similarity_score, s.shared_traits AS shared_traits
+            ORDER BY s.similarity_score DESC
+        """, city_a_id=city_a_id, city_b_id=city_b_id)

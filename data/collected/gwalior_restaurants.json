@@ -1,6 +1,6 @@
 [
   {
-    "id": "alfanzo_gwalior",
+    "id": "alfanzo_26.209_78.1878_gwalior",
     "name": "Alfanzo",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -29,10 +29,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968736"
+    "created_at": "2026-06-24T18:40:10.624968"
   },
   {
-    "id": "mcdonald's_gwalior",
+    "id": "mcdonald's_26.2098_78.1668_gwalior",
     "name": "McDonald's",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -61,10 +61,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968781"
+    "created_at": "2026-06-24T18:40:10.624996"
   },
   {
-    "id": "subway_gwalior",
+    "id": "subway_26.2097_78.1665_gwalior",
     "name": "Subway",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -93,10 +93,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968794"
+    "created_at": "2026-06-24T18:40:10.625004"
   },
   {
-    "id": "pizza_bite's_gwalior",
+    "id": "pizza_bite's_26.2069_78.1634_gwalior",
     "name": "Pizza Bite's",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -126,10 +126,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968803"
+    "created_at": "2026-06-24T18:40:10.625011"
   },
   {
-    "id": "treat_family_restaurant_gwalior",
+    "id": "treat_family_restaurant_26.2207_78.1604_gwalior",
     "name": "Treat Family Restaurant",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -158,10 +158,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968812"
+    "created_at": "2026-06-24T18:40:10.625016"
   },
   {
-    "id": "caf\u00e9_coffee_day_gwalior",
+    "id": "caf\u00e9_coffee_day_26.2154_78.1707_gwalior",
     "name": "Caf\u00e9 Coffee Day",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -190,10 +190,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968822"
+    "created_at": "2026-06-24T18:40:10.625023"
   },
   {
-    "id": "shikarwar_snacks_and_foods_gwalior",
+    "id": "shikarwar_snacks_and_foods_26.4898_77.98_gwalior",
     "name": "Shikarwar Snacks and Foods",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -222,10 +222,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968829"
+    "created_at": "2026-06-24T18:40:10.625028"
   },
   {
-    "id": "the_tea_time_(serving_health)_gwalior",
+    "id": "the_tea_time_(serving_health)_26.1969_78.1589_gwalior",
     "name": "The tea time (Serving Health)",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -254,10 +254,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968837"
+    "created_at": "2026-06-24T18:40:10.625033"
   },
   {
-    "id": "silver_saloon_gwalior",
+    "id": "silver_saloon_26.2115_78.1505_gwalior",
     "name": "Silver saloon",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -286,10 +286,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968844"
+    "created_at": "2026-06-24T18:40:10.625039"
   },
   {
-    "id": "punjabi_food_factory_gwalior",
+    "id": "punjabi_food_factory_26.2237_78.1719_gwalior",
     "name": "Punjabi food factory",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -318,10 +318,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968853"
+    "created_at": "2026-06-24T18:40:10.625045"
   },
   {
-    "id": "shree_bhukkads_a_food_lounge_gwalior",
+    "id": "shree_bhukkads_a_food_lounge_26.2186_78.1822_gwalior",
     "name": "Shree Bhukkads a food lounge",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -350,10 +350,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968860"
+    "created_at": "2026-06-24T18:40:10.625051"
   },
   {
-    "id": "indian_coffee_house_gwalior",
+    "id": "indian_coffee_house_26.2153_78.183_gwalior",
     "name": "Indian coffee house",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -382,10 +382,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968868"
+    "created_at": "2026-06-24T18:40:10.625057"
   },
   {
-    "id": "fort_view_cafe_gwalior",
+    "id": "fort_view_cafe_26.229_78.1682_gwalior",
     "name": "Fort View Cafe",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -414,10 +414,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968876"
+    "created_at": "2026-06-24T18:40:10.625062"
   },
   {
-    "id": "sweet_&_salt_restaurant_gwalior",
+    "id": "sweet_&_salt_restaurant_26.2318_78.2164_gwalior",
     "name": "Sweet & Salt Restaurant",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -446,10 +446,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968884"
+    "created_at": "2026-06-24T18:40:10.625068"
   },
   {
-    "id": "swad_the_taste_gwalior",
+    "id": "swad_the_taste_26.2317_78.2165_gwalior",
     "name": "Swad The Taste",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -478,10 +478,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968890"
+    "created_at": "2026-06-24T18:40:10.625072"
   },
   {
-    "id": "blueberry_restaurant_gwalior",
+    "id": "blueberry_restaurant_26.2325_78.2171_gwalior",
     "name": "Blueberry Restaurant",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -510,10 +510,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968897"
+    "created_at": "2026-06-24T18:40:10.625078"
   },
   {
-    "id": "jodhpur_misthan_bhandar_gwalior",
+    "id": "jodhpur_misthan_bhandar_25.8867_78.334_gwalior",
     "name": "Jodhpur Misthan Bhandar",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -542,10 +542,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968903"
+    "created_at": "2026-06-24T18:40:10.625083"
   },
   {
-    "id": "hotel_the_nd_grande_gwalior",
+    "id": "hotel_the_nd_grande_25.8835_78.3334_gwalior",
     "name": "HOTEL THE ND GRANDE",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -574,10 +574,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968913"
+    "created_at": "2026-06-24T18:40:10.625195"
   },
   {
-    "id": "rangoli_garden_gwalior",
+    "id": "rangoli_garden_25.8834_78.3335_gwalior",
     "name": "Rangoli Garden",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -606,10 +606,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968920"
+    "created_at": "2026-06-24T18:40:10.625201"
   },
   {
-    "id": "hotel_suraj_gwalior",
+    "id": "hotel_suraj_25.8901_78.3368_gwalior",
     "name": "Hotel Suraj",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -638,10 +638,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968928"
+    "created_at": "2026-06-24T18:40:10.625207"
   },
   {
-    "id": "cafe_1_gwalior",
+    "id": "cafe_1_26.2106_78.2014_gwalior",
     "name": "cafe 1",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -670,10 +670,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968935"
+    "created_at": "2026-06-24T18:40:10.625212"
   },
   {
-    "id": "cafe_2_gwalior",
+    "id": "cafe_2_26.2107_78.2008_gwalior",
     "name": "cafe 2",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -702,10 +702,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968943"
+    "created_at": "2026-06-24T18:40:10.625237"
   },
   {
-    "id": "cafe_3_gwalior",
+    "id": "cafe_3_26.2103_78.2015_gwalior",
     "name": "cafe 3",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -734,10 +734,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968949"
+    "created_at": "2026-06-24T18:40:10.625242"
   },
   {
-    "id": "restaurant_1_gwalior",
+    "id": "restaurant_1_26.2098_78.2021_gwalior",
     "name": "restaurant 1",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -766,10 +766,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968957"
+    "created_at": "2026-06-24T18:40:10.625246"
   },
   {
-    "id": "fast_food_centre_gwalior",
+    "id": "fast_food_centre_26.2105_78.2018_gwalior",
     "name": "fast food centre",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -798,10 +798,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968965"
+    "created_at": "2026-06-24T18:40:10.625251"
   },
   {
-    "id": "bistro_65_gwalior",
+    "id": "bistro_65_26.211_78.2038_gwalior",
     "name": "bistro 65",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -830,10 +830,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.968973"
+    "created_at": "2026-06-24T18:40:10.625257"
   },
   {
-    "id": "south_indian_corner_gwalior",
+    "id": "south_indian_corner_26.2099_78.2038_gwalior",
     "name": "south indian corner",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -862,10 +862,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.969286"
+    "created_at": "2026-06-24T18:40:10.625263"
   },
   {
-    "id": "punjabi_tadka_gwalior",
+    "id": "punjabi_tadka_26.2097_78.2006_gwalior",
     "name": "punjabi tadka",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -894,10 +894,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.969295"
+    "created_at": "2026-06-24T18:40:10.625269"
   },
   {
-    "id": "hastag_cafe_gwalior",
+    "id": "hastag_cafe_26.2095_78.2006_gwalior",
     "name": "hastag cafe",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -926,10 +926,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.969302"
+    "created_at": "2026-06-24T18:40:10.625274"
   },
   {
-    "id": "zaika_cafe_gwalior",
+    "id": "zaika_cafe_26.2084_78.2047_gwalior",
     "name": "zaika cafe",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -958,10 +958,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.969308"
+    "created_at": "2026-06-24T18:40:10.625279"
   },
   {
-    "id": "jodhpur_misthan_bhandar_gwalior",
+    "id": "jodhpur_misthan_bhandar_26.2153_78.2043_gwalior",
     "name": "jodhpur misthan bhandar",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -990,10 +990,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.969314"
+    "created_at": "2026-06-24T18:40:10.625284"
   },
   {
-    "id": "dairyman's_naturals_gwalior",
+    "id": "dairyman's_naturals_26.1992_78.1645_gwalior",
     "name": "Dairyman's Naturals",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -1028,10 +1028,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.969322"
+    "created_at": "2026-06-24T18:40:10.625289"
   },
   {
-    "id": "karwaan_gwalior",
+    "id": "karwaan_26.2098_78.1983_gwalior",
     "name": "Karwaan",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -1064,10 +1064,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.969329"
+    "created_at": "2026-06-24T18:40:10.625294"
   },
   {
-    "id": "nutrimento_nx_gwalior",
+    "id": "nutrimento_nx_26.2097_78.1981_gwalior",
     "name": "Nutrimento NX",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -1096,10 +1096,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.969336"
+    "created_at": "2026-06-24T18:40:10.625300"
   },
   {
-    "id": "zayka_da_taste_gwalior",
+    "id": "zayka_da_taste_26.1971_78.1479_gwalior",
     "name": "Zayka Da Taste",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -1128,10 +1128,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.969343"
+    "created_at": "2026-06-24T18:40:10.625305"
   },
   {
-    "id": "the_treat_fast_food_&_cafe_gwalior",
+    "id": "the_treat_fast_food_&_cafe_26.2042_78.1467_gwalior",
     "name": "The Treat Fast Food & Cafe",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -1160,10 +1160,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.969349"
+    "created_at": "2026-06-24T18:40:10.625311"
   },
   {
-    "id": "bajaj_juice_centre_gwalior",
+    "id": "bajaj_juice_centre_26.2032_78.1471_gwalior",
     "name": "Bajaj Juice Centre",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -1192,10 +1192,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.969380"
+    "created_at": "2026-06-24T18:40:10.625316"
   },
   {
-    "id": "n.j._foods_gwalior",
+    "id": "n.j._foods_26.2156_78.1821_gwalior",
     "name": "N.J. Foods",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -1224,10 +1224,10 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.969387"
+    "created_at": "2026-06-24T18:40:10.625322"
   },
   {
-    "id": "shiv_ras_bhandar_gwalior",
+    "id": "shiv_ras_bhandar_26.1968_78.1488_gwalior",
     "name": "Shiv Ras Bhandar",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -1256,6 +1256,6 @@
     "reservation_needed": false,
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:55:35.969395"
+    "created_at": "2026-06-24T18:40:10.625327"
   }
 ]

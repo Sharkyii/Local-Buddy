@@ -1,6 +1,6 @@
 [
   {
-    "id": "tansen_residency_gwalior",
+    "id": "tansen_residency_26.2139_78.1871_gwalior",
     "name": "Tansen Residency",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -9,6 +9,7 @@
       "lng": 78.1871305
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -18,10 +19,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:44:53.517695"
+    "created_at": "2026-06-24T18:40:00.218293"
   },
   {
-    "id": "central_park_gwalior",
+    "id": "central_park_26.2114_78.1877_gwalior",
     "name": "Central Park",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -30,6 +31,7 @@
       "lng": 78.187734
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -39,10 +41,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:44:53.517720"
+    "created_at": "2026-06-24T18:40:00.218321"
   },
   {
-    "id": "sun_beam_gwalior",
+    "id": "sun_beam_26.2098_78.1873_gwalior",
     "name": "Sun Beam",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -51,6 +53,7 @@
       "lng": 78.1873236
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -60,10 +63,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:44:53.517728"
+    "created_at": "2026-06-24T18:40:00.218327"
   },
   {
-    "id": "hotel_mayur_gwalior",
+    "id": "hotel_mayur_26.213_78.1779_gwalior",
     "name": "Hotel Mayur",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -72,6 +75,7 @@
       "lng": 78.177855
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -81,10 +85,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:44:53.517735"
+    "created_at": "2026-06-24T18:40:00.218331"
   },
   {
-    "id": "hotel_city_plaza_gwalior",
+    "id": "hotel_city_plaza_26.2069_78.1634_gwalior",
     "name": "Hotel City Plaza",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -93,6 +97,7 @@
       "lng": 78.1633514
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -102,10 +107,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:44:53.517741"
+    "created_at": "2026-06-24T18:40:00.218336"
   },
   {
-    "id": "city_plaza_hotel_gwalior",
+    "id": "city_plaza_hotel_26.2071_78.1633_gwalior",
     "name": "City Plaza Hotel",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -114,6 +119,7 @@
       "lng": 78.1633191
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -123,10 +129,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:44:53.517747"
+    "created_at": "2026-06-24T18:40:00.218340"
   },
   {
-    "id": "hotel_man_mandir_gwalior",
+    "id": "hotel_man_mandir_26.2033_78.161_gwalior",
     "name": "Hotel Man Mandir",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -135,6 +141,7 @@
       "lng": 78.1610351
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -144,10 +151,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:44:53.517753"
+    "created_at": "2026-06-24T18:40:00.218344"
   },
   {
-    "id": "hotel_royal_inn_gwalior",
+    "id": "hotel_royal_inn_26.2099_78.1873_gwalior",
     "name": "Hotel Royal Inn",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -156,6 +163,7 @@
       "lng": 78.187347
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -165,10 +173,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:44:53.517759"
+    "created_at": "2026-06-24T18:40:00.218349"
   },
   {
-    "id": "central_government_touring_officers_guest_house_gwalior",
+    "id": "central_government_touring_officers_guest_house_26.2057_78.191_gwalior",
     "name": "Central Government Touring Officers Guest House",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -177,6 +185,7 @@
       "lng": 78.1909762
     },
     "stars": 0,
+    "hotel_type": "guest_house",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -186,10 +195,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:44:53.517765"
+    "created_at": "2026-06-24T18:40:00.218354"
   },
   {
-    "id": "sita_manor_gwalior",
+    "id": "sita_manor_26.2135_78.1923_gwalior",
     "name": "sita manor",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -198,6 +207,7 @@
       "lng": 78.1922875
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -207,10 +217,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:44:53.517772"
+    "created_at": "2026-06-24T18:40:00.218359"
   },
   {
-    "id": "tansen_residency_gwalior",
+    "id": "tansen_residency_26.2141_78.1871_gwalior",
     "name": "tansen residency",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -219,6 +229,7 @@
       "lng": 78.1871446
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -228,10 +239,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:44:53.517777"
+    "created_at": "2026-06-24T18:40:00.218363"
   },
   {
-    "id": "gwalior_regency_gwalior",
+    "id": "gwalior_regency_26.2148_78.1881_gwalior",
     "name": "gwalior regency",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -240,6 +251,7 @@
       "lng": 78.1881279
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -249,10 +261,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:44:53.517783"
+    "created_at": "2026-06-24T18:40:00.218367"
   },
   {
-    "id": "moti_mahal_deluxe_gwalior",
+    "id": "moti_mahal_deluxe_26.215_78.1872_gwalior",
     "name": "moti mahal deluxe",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -261,6 +273,7 @@
       "lng": 78.1872272
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -270,10 +283,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:44:53.517788"
+    "created_at": "2026-06-24T18:40:00.218372"
   },
   {
-    "id": "government_guest_house_gwalior",
+    "id": "government_guest_house_26.214_78.1867_gwalior",
     "name": "government guest house",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -282,6 +295,7 @@
       "lng": 78.1866938
     },
     "stars": 0,
+    "hotel_type": "guest_house",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -291,10 +305,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:44:53.517794"
+    "created_at": "2026-06-24T18:40:00.218377"
   },
   {
-    "id": "golden_palace_gwalior",
+    "id": "golden_palace_26.2095_78.198_gwalior",
     "name": "Golden Palace",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -303,6 +317,7 @@
       "lng": 78.1979801
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -312,10 +327,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:44:53.517800"
+    "created_at": "2026-06-24T18:40:00.218382"
   },
   {
-    "id": "hotel_fort_view_gwalior",
+    "id": "hotel_fort_view_26.2139_78.171_gwalior",
     "name": "Hotel Fort View",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -324,6 +339,7 @@
       "lng": 78.1710093
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -333,10 +349,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:44:53.517806"
+    "created_at": "2026-06-24T18:40:00.218386"
   },
   {
-    "id": "hotel_mk_vivanta_gwalior",
+    "id": "hotel_mk_vivanta_26.2129_78.1701_gwalior",
     "name": "Hotel MK Vivanta",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -345,6 +361,7 @@
       "lng": 78.1701221
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -354,10 +371,10 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:44:53.517811"
+    "created_at": "2026-06-24T18:40:00.218392"
   },
   {
-    "id": "hotel_maharaja_gwalior",
+    "id": "hotel_maharaja_26.1956_78.1499_gwalior",
     "name": "Hotel Maharaja",
     "city": "Gwalior, India",
     "area": "city_center",
@@ -366,6 +383,7 @@
       "lng": 78.1499352
     },
     "stars": 0,
+    "hotel_type": "hotel",
     "price_per_night": {},
     "amenities": [],
     "specialties": [],
@@ -375,6 +393,6 @@
     "check_out_time": "11:00",
     "data_source": "openstreetmap",
     "google_places_id": "",
-    "created_at": "2026-06-07T21:44:53.517818"
+    "created_at": "2026-06-24T18:40:00.218500"
   }
 ]

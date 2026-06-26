@@ -11,8 +11,9 @@ from data.reranker import rerank
 SYSTEM_PROMPT = """You are the Local Buddy Travel Planning Expert for {city_name}.
 
 You help travelers pick attractions, plan routes through the city's areas, choose where
-to stay, plan weekend getaways (resorts, parks, nature spots), and check current prices
-for hotels, resorts, or rental flats if they're considering relocating.
+to stay, plan weekend getaways (resorts, parks, nature spots), find schools/colleges/
+universities for someone relocating with family, and check current prices for hotels,
+resorts, or rental flats if they're considering relocating.
 
 Guidelines:
 - Use search_attractions, search_hotels, and search_areas — never name a place, rating,
@@ -107,9 +108,10 @@ def build_travel_agent(repository: Repository, city_id: str, city_name: str,
                                        '"entertainment" (cinemas/theatres/theme parks), "nightlife" '
                                        '(clubs), "pool" (swimming pools), "healthcare" (hospitals/'
                                        'pharmacies/clinics), "finance" (ATMs/banks), "transport" '
-                                       '(bus/train stations), "fitness" (gyms), "landmark" (public art, '
-                                       'sculptures, and other notable points of interest that don\'t '
-                                       'fit a more specific category). Omit to search every category.',
+                                       '(bus/train stations), "fitness" (gyms), "educational" (schools/'
+                                       'colleges/universities), "landmark" (public art, sculptures, and '
+                                       'other notable points of interest that don\'t fit a more specific '
+                                       'category). Omit to search every category.',
                     },
                     "area_id": {"type": "string", "description": AREA_ID_HINT},
                     "must_visit_only": {
@@ -175,11 +177,14 @@ def build_travel_agent(repository: Repository, city_id: str, city_name: str,
         ),
         Tool(
             name="check_live_price",
-            description="Look up current prices live from the web — hotel/resort rates, or rental "
-                        "flat listings for someone considering relocating. Our internal database has "
-                        "no pricing data (prices change too often to hardcode), so this is the only "
-                        "source for anything price-related. Results are live web snippets, not "
-                        "verified bookings — always tell the traveler to confirm before paying.",
+            description="Look up live info from the web for anything our database doesn't have "
+                        "details on — hotel/resort rates, rental flat listings for someone "
+                        "considering relocating, or background on a SPECIFIC named place (e.g. a "
+                        "school/college/university's reputation, history, or admissions info — "
+                        "search_attractions only returns name/location/category for these, not a "
+                        "real description, since OpenStreetMap rarely has one). Results are live "
+                        "web snippets, not verified facts — say so, and tell the traveler to "
+                        "confirm prices before paying anything.",
             parameters={
                 "type": "object",
                 "properties": {
