@@ -19,5 +19,11 @@ redis>=5.0.0
 # since prices change over time and can't be hardcoded in Neo4j (see agents/travel_agent.py)
 ddgs>=9.0.0
 
+# In-process scheduled data refresh (see api/main.py's lifespan)
+apscheduler>=3.10.0
+
+# Rate limiting (chat endpoints) and admin-key auth (see api/main.py)
+slowapi>=0.1.9
+
 # Config
 python-dotenv>=1.0.0

@@ -5,27 +5,25 @@
     "category": "accommodation",
     "item": "1BHK apartment rent",
     "price_range": {
-      "min": 15000,
-      "max": 35000,
-      "avg": 22000
+      "min": 9000,
+      "max": 28000,
+      "avg": 18400
     },
     "neighborhood_breakdown": {
-      "satellite": {
-        "price": 28000,
-        "vibe": "modern"
-      },
-      "naranpura": {
-        "price": 20000,
-        "vibe": "traditional"
-      },
-      "bodakdev": {
-        "price": 25000,
-        "vibe": "mixed"
-      },
-      "old_city": {
-        "price": 15000,
-        "vibe": "historic"
-      }
+      "satellite": {"price": 28000, "vibe": "modern"},
+      "naranpura": {"price": 20000, "vibe": "traditional"},
+      "bodakdev": {"price": 25000, "vibe": "mixed"},
+      "old_city": {"price": 15000, "vibe": "historic"},
+      "vastrapur": {"price": 26000, "vibe": "affluent_academic"},
+      "navrangpura": {"price": 22000, "vibe": "busy_central"},
+      "maninagar": {"price": 14000, "vibe": "traditional_middle_class"},
+      "paldi": {"price": 19000, "vibe": "old_established_mixed"},
+      "prahlad_nagar": {"price": 27000, "vibe": "cosmopolitan_corporate"},
+      "chandkheda": {"price": 13000, "vibe": "developing_suburban"},
+      "gota": {"price": 12000, "vibe": "quiet_developing"},
+      "shahibaug": {"price": 17000, "vibe": "old_genteel"},
+      "sarkhej": {"price": 10000, "vibe": "working_class_historic"},
+      "vastral": {"price": 9000, "vibe": "working_class_eastern"}
     },
     "compared_to_city": "bangalore",
     "parity_ratio": 0.63
@@ -36,23 +34,25 @@
     "category": "food",
     "item": "Meal at mid-range restaurant",
     "price_range": {
-      "min": 150,
-      "max": 400,
-      "avg": 250
+      "min": 130,
+      "max": 350,
+      "avg": 220
     },
     "neighborhood_breakdown": {
-      "satellite": {
-        "price": 350,
-        "vibe": "modern"
-      },
-      "naranpura": {
-        "price": 200,
-        "vibe": "traditional"
-      },
-      "bodakdev": {
-        "price": 250,
-        "vibe": "mixed"
-      }
+      "satellite": {"price": 350, "vibe": "modern"},
+      "naranpura": {"price": 200, "vibe": "traditional"},
+      "bodakdev": {"price": 250, "vibe": "mixed"},
+      "old_city": {"price": 180, "vibe": "historic"},
+      "vastrapur": {"price": 320, "vibe": "affluent_academic"},
+      "navrangpura": {"price": 220, "vibe": "busy_central"},
+      "maninagar": {"price": 170, "vibe": "traditional_middle_class"},
+      "paldi": {"price": 200, "vibe": "old_established_mixed"},
+      "prahlad_nagar": {"price": 330, "vibe": "cosmopolitan_corporate"},
+      "chandkheda": {"price": 160, "vibe": "developing_suburban"},
+      "gota": {"price": 150, "vibe": "quiet_developing"},
+      "shahibaug": {"price": 190, "vibe": "old_genteel"},
+      "sarkhej": {"price": 140, "vibe": "working_class_historic"},
+      "vastral": {"price": 130, "vibe": "working_class_eastern"}
     },
     "compared_to_city": "bangalore",
     "parity_ratio": 0.60

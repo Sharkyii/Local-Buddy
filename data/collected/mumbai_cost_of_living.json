@@ -1,0 +1,64 @@
+[
+  {
+    "id": "coli_mumbai_1bhk_rent",
+    "city": "mumbai",
+    "category": "accommodation",
+    "item": "1BHK apartment rent",
+    "price_range": {
+      "min": 32000,
+      "max": 55000,
+      "avg": 43500
+    },
+    "neighborhood_breakdown": {
+      "bandra_west": {"price": 55000, "vibe": "upscale_trendy"},
+      "andheri": {"price": 32000, "vibe": "commercial_mixed"}
+    },
+    "compared_to_city": "ahmedabad",
+    "parity_ratio": 1.54
+  },
+  {
+    "id": "coli_mumbai_meals",
+    "city": "mumbai",
+    "category": "food",
+    "item": "Meal at mid-range restaurant",
+    "price_range": {
+      "min": 250,
+      "max": 450,
+      "avg": 340
+    },
+    "neighborhood_breakdown": {
+      "bandra_west": {"price": 450, "vibe": "upscale_trendy"},
+      "andheri": {"price": 280, "vibe": "commercial_mixed"}
+    },
+    "compared_to_city": "ahmedabad",
+    "parity_ratio": 1.54
+  },
+  {
+    "id": "coli_mumbai_transport",
+    "city": "mumbai",
+    "category": "transport",
+    "item": "Auto rickshaw for 5km",
+    "price_range": {
+      "min": 90,
+      "max": 200,
+      "avg": 150
+    },
+    "neighborhood_breakdown": {},
+    "compared_to_city": "ahmedabad",
+    "parity_ratio": 1.50
+  },
+  {
+    "id": "coli_mumbai_groceries",
+    "city": "mumbai",
+    "category": "food",
+    "item": "Monthly groceries budget for 1 person",
+    "price_range": {
+      "min": 4500,
+      "max": 9000,
+      "avg": 6900
+    },
+    "neighborhood_breakdown": {},
+    "compared_to_city": "ahmedabad",
+    "parity_ratio": 1.53
+  }
+]

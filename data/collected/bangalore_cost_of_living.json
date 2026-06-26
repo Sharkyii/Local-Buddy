@@ -1,0 +1,64 @@
+[
+  {
+    "id": "coli_bangalore_1bhk_rent",
+    "city": "bangalore",
+    "category": "accommodation",
+    "item": "1BHK apartment rent",
+    "price_range": {
+      "min": 28000,
+      "max": 35000,
+      "avg": 31500
+    },
+    "neighborhood_breakdown": {
+      "indiranagar": {"price": 35000, "vibe": "trendy_central"},
+      "whitefield": {"price": 28000, "vibe": "modern_residential_tech"}
+    },
+    "compared_to_city": "ahmedabad",
+    "parity_ratio": 1.54
+  },
+  {
+    "id": "coli_bangalore_meals",
+    "city": "bangalore",
+    "category": "food",
+    "item": "Meal at mid-range restaurant",
+    "price_range": {
+      "min": 280,
+      "max": 400,
+      "avg": 340
+    },
+    "neighborhood_breakdown": {
+      "indiranagar": {"price": 400, "vibe": "trendy_central"},
+      "whitefield": {"price": 300, "vibe": "modern_residential_tech"}
+    },
+    "compared_to_city": "ahmedabad",
+    "parity_ratio": 1.54
+  },
+  {
+    "id": "coli_bangalore_transport",
+    "city": "bangalore",
+    "category": "transport",
+    "item": "Auto rickshaw for 5km",
+    "price_range": {
+      "min": 90,
+      "max": 200,
+      "avg": 150
+    },
+    "neighborhood_breakdown": {},
+    "compared_to_city": "ahmedabad",
+    "parity_ratio": 1.50
+  },
+  {
+    "id": "coli_bangalore_groceries",
+    "city": "bangalore",
+    "category": "food",
+    "item": "Monthly groceries budget for 1 person",
+    "price_range": {
+      "min": 4500,
+      "max": 9000,
+      "avg": 6900
+    },
+    "neighborhood_breakdown": {},
+    "compared_to_city": "ahmedabad",
+    "parity_ratio": 1.53
+  }
+]

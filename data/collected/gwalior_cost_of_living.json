@@ -1,0 +1,74 @@
+[
+  {
+    "id": "coli_gwalior_1bhk_rent",
+    "city": "gwalior",
+    "category": "accommodation",
+    "item": "1BHK apartment rent",
+    "price_range": {
+      "min": 6000,
+      "max": 9500,
+      "avg": 7330
+    },
+    "neighborhood_breakdown": {
+      "lashkar": {"price": 8000, "vibe": "old_city_core"},
+      "morar": {"price": 6500, "vibe": "residential"},
+      "fort_area": {"price": 7000, "vibe": "heritage_tourist"},
+      "city_centre": {"price": 9500, "vibe": "modern_commercial"},
+      "thatipur": {"price": 6000, "vibe": "academic_residential"},
+      "gole_ka_mandir": {"price": 7500, "vibe": "busy_local"},
+      "dd_nagar": {"price": 6800, "vibe": "calm_middle_class"}
+    },
+    "compared_to_city": "ahmedabad",
+    "parity_ratio": 0.69
+  },
+  {
+    "id": "coli_gwalior_meals",
+    "city": "gwalior",
+    "category": "food",
+    "item": "Meal at mid-range restaurant",
+    "price_range": {
+      "min": 110,
+      "max": 220,
+      "avg": 160
+    },
+    "neighborhood_breakdown": {
+      "lashkar": {"price": 170, "vibe": "old_city_core"},
+      "morar": {"price": 140, "vibe": "residential"},
+      "fort_area": {"price": 150, "vibe": "heritage_tourist"},
+      "city_centre": {"price": 220, "vibe": "modern_commercial"},
+      "thatipur": {"price": 130, "vibe": "academic_residential"},
+      "gole_ka_mandir": {"price": 160, "vibe": "busy_local"},
+      "dd_nagar": {"price": 140, "vibe": "calm_middle_class"}
+    },
+    "compared_to_city": "ahmedabad",
+    "parity_ratio": 0.73
+  },
+  {
+    "id": "coli_gwalior_transport",
+    "city": "gwalior",
+    "category": "transport",
+    "item": "Auto rickshaw for 5km",
+    "price_range": {
+      "min": 40,
+      "max": 100,
+      "avg": 70
+    },
+    "neighborhood_breakdown": {},
+    "compared_to_city": "ahmedabad",
+    "parity_ratio": 0.70
+  },
+  {
+    "id": "coli_gwalior_groceries",
+    "city": "gwalior",
+    "category": "food",
+    "item": "Monthly groceries budget for 1 person",
+    "price_range": {
+      "min": 2200,
+      "max": 4000,
+      "avg": 3100
+    },
+    "neighborhood_breakdown": {},
+    "compared_to_city": "ahmedabad",
+    "parity_ratio": 0.69
+  }
+]
